@@ -1,0 +1,997 @@
+                      Child Development, September/October 2006, Volume 77, Number 5, Pages 1387 ­ 1402
+
+   Mothers' and Fathers' Racial Socialization in African American Families:
+                                     Implications for Youth
+
+Susan M. McHale, Ann C. Crouter, Ji-Yeon Kim, Linda M. Burton, Kelly D. Davis, Aryn M. Dotterer,
+                                                    and Dena P. Swanson
+
+                                                       The Pennsylvania State University
+
+Mothers' and fathers' cultural socialization and bias preparation with older (M 5 13.9 years) and younger
+(M 5 10.31 years) siblings were studied in 162 two-parent, African American families. Analyses examined
+whether parental warmth and offspring age and gender were linked to parental practices and whether parents'
+warmth, spouses' racial socialization, or youth age or gender moderated links between racial socialization and
+youth outcomes. Parental warmth was linked to parents' socialization. Mothers engaged in more socialization
+with older offspring, and fathers more with sons. Mothers' cultural socialization was positively related to youth
+ethnic identity and fathers' was negatively related to youth depression symptoms. Youth exhibited a lower locus
+of control when mothers were high but fathers were low in racial socialization.
+
+Racial socialization refers to the means through                          Grounding our work in ecological and family
+which ``parents shape children's learning about their                  systems perspectives, in the present study we ex-
+own race and about relations between ethnic                            amined the family contexts of racial socialization and
+groups'' (Hughes & Johnson, 2001, p. 981) and is a                     its implications for youth. A family systems per-
+central dynamic in most African American families                      spective directs attention to similarities and differ-
+(Coard & Sellers, 2005; Sanders Thompson, 1994;                        ences in the experiences of different family members
+Stevenson, 1995; Thornton, Chatters, Taylor & Allen,                   and to reciprocal relations between subsystems in the
+1990). One reason why research on racial socializa-                    family, including the mother ­ offspring and father ­
+tion is important is because it illuminates the ways in                offspring subsystems (Whitchurch and Constantine
+which sociocultural factors are manifested in the                      1993). An ecological perspective, in turn, highlights
+family lives of children and youth: African American                   the contextual embeddedness of individuals' experi-
+parents face childrearing demands that are common                      ences. In the case of family relationships, dimensions
+to all parents, but also demands that are unique to                    of relationships may go together in different ways in
+their sociocultural group, given its history and po-                   different family contexts (e.g., Parke & Buriel, 1998),
+sition as a disadvantaged minority in the larger so-                   and objectively similar experiences may have differ-
+cial structure (e.g., Boykin & Toms, 1985; Peters,                     ent implications for individuals in different settings
+1985). The study of racial socialization is also im-                   (Bronfenbrenner & Crouter, 1983). These ideas pro-
+portant because it expands the scope of past research                  vided the foundation for this study.
+on African American youth and families, which has
+tended to focus on dysfunction and pathology (Hill,                       Specifically, focusing on a sample of two-parent
+Murry, & Anderson, 2005; McLoyd, 1998).                                African American families with two youth in middle
+                                                                       childhood and adolescence, this study was directed at
+   This work was funded by a Grant from the National Institute of      two goals. First, to illuminate the family relationship
+Child Health and Human Development, RO1-HD32336-02, Susan              contexts of racial socialization, we measured the links
+M. McHale and Ann C. Crouter, Co-Principal Investigators. We           between mothers' and fathers' warmth toward their
+thank Marni Kan, Ashleigh May, Jaime Marks, Carolyn Ransford,          offspring and their racial socialization practices, and
+Cindy Shearer, Shawn Whiteman, Megan Winchell, Sandee                  we tested whether parents differed in their socializa-
+Hemman, and Kristen Johnston and Temple University's Survey            tion of daughters versus sons or older versus younger
+Research Center for their help in conducting this study and the        offspring. As we describe below, although parents'
+participating families for their time and insights about their family  individual characteristics and experiences have been
+lives.                                                                 studied as correlates of racial socialization, we know
+                                                                       almost nothing about the relationship contexts of
+   Correspondence concerning this article should be addressed to       parents' practices. Further, given inconsistencies in
+Susan M. McHale, Department of Human Development and Fa-
+mily Studies, 105 White, Pennsylvania State University, University     r 2006 by the Society for Research in Child Development, Inc.
+Park, PA 16802. Electronic mail may be sent to x2u@                    All rights reserved. 0009-3920/2006/7705-0020
+psu.edu.
+1388 McHale et al.                                        personal characteristics and experiences of parents
+                                                          that are linked to their parenting practices. One line
+extant data on age and gender differences in youth's      of study focuses on the associations between parents'
+racial socialization (Hughes, Rodriguez, Smith, John-     socio-demographic characteristics and their sociali-
+son, & Stevenson, in press), we compared parents'         zation practices. Consistent findings are that women,
+practices with two offspring; such within-family          older parents, and parents with higher levels of
+comparisons provide for a more sensitive test of age      education and income engage in more cultural so-
+and gender differences in experiences with parents        cialization practices such as providing books about
+than do between-family comparisons of unrelated           African American history or taking children to cul-
+youth (McHale, Crouter, & Whiteman, 2003).                tural events (e.g., Hughes & Chen, 1997; Thornton et
+                                                          al., 1990). A smaller set of studies has examined
+   Our second research goal was to assess the links       parents' racial orientations and experiences and
+between mothers' and fathers' racial socialization        shows that factors such as parents' experiences of
+and youth's ethnic identity development, locus of         discrimination and their racial identity are positively
+control, and symptoms of depression. A small body         related to their socialization practices (Hughes &
+of work has begun to examine the associations be-         Chen, 1997; Thomas & Speight, 1999). Findings that
+tween racial socialization and youth functioning, but     parents' individual characteristics and experiences
+the findings are inconsistent (Hughes et al., in press).  are related to their racial socialization mean that, at
+From an ecological perspective, such inconsistencies      least in some families, mothers and fathers may
+may arise because racial socialization has different      differ in their parenting practices.
+implications in different social settings. To test this
+possibility, we built on prior research to explore the       Our family systems and ecological frameworks
+family and relationship conditions under which the        highlight that parents' socialization practices take
+linkages between racial socialization and youth           place within a relationship context. As such, it is
+functioning were more or less apparent. In addition       important to learn how racial socialization is con-
+to examining youth age and gender, we also studied        nected to other parent ­ offspring relationship dy-
+parental warmth and the racial socialization practices    namics. In this study, we focused on parental
+of the other parent as potential moderators of the        warmth as a potentially important correlate of racial
+links between mothers' and fathers' racial socializa-     socialization. Parental warmth is a key dimension of
+tion practices and youth psychosocial functioning.        parent ­ child relationships, and one that has been
+                                                          linked to a range of youth outcomes (e.g., Darling &
+   Studies of racial socialization highlight its multi-   Steinberg, 1993; Parke & Buriel, 1998). To the extent
+dimensionality (e.g., Boykin & Toms, 1985; Hughes         that racial socialization practices evolve in the con-
+& Chen, 1997; Stevenson, 1995). Most con-                 text of emotionally involved and engaged parenting,
+ceptualizations of racial socialization encompass         they may be related to the level of warmth in the
+parents' efforts to foster children's knowledge and       parent ­ child relationship. Indeed, focusing on a
+appreciation of cultural values and practices; pre-       sample of preschool children and their caregivers,
+pare children for experiences, such as discrimina-        Caughy, O'Campo, Randolph, and Nickerson (2002)
+tion, that stem from their minority status; and           found modest positive associations between indices
+socialize children for experiences in the larger so-      of involved parenting and a range of racial sociali-
+ciety, including teaching respect for a diversity of      zation practices. In addition, Frabutt, Walker, and
+cultural groups. Given that more is known about the       MacKinnon-Lewis (2002) found that moderate levels
+former two kinds of dynamics, in this paper we focus      of socialization regarding discrimination were linked
+on parents' cultural socialization, or efforts to foster  to mothers' positive parenting of young adolescents.
+youth's knowledge and appreciation of African             We built on this work, focusing on a sample of
+American culture, as well as their preparation for bias,  school- and adolescent-age youth, and testing these
+that is, efforts to build awareness of and provide        linkages separately for mothers and fathers.
+strategies for coping with prejudice and discrimina-
+tion. In the following pages, we review the literature       A systems perspective directs attention to re-
+on racial socialization in African American families      ciprocal influences in family members' relationship
+that provides the basis for our research goals.           experiences, including how children's characteristics
+                                                          affect the parenting practices of their mothers and
+Explaining Variation in Racial Socialization              fathers. Across the transition to adolescence, for ex-
+                                                          ample, parents may see that an expanding social
+   A body of work reveals that parents vary con-          world exposes their offspring to individuals from
+siderably in the extent and nature of their racial so-    other ethnic backgrounds as well as to racism and
+cialization practices. Most of this work examines the
+discrimination and that their offspring are more                  Mothers' and Fathers' Racial Socialization 1389
+aware of race-based differential treatment. In addi-
+tion, cognitive developmental advances mean that         an important direction for research is to compare
+youth may become better able to understand par-          mothers' and fathers' racial socialization practices
+ents' messages about race relations. Finally, the sal-   with boys and girls. Research on parents' gender
+ience of identity formation as a developmental task      roles suggests that parents, particularly fathers, may
+may foster youth's interest in cultural values, tradi-   be more involved in socialization activities with
+tions, and achievements. These developmental             offspring of their own gender (McHale et al., 2003);
+changes may elicit more and different racial sociali-    in the case of racial socialization as well, parents may
+zation practices on the parts of parents as youth        ``specialize'' in the socialization of same-sex off-
+mature (Hughes & Chen, 1997; Hughes & Johnson,           spring. To test this idea we used a within-family
+2001; Quintana, 1998). Extant data suggest that age      design, which allowed us to compare how mothers
+differences in racial socialization are most apparent    and fathers from the same families socialized their
+when samples include adolescents or youth from a         sons versus their daughters.
+broad age span (e.g., Fatimilehin, 1999); further, age
+effects are more consistent in parental socialization    Links Between Racial Socialization and Youth
+about discrimination than in cultural socialization      Psychosocial Functioning
+(e.g., Hughes & Chen, 1997). In our analysis of the
+role of offspring age in parents' practices, we ex-         A growing body of work examines the potential
+panded on extant research in two ways. First, given      implications of parents' racial socialization practices
+that studies to date have focused mostly on mothers      for their offspring. One set of studies is grounded in
+or asked youth about ``parents'' in general, we as-      the hypothesis that parents who highlight issues of
+sessed the role of offspring age in the socialization    race and ethnicity in their socialization practices will
+practices of both mothers and fathers. Second, our       have offspring with stronger or more mature ethnic
+within-family design allowed us to test whether          identity. By making culture salient and by providing
+mothers' and fathers' practices varied for older and     instruction about cultural practices and the
+younger offspring in the same family. Because such a     achievements of group members, parents build pride
+within-family approach controls for other char-          and knowledge of cultural traditions and values that
+acteristics, it provides for a more sensitive test of    underlie youth's ethnic identity; children may also
+mother ­ father and offspring age differences in par-    model their parents' identification with their cultural
+ental practices.                                         group (e.g., Sanders Thompson, 1999). Although
+                                                         some studies have not found linkages between par-
+   Parents may also differ in the socialization stra-    ents' racial socialization and youth's ethnic identity
+tegies they use with their sons versus their daugh-      (e.g., Phinney & Chavira, 1995), most studies have
+ters. These differences may emerge because boys and      detected such associations in samples of African
+girls face different challenges as they are growing up,  American children and adolescents (e.g., Marshall,
+and also because parents hold different expectations     1995; Spencer, 1983; Stevenson, 1995) as well as in
+for their sons' and daughters' adult roles and ex-       retrospective reports by African American adults
+periences. For instance, the stereotypically feminine    (Sanders Thompson, 1994, 1999). One possibility is
+role of kin keeper may mean that girls are subject to    that racial socialization's effects on ethnic identity
+more socialization around cultural traditions and        vary as a function of the specifics of parents' mes-
+values (Hagestad, 1986). In contrast, minority males'    sages. Based on their review of the literature, for
+more frequent experiences of racial discrimination       example, Hughes et al. (in press) concluded that the
+(e.g., Fischer & Shaw, 1999; Stevenson, Cameron,         link between cultural socialization and youth ethnic
+Herrero-Taylor, & Davis, 2002) may make parents          identity is among the most well-documented im-
+more concerned with preparing sons as compared           plications of parents' racial socialization; in contrast,
+with daughters for such experiences. Indeed, al-         the link between preparation for bias and ethnic
+though findings of gender differences in racial so-      identity is less clear cut. As noted, however, most
+cialization are less consistent than findings of age     studies focus on mothers' racial socialization, and we
+differences, Hughes et al. (in press) concluded that     may find that different patterns emerge when fathers
+boys may receive more socialization messages about       are included: Given that African American males
+discrimination, and girls, more messages about ra-       have more experience with discrimination than do
+cial pride. A limitation of this work, however, is that  African American females (Stevenson et al., 2002),
+most studies have focused on mothers or asked            fathers' role in preparing offspring for bias may be
+youth about their ``parents'' in a general way. Thus,    more important in youth ethnic identity than is
+                                                         mothers'.
+1390 McHale et al.                                        the majority culture (Fischer & Shaw, 1999; Ste-
+                                                          venson et al., 2002). By studying the implications of
+   Another set of studies on the implications of racial   both mothers' and fathers' practices in the present
+socialization addresses the links between parental        study, we may find that fathers play a uniquely im-
+practices and youth adjustment. Working within a          portant role in racial socialization.
+risk and resilience framework, scholars have argued
+that racial socialization builds pride in and a sense of     Another limitation is extant studies' reliance on
+belonging to a racial group and may help youth to         self-reports from one family member (Coard & Sell-
+develop strategies for coping with racism. In these       ers, 2005; Hughes et al., in press). When parents or
+ways, racial socialization may protect youth from the     youth provide information on both racial socializa-
+sequelae of negative experiences associated with          tion practices and youth ``outcomes,'' associations
+minority status such as personal and vicarious ex-        may be inflated because of reporter bias. For this
+periences of discrimination, negative images of           reason, we relied on information on racial socializa-
+African Americans, and inequalities in the distribu-      tion collected from mothers and fathers, and in-
+tion of opportunities and resources in the larger so-     formation about ethnic identity and adjustment
+ciety (Hughes & Chen, 1997; Miller, 1999; Stevenson,      collected from youth.
+Reed, Bodison, & Bishop, 1997). Importantly, how-
+ever, some forms of racial socialization may give rise       From an ecological perspective, an important di-
+to adjustment problems as when, for example, youth        rection for research on racial socialization is to learn
+come to expect unfair treatment or see limits to their    more about the conditions under which parents' prac-
+opportunities (Rumbaut, 1994; Stevenson et al.,           tices have implications for youth. Inconsistent find-
+1997). As such, research on the adjustment implica-       ings across studies may emerge because racial
+tions of racial socialization must take into account      socialization has different implications for youth
+the nature of parents' socialization messages             with different characteristics and from different so-
+(Hughes et al., in press).                                cial settings. We studied offspring age and gender as
+                                                          two child characteristics that may moderate the links
+   In the face of its theoretical and practical sig-      between racial socialization and youth outcomes.
+nificance, the empirical literature on the links be-      With respect to age, racial socialization may have
+tween racial socialization and youth functioning          more positive implications for older offspring who
+remains small, and the results are inconsistent. As       have the maturity to understand parents' messages
+noted, some investigators have found negative ad-         and who are in a position to use those messages as
+justment correlates of socialization that promote         they negotiate the world beyond the family. With
+youth's orientations toward the majority culture          respect to gender, parents may specialize in racial
+(Constantine & Blackmon, 2002) or that highlight          socialization with same-sex offspring, and messages
+racial barriers and discrimination (Ogbu, 1974;           from same-sex parents may have special credibility
+Rumbaut, 1994), and a handful have found no youth         for youth.
+well-being correlates of racial socialization (e.g.,
+Johnson, 2001; Phinney & Chavira, 1995). Most stud-          To shed light on how other family dynamics
+ies of cultural socialization, however, document          provide a context for racial socialization, we also
+modest positive associations between racial sociali-      studied each parent's warmth and the racial sociali-
+zation and positive adjustment (Bowman & Howard,          zation practices of the other parent as potential
+1985; Murry & Brody, 2002; Scott, 2003), and negative     moderators of mothers' and of fathers' socialization
+associations between racial socialization and adjust-     practices. Darling and Steinberg's (1993) hypothesis
+ment problems (Constantine & Blackmon, 2002;              about the role of the emotional tone of the parent ­
+Stevenson et al., 1997).                                  offspring relationship in child socialization was the
+                                                          grounding of our focus on parental warmth as a
+   There are several limitations to this literature,      moderator of the link between racial socialization
+however. First, virtually all work has focused on         and youth functioning. Specifically, these authors
+mothers' socialization and, with some important           proposed that parental practices are more effective
+exceptions (e.g., Johnson, Brown, Wayumba, Choi, &        when the emotional climate of the parent ­ child re-
+Hunter, 2005), we know little about the implications      lationship is positive, because such a climate pro-
+of African American fathers' socialization practices      motes youth's willingness to be socialized. As such,
+for youth. Findings from the larger literature on fa-     the combination of high parental warmth and high
+thers, however, highlight fathers' role in connecting     involvement in racial socialization should give rise
+offspring to the world outside the family (Parke &        to stronger ethnic identity and more positive well-
+Buriel, 1998); in addition, as noted, prior work in-      being in youth because youth will be more likely
+dicates that African American males have different        to attend to and assimilate parents' socialization
+experiences than African American females vis-a`-vis
+messages, for example, about pride in their heritage               Mothers' and Fathers' Racial Socialization 1391
+and effective strategies for coping with unfair
+treatment.                                                socialization, we did not seek a representative sam-
+                                                          ple. Rather, we sought families that self-identified as
+   Research on co-parenting provides another sce-         being Black or African American and included both
+nario on the conditions under which racial sociali-       a mother and father who were living together and
+zation will have implications for offspring. Co-          rearing at least two middle-childhood ­ adolescence-
+parenting is a family systems construct that refers       aged offspring.
+to the extent to which mothers and fathers work
+together in the tasks of childrearing, including sup-        To generate the sample, we targeted two con-
+porting one another in their parenting roles, backing     tiguous urban centers on the eastern seaboard that
+up one another in their childrearing decisions and        census data revealed had substantial African Amer-
+disciplinary practices, and conveying consistent so-      ican populations; within the zip code areas from
+cialization messages to their offspring (Feinberg,        which we recruited, 38% of households included
+2003). An emerging body of research documents that        married African American parents with at least one
+such teamwork by parents is linked to positive youth      child between 6 and 17 years of age (U.S. Census,
+adjustment (e.g., Margolin, Oliver, & Medina, 2001).      2001). We used two strategies for recruiting families.
+Although the co-parenting construct has not yet been      First, we hired African Americans residing in the
+applied to the study of racial socialization, the ex-     targeted communities to recruit families by posting
+isting literature led us to expect that, when two         flyers in local businesses, providing information on
+parents convey the same racial socialization mes-         the study to local churches, and distributing flyers at
+sages to offspring, the message will be more readily      youth activities. Interested families then contacted
+learned. Mismatches between parents' practices, in        the recruiters who passed on their names to the
+contrast, may reflect differing perspectives or even      project office. Approximately half the sample was
+overt conflicts between parents about the importance      recruited using this procedure. We also purchased a
+of racial socialization; in some families, one parent     marketing firm list that included names and ad-
+may also intensify his or her racial socialization ac-    dresses of African American students in grades 4 ­ 7
+tivities when the other parent is seen as uninvolved.     who lived in the geographic region of interest. We
+Grounding our ideas in extant research and theory         sent letters to families that described the study and
+on co-parenting, we tested whether the implications       included an 800 number to call and a postcard to
+of parents' racial socialization practices depended on    return to the project office if the family fit the study
+the practices of the spouse. First, we expected that,     criteria and was interested in participating. Because
+when both parents were highly involved in racial          the marketing firm could not determine family
+socialization, youth would report stronger ethnic         structure or either presence or age of siblings, how-
+identities. In addition, given findings from prior re-    ever, many letters went to families that did not meet
+search on the negative adjustment implications of         project criteria. Of 1,796 letters sent, 131 were re-
+interparental disagreements, we also anticipated that     turned by the post office as undeliverable. Of the 142
+mismatches between fathers' and mothers' practices        families that expressed interest, 93 were eligible and
+would be linked to lower levels of locus of control       49 ineligible. Of those eligible, 86 of the families re-
+and higher levels of depression symptoms in youth.        cruited via the marketing list were interviewed and 7
+Importantly, our focus on the patterning of mothers'      were not either because the family could not be lo-
+and fathers' racial socialization practices is con-       cated based on the information provided on their
+sistent with the call to study racial socialization as a  postcards or because the family was too busy.
+multidimensional phenomenon (Coard & Sellers,
+2005).                                                       The characteristics of the 162 participating fa-
+                                                          milies are shown in Table 1. Families were generally
+                             Method                       working and middle class based on family income
+                                                          and parent education, and the majority (80%) in-
+Participants                                              cluded two or three children (M 5 2.81, SD 5 1.18,
+                                                          range 5 2 ­ 8 children); in families with more than
+   The data came from fathers, mothers, and two           two children, we focused on the two who were in our
+offspring in 162 families that were participating in      age range and proximal in birth order. Most parents
+the first phase of a short-term longitudinal study of     were employed (98% of both mothers and fathers),
+gender socialization and development in two-parent,       with mothers working an average of 33.48 hr/week
+Black/African American families. Given the goals of       (SD 5 17.46) and fathers working an average of
+the larger investigation, a study of family gender        44.22 hr (SD 5 18.00). Mothers' job prestige averaged
+                                                          48.31 (SD 5 11.87) and fathers' averaged 47.12
+                                                          (SD 5 13.33) based on the National Opinion Research
+1392 McHale et al.
+
+Table 1                                                            milies in which youth were not living with always-
+Means, Standard Deviations, and Percentages for Background Char-   married parents, couples had been living together
+acteristics of the Sample (N 5 162)                                for at least 4 years.
+
+Variables                       M SD %                             Procedures
+
+Fathers' educationa                   14.27          2.37             Mothers, fathers, and two youth from each family
+Mothers' educationa                   14.67          1.84          were interviewed in their homes by a team of two
+Family incomeb                  $90,105.00   $57,805.00            interviewers, almost all of whom were African
+Parents' years living together        15.62          6.00          American. The interviews began with a brief de-
+Older siblings' age                   13.95          1.99          scription of the study and a review of informed
+Younger siblings' age                 10.31          1.10          consent procedures. Then, family members were
+Fathers' age                          43.70          6.93          interviewed individually. To maintain interest, in-
+Mothers' age                          41.00          5.65          terviewers used a variety of procedures, including
+% Biological mothers of                                            card sorts, response cards, and questionnaires; in the
+older siblings                                             92.60   case of children under age 13 and family members
+% Biological mothers of                                            with reading difficulties, all questions were pre-
+younger siblings                                           95.70   sented orally. For all measures, except the index of
+% Biological fathers of                                            depression symptoms, family members were asked
+older siblings                                             79.00   to report on their experiences during the past year.
+% Biological fathers of                                            Parent interviews lasted about 2 hr and youth inter-
+younger siblings                                           85.20   views lasted about 1 hr. Following completion of the
+                                                                   interviews, families were sent a $200 honorarium.
+aNote. 12 5 high school graduate, 14 5 some college, 16 5 college
+graduate.                                                             In the recruitment process, families self-identified
+bSum of mothers' plus fathers' income; 10 mothers and 14 fathers   as Black or African American. At the beginning of
+refused to report their income.                                    each individual interview, family members were
+                                                                   asked whether they preferred to refer to themselves
+Council's codes; jobs in this range include teacher's              as Black or as African American, and that term was
+aide (48.75), dental assistant (47.80), and police/de-             used to refer to the family member during the re-
+tective (47.68). Although the average family income                mainder of the interview. In addition, youth who
+in this sample was almost $90,000, the range was                   were not growing up with two biological parents
+considerable ($3,500 ­ $525,000). We also calculated               were asked how they wished to refer to their parent
+income-to-needs ratios. The average family had an                  figures, and these terms were used during the re-
+income 4.43 times higher than the poverty level for                mainder of the interview.
+families of their size, but again, the range was con-
+siderable (SD 5 2.96). Families also came from a                   Measures
+wide range of communities. School data, for ex-
+ample, indicated that the schools youth attended                      Racial socialization was assessed using two sub-
+varied in their racial composition from less than 5%               scales from a measure developed by Hughes and
+to 100% minority enrollment; the average youth in                  Chen (1997) that assessed cultural socialization (5
+this sample attended a school in which about two                   items; e.g., ``I've read or provided Black history
+thirds of the students were African American.                      books to my child'') and preparation for bias (7
+                                                                   items; e.g., ``I've talked to my children about ra-
+   With respect to target youth, as Table 1 indicates,             cism''). For each item, parents used a 6-point rating
+youth were in middle childhood and adolescence.                    scale that ranged from never to very often, to describe
+The sample was approximately equally divided                       their socialization practices; at separate points in the
+based on the sex constellation of the sibling dyad and             interview, each parent reported on their practices
+included n 5 165 girls (older and younger siblings                 with their older and younger child. Reliability of the
+combined) and n 5 159 boys. As Table 1 also shows,                 scales was satisfactory: Cronbach's as ranged from
+the majority of youth were biologically related to                 .80 (mothers' reports of cultural socialization with
+both parents, although more often related to mothers               older child) to .90 (fathers' preparation for bias with
+than fathers; in six families, youth were living with              older child). Parents' reports of racial socialization
+couples other than their biological, step, or adoptive             with their two children were highly correlated, ran-
+parents (e.g., grandparents; aunts and uncles). With               ging from r 5.75, po.01 for mothers' preparation for
+respect to couple relationships, 15 sets of parents
+were cohabiting and the rest were married. In fa-
+bias with their older and younger children, to r 5.88,              Mothers' and Fathers' Racial Socialization 1393
+po.01 for fathers' cultural socialization.
+                                                              Family background information, including family
+   Parental warmth was measured using an 8-item            members' birth dates and levels of education, in-
+scale from the parent version of the Child's Report of     formation about the couple relationship (marital sta-
+Parental Behavior Inventory (Schwarz, Barton-              tus, duration of co-residence), information about
+Henry, & Pruzinsky, 1985). For each item (e.g., ``I am     youth's relationship to each parent and to one another,
+a person who makes my child feel better after talking      and information about parents' employment (status,
+over his/her worries with me''), parents used a 5-         occupation, income), was provided by parents.
+point scale (1 5 not at all to 5 5 very much) to describe
+their relationships during the past year with their                                      Results
+older and younger child, respectively. Cronbach's as
+ranged from .83 (mothers' reports of warmth with           The results are organized around our research goals.
+older child) to .89 (fathers' reports of warmth with       First, we tested whether parental warmth was linked
+older child), and mothers' and fathers' ratings were       to mothers' and fathers' cultural socialization and
+not highly correlated, r 5.24, po.01 and r 5 .12, ns,      preparation for bias, and whether practices varied as
+for older and younger offspring.                           a function of offspring's age or gender. We then ex-
+                                                           amined the links between mothers' and fathers' ra-
+   Youth ethnic identity was assessed using the Mul-       cial socialization practices and youth's ethnic
+tigroup Ethnic Identity Measure (Phinney, 1992). For       identity, locus of control, and depression symptoms,
+each of 10 items, youth used a 4-point scale               and we tested the potential moderating roles of
+(1 5 strongly disagree; 4 5 strongly agree) to rate how    parental warmth, the other parent's racial socializa-
+well the item described them over the past year (e.g.,     tion, offspring age, and offspring gender in these
+``I feel a special connection to other African Amer-       linkages.
+icans/Blacks''; ``I am happy that I am African
+American/Black''). Although the ten items originally       Links Between Racial Socialization and Parental Warmth
+came from two subscales (Affirmation and Belong-
+ing and Ethnic Behaviors and Practices), the scales           In a preliminary step, we used one-way analyses
+were highly correlated, r 5.51, po.01 for older sib-       of variance (ANOVAs), with parent as a within-
+lings and r 5 .62, po.01 for younger siblings, and         groups factor, to compare fathers' and mothers'
+therefore combined such that high scores reflect a         racial socialization practices. Given the high corre-
+stronger and more positive orientation to African          lation between parents' practices with their older
+Americans and their culture. Cronbach's as were .73        and younger offspring and our focus on offspring
+for older and .80 for younger siblings' ethnic identity,   age in later analyses, for this descriptive purpose, we
+and siblings' reports were uncorrelated, r 5 À.01, ns.     used the means of each parent's preparation for bias
+                                                           and cultural socialization with their two offspring as
+   Youth locus of control was assessed using the 21-       the dependent variables in these analyses. A sig-
+item version of the Nowicki ­ Strickland Internal ­        nificant parent effect emerged for cultural socializa-
+External Control Scale for Children (Nowicki &             tion, F(1, 161) 5 45.08, po.001, M 5 17.95, SD 5 5.94
+Strickland, 1973). On this measure, youth indicated        and M 5 21.38, SD 5 5.13 for fathers and mothers,
+whether they agreed or disagreed (1 5 yes, 2 5 no)         respectively, and a trend emerged for preparation for
+with statements such as, ``Most problems will solve        bias, F(1, 161) 5 2.77, po.10, M 5 26.73, SD 5 7.27
+themselves if I just don't fool with them.'' Cron-         and M 5 27.79, SD 5 6.26 for fathers and mothers. As
+bach's as were .71 for older and .68 for younger           these means indicate, parents' ratings were above the
+siblings, and siblings' reports were correlated,           midpoint of the 6-point rating scale, indicating that
+r 5.25, po.01.                                             on average, parents ``sometimes'' engaged in these
+                                                           practices, and mothers reported more frequent racial
+   Youth depressive symptoms were assessed using the       socialization than fathers, particularly in the case of
+10-item version of the Children's Depression In-           cultural socialization. In a second preliminary step,
+ventory (Kovacs, 1981). For each item, youth chose         we examined the correlations between mothers' and
+one of three statements that best represented their        fathers' socialization practices. These analyses re-
+feelings over the past week, e.g., ``I am sad once in      vealed only modest positive associations between
+awhile,'' ``I am sad many times,'' or ``I am sad all the   mothers' and fathers' reports of cultural socializa-
+time.'' Reliabilities for the depression scale were .76    tion, r 5 .32, po.01, and preparation for bias, r 5.28,
+and .72 for older and younger siblings, respectively,      po.01. In some families, mothers and fathers may
+and siblings' reports were uncorrelated, r 5.06, ns.       differ in their practices, and in other families parents'
+Owing to skewness on this measure we used square           practices may be more similar.
+root-transformed scores.
+1394 McHale et al.                                                                           At Level 1, the within-family model, explanatory
+                                                                                          variables were unique to each sibling and included
+   To study how parental warmth and youth age and                                         mothers' and fathers' warmth as well as offspring's
+gender were linked to parents' racial socialization, we                                   gender (0 5 female, 1 5 male) and age. In this sample,
+tested a series of multilevel models (MLM), examining                                     youth age was confounded with birth order, r 5.74,
+mothers' and fathers' cultural socialization and prep-                                    po.001, and thus both factors could not be included
+aration for bias in separate analyses, using the                                          in the models. At Level 2, the between-family model, we
+Hierarchical Linear and Nonlinear Modeling Statis-                                        included variables that were common to both sib-
+tical Package (HLM version 5.05; Raudenbush, Bryk,                                        lings. Specifically, as control variables at this level,
+Cheong, & Congdon, 2003). MLM extends multiple                                            we included mother and father age, mother and fa-
+regression to take into account the nonindependence                                       ther education, and a dummy code to index off-
+associated with nested data, in our case, sibling data.                                   spring relatedness (0 5 full siblings, 1 5 other). We
+Prior studies of age and gender differences in youth's                                    also included mean age and mean gender of off-
+racial socialization experiences have relied on be-                                       spring at Level 2 so that we could separate within-
+tween-family comparisons; an MLM approach, in                                             family age and gender effects from between-family
+contrast, allowed us to test whether gender and age                                       effects. The results for the model tests are shown in
+differences between siblings were linked to differences                                   Table 2, and the equations for the model appear in
+between siblings' racial socialization experiences.                                       the Appendix. In reporting the results, we focus on
+Specifically, we took advantage of the MLM frame-                                         effects at po.05, but consider trend level effects
+work, structuring our analysis to focus on the corre-                                     (po.10) when these were consistent with results
+lates of within-family differences; this focus is not                                     from prior research or with a larger pattern of sig-
+inherent in multilevel models, but as described below,                                    nificant findings.
+requires only a minor elaboration (see Jacobs, Lanza,
+Osgood, Eccles, & Wigfield, 2002).
+
+Table 2
+Coefficients, Standard Errors, and T Ratios for Links Between Parental Warmth and Mothers' (M) and Fathers' (F) Racial Socialization
+
+                                                  Mothers' cultural     Mothers' preparation for       Fathers' cultural        Fathers' preparation for
+                                                     socialization                    bias               socialization                       bias
+
+                                                  B     SE t ratio                 B      SE t ratio   B         SE t ratio     B       SE t ratio
+
+Fixed effects            21.69ÃÃ 0.45 47.82 28.34ÃÃ 0.59 47.97 17.57ÃÃ 0.52 34.10 26.24ÃÃ 0.64 40.77
+   Intercept
+
+Level 1                    0.14Ã                        0.06 2.45 0.97ÃÃ 0.10 10.11 À 0.03 0.06 À 0.54                          0.08    0.10  0.88
+   Youth age             À 0.28                                                                        0.65Ã 0.34               1.30Ã   0.52  2.50
+   Youth gender                                         0.32 À 0.88 À 0.27                0.53 À 0.52                     1.92  0.84    0.65  1.29
+   M warmth                0.89Ã                        0.42 2.12 2.29ÃÃ 0.64 3.59 0.10 0.45 0.22                               2.52ÃÃ  0.54  4.63
+   F warmth                0.17                         0.35 0.49 0.04 0.53 0.07 1.38ÃÃ 0.37 3.71
+
+Level 2                    0.10                         0.32 0.32 À 0.80w                 0.41 À 1.96 0.13       0.37 0.35 0.24         0.45 0.53
+   Youth agea            À 2.19w                        1.15 À 1.90 À 1.55                1.48 À 1.05 À 2.74Ã    1.32 À 2.08 À 3.47Ã    1.63 À 2.14
+   Youth gendera
+
+M age                      0.10                         0.12 0.80 À 0.14                  0.15 À 0.91 À 0.11     0.14 À 0.77 À 0.03     0.17 À 0.20
+F age                                                                                     0.12 1.17 0.23Ã        0.11 2.10 0.23w        0.13 1.76
+M education              À 0.08                         0.09 À 0.85                0.14                                                 0.34 À 0.65
+F education                0.46w                        0.24 1.91                  0.56w  0.30 1.83 À 0.16 0.28 À 0.57 À 0.22           0.26 0.89
+Biological relatednessb    0.32w                                                          0.23 0.71 0.63ÃÃ 0.21 2.94 0.23               1.45 À 0.55
+                                                        0.19 1.73 0.16
+                         À 0.93                         1.04 À 0.89 À 2.31w               1.30 À 1.77 0.38 1.20 0.31 À 0.80
+
+                  Variance                              SD              Variance          SD           Variance    SD Variance SD
+
+Variance components
+
+Residual             4.07                               2.02            10.98             3.31         4.47        2.11            10.72      3.27
+Intercept            21.58ÃÃ                            4.65            31.33ÃÃ           5.60         28.88ÃÃ     5.37            40.14ÃÃ    6.34
+
+aNote. Family-level age and gender were included as covariates to capture within-family differences beyond between-family effects.
+b0 5 full
+wpo.10;    Ãsipbolin.0g5; ;1Ã5Ãpooth.e0r1(.e.g.,  half  sibling,  step  sibling).
+   Parental warmth, youth characteristics, and mothers'            Mothers' and Fathers' Racial Socialization 1395
+racial socialization. Maternal warmth was a positive
+and significant correlate of mothers' cultural socia-     models. These preliminary analyses also revealed no
+lization (see Table 2). Offspring age was also sig-       evidence that offspring gender moderated the links
+nificant at Level 1, indicating that mothers engaged      between racial socialization and youth functioning,
+in more cultural socialization with older as com-         but some evidence of the moderating effects of age.
+pared with younger siblings. Among the control            Accordingly, in the final models we included off-
+variables, both mothers' and fathers' education were      spring gender only as a control variable, but retained
+linked, at trend level, to maternal cultural socializa-   the interaction between youth age and racial socia-
+tion. Turning to mothers' preparation for bias, the       lization. Finally, there were no significant three-
+analyses again revealed a positive effect for maternal    way interactions, so these were excluded from the
+warmth, a positive effect for offspring age, and a        models.
+trend-level positive effect for the control variable,
+maternal education.                                          We conducted an additional set of preliminary
+                                                          analyses examining the implications of mothers' and
+   Parental warmth, youth characteristics, and fathers'   fathers' socialization practices in separate models to
+racial socialization. Fathers' reports of warmth were     ascertain whether including indices of both parents'
+positively and significantly related to their cultural    practices in the same model altered the pattern of
+socialization practices (see Table 2). There also was an  results (e.g., due to multicollinearity, suppressor ef-
+effect at Level 1 for offspring gender, indicating that   fects). The results for paternal and maternal practices
+fathers engaged in more cultural socialization with       did not differ when these factors were examined in
+their sons than with their daughters. In addition, at     separate versus combined models, therefore, we re-
+Level 2, fathers' education and age were significant      port only the results from the models that include
+positive covariates. With respect to fathers' prepara-    measures of both parents' practices as predictors.
+tion for bias, paternal warmth was again a positive
+and significant predictor and a gender effect in-            To study the implications of racial socialization
+dicated that fathers engaged in more bias prepara-        practices for youth's ethnic identity, locus of control,
+tion with their sons than with their daughters.           and depression symptoms, the Level 1 model in-
+Fathers' age also was a trend level positive predictor.   cluded offspring's age and gender, mothers' and fa-
+                                                          thers' warmth, mothers' and fathers' racial
+Parents' Racial Socialization and Youth Psychosocial      socialization, the two-way interactions between off-
+Functioning                                               spring age and each parent's racial socialization
+                                                          practices, and the two-way interaction between fa-
+   To address our second goal, we used an MLM             thers' and mothers' practices. The Level 2 model
+strategy to test a series of two-level models focused     included the control variables common to both sib-
+on the implications of parents' cultural socialization    lings (parental education, parental age, and the
+and preparation for bias for youth's ethnic identity,     dummy code for offspring relatedness). The equa-
+locus of control, and depression symptoms. In an          tions for this model are shown in the appendix, and
+effort to simplify presentation of the results and so as  the results are shown in Tables 3 (cultural socializa-
+to exclude nonsignificant interaction terms (which        tion) and 4 (preparation for bias).
+contribute to increases in standard errors; Aiken &
+West, 1991), we ran a preliminary set of analyses that       Cultural socialization and youth functioning. Begin-
+tested the potential moderating roles of parental         ning with youth ethnic identity, the findings revealed
+warmth, spouses' racial socialization, offspring          that mothers' cultural socialization was a positive
+gender, and offspring age. Contrary to our hypoth-        and significant correlate (Table 3). No other effects
+esis, these tests revealed no significant interactions    were significant. Turning to youth's locus of control,
+between racial socialization and parental warmth,         the analyses revealed a significant interaction be-
+that is, no evidence of stronger links between par-       tween mothers' cultural socialization and fathers'
+ental practices and youth functioning under condi-        cultural socialization. As Figure 1 shows, and a
+tions of high parental warmth. In contrast, we found      simple slopes test revealed, when fathers engaged in
+some evidence for a moderating role of spouses'           low levels of cultural socialization, youth scored
+racial socialization. Accordingly, parental warmth        higher in locus of control if their mothers also en-
+was included only as a control variable, but we re-       gaged in low levels of cultural socialization,
+tained the interaction between mothers' racial            B 5 À .13, po.01. When fathers engaged in high lev-
+socialization and fathers' racial socialization in the    els of cultural socialization, in contrast, youth locus
+                                                          of control did not vary as a function of maternal
+                                                          practices. In other words, consistent with our
+                                                          prediction about interparental congruence, youth
+                                                          reported a higher locus of control when both
+1396 McHale et al.
+
+Table 3
+Coefficients, Standard Errors, and T Ratios for Links Between Mothers' (M) and Fathers' (F) Cultural Socialization (Cultural) and Youth Outcomes
+
+                                                               Ethnic identity                                         Locus of control                Depressiona
+
+                                                               B SE t ratio B SE t ratio B SE t ratio
+
+Fixed effects                                             3.26ÃÃ  .04           77.00                          33.94ÃÃ .32 105.93        1.04ÃÃ            .08      13.13
+   Intercept
+
+Level 1                                              À 0.01       .01 À 0.98                                   0.37ÃÃ    .08             4.64 À 0.02       .02 À 0.95
+                                                     À 0.09       .06 À 1.62 À 0.86Ã                                                                       .10 À 0.04
+   Youth age                                                                                                             .40 À 2.16 À 0.00
+   Youth genderb
+
+M warmth                                                  0.01 .05 0.11 0.03 .41 0.06 À 0.02 .10 À 0.16
+
+F warmth                                                  0.04    .05           0.90 0.53                                .36 1.46 À 0.08                   .09 À 0.85
+M cultural                                                0.02ÃÃ  .01           3.05 À 0.04                                                                .01 0.65
+F cultural                                                                                                               .04 À 0.89      0.01              .01 À 2.36
+M Â F cultural                                                                                                           .04 0.23 À 0.02Ã                  .00 0.03
+                                                     À 0.00       .01 À 0.72                                   0.01
+                                                       0.00       .00 0.01                                     0.01Ã     .01 2.06 0.00
+
+Age Â M cultural                                          0.00 .00 1.13 0.01 .01 0.56 0.00 .00 0.56
+
+Age Â F cultural                                          0.00 .00 0.38 À 0.02 .01 À 1.60 0.00 .00 0.51
+
+Level 2
+
+M age                                                À 0.01 .01 À 0.69 0.06 .07 0.91 0.00 .02 0.11
+
+F age                                                À 0.00 .01 À 0.32 À 0.03 .05 À 0.49 0.00 .01 0.27
+
+M education                                          À 0.03       .02 À 1.44                                   0.10      .14             0.71 0.01         .03 0.43
+                                                                  .01 0.82                                     0.37ÃÃ    .11             3.37 À 0.04w      .03 À 1.72
+F education                                            0.01       .08 À 1.73                                   0.87      .60                               .14 À 0.89
+Biological relatednessc                              À 0.13w                                                                             1.46 À 0.13
+
+                                                     Variance          SD                                      Variance       SD         Variance                   SD
+
+Variance components
+
+Residual .24 .49 10.04 3.17 .74 .86
+                                                                                                               2.64ÃÃ
+Intercept                                            .00               .02                                                    1.63                    .06           .25
+
+Note. aSquare root transformation used to correct skewness.
+bGirls are the reference group.
+c0 5 full sibling; 1 5 other (e.g., half sibling, step sibling).
+wpo.10; Ãpo.05; ÃÃpo.01.
+
+mothers and fathers were highly involved or less                                                               more cultural socialization. In addition to this inter-
+involved in cultural socialization. Inconsistent with                                                          action, these analyses revealed that girls, older off-
+our prediction, youth also reported higher locus of                                                            spring, and youth whose fathers had higher levels of
+control when fathers but not mothers engaged in                                                                education reported a higher locus of control. Finally,
+                                                                                                               with respect to youth's depression symptoms, we
+Youth Locus of Control  38                                                                                     found that fathers' cultural socialization was a ne-
+                                                                         Low Fathers' Cultural Socialization   gative correlate: When fathers reported more cul-
+                                                                         High Fathers' Cultural Socialization  tural socialization, youth reported fewer depression
+                                                                                                               symptoms.
+                        36
+                                                                                                                  Preparation for bias and youth functioning. In terms
+                        34                                                                                     of ethnic identity, the findings revealed that fathers'
+                                                                                                               socialization was a positive, trend-level predictor
+                        32                                                                                     (Table 4). Findings for youth's locus of control re-
+                                                                                                               vealed that mothers' bias preparation was negatively
+                        30                                             High                                    related to youth locus of control, but this main effect
+                                                Low                                                            was qualified by an interaction between mothers'
+                                                                                                               socialization and fathers' socialization. As Figure 2
+                            Mothers' Cultural Socialization                                                    shows, consistent with the findings for cultural so-
+                                                                                                               cialization and with our prediction about inter-
+Figure 1. Interaction between mothers' and fathers' cultural so-                                               parental consistency, youth reported lower locus of
+cialization predicting youth locus of control.                                                                 control when their mothers but not their fathers were
+                                                                                                                             Mothers' and Fathers' Racial Socialization 1397
+
+Table 4
+Coefficients, Standard Errors, and T Ratios for Links Between Mothers' (M) and Fathers' (F) Preparation for Bias (Bias) and Youth Outcomes
+
+                                          Ethnic identity                                                            Locus of control                Depressiona
+
+                                 B SE t ratio B SE t ratio B SE t ratio
+
+Fixed effects                    3.27ÃÃ   .04              76.39                                                     34.03ÃÃ .32 105.92  1.04ÃÃ      .08          13.09
+   Intercept
+
+Level 1                          À 0.01   .01 À 1.04                                                                 0.45ÃÃ  .08       5.35 À 0.03   .02 À 1.39
+                                 À 0.10w  .06 À 1.79 À 0.82Ã                                                                                         .10 0.16
+   Youth age                                                                                                                 .39 À 2.10  0.02
+   Youth genderb
+
+M warmth                         À 0.01 .06 À 0.11 0.18 .42 0.44 À 0.04 .10 À 0.40
+
+F warmth                           0.01   .05 0.21 0.54                                                                      .37 1.46 À 0.09         .09 À 0.98
+M bias                                    .00 0.66 À 0.07Ã                                                                                           .01 1.90
+F bias                             0.00                                                                                      .03 À 2.07  0.02w       .01 À 1.61
+M Â F bias                         0.01w                                                                                                             .00 À 1.15
+                                 À 0.00   .00 1.66                                                                   0.02    .03 0.54 À 0.01
+                                          .00 À 0.74                                                                 0.01Ã
+                                                                                                                             .00 2.00 À 0.00
+
+Age Â M bias                     0.00 .00 0.21 À 0.01 .01 À 1.16 0.00 .00 0.31
+Age Â F bias
+                                 0.00     .00              0.34 À 0.02w                                                      .01 À 1.75  0.00        .00          0.76
+
+Level 2
+
+M age                            À 0.00 .01 À 0.36 0.03 .07 0.38 0.01 .02 0.45
+
+F age                            À 0.01   .01 À 0.83 À 0.01                                                                  .05 À 0.15 À 0.00       .01 À 0.03
+
+M education                      À 0.02   .02 À 1.04                                                                 0.14    .14       0.97 0.01     .03 0.21
+                                          .01 1.02                                                                   0.36ÃÃ  .11       3.25 À 0.05Ã  .03 À 1.98
+F education                        0.01   .08 À 1.88                                                                 0.78    .61       1.29 À 0.13   .14 À 0.87
+Biological relatednessc          À 0.14w
+
+                                 Variance SD Variance                                                                             SD     Variance                 SD
+
+Variance components
+
+Residual 0.24 .49 9.65                                                                                                            3.11 .73                        .86
+Intercept 0.00 .04 3.02ÃÃ 1.74 .08w .28
+
+Note. aSquare root transformation used to correct skewness.
+bGirl is reference group.
+c0 5 full sibling; 1 5 other (e.g., half sibling, step sibling).
+wpo.10; Ãpo.05; ÃÃpo.01.
+
+highly involved in bias preparation; simple slopes                                                                   high bias preparation was not. In this model, fathers'
+tests revealed that the line describing fathers with                                                                 education again emerged as a positive predictor of
+low levels of bias preparation was significant,                                                                      youth locus of control, and boys and younger off-
+B 5 À .12, po.05, but the line describing fathers with                                                               spring reported lower levels of locus of control. Al-
+                                                                                                                     though a trend level interaction between youth age
+Youth Locus of Control  38                                                                                           and fathers' bias preparation emerged in this ana-
+                                                                                        Low Fathers' Prep for Bias   lysis, follow-up simple slopes tests were not sig-
+                                                                                        High Fathers' Prep for Bias  nificant. Finally, in the case of youth's depression
+                                                                                                                     symptoms, mothers' preparation for bias was a posi-
+                        36                                                                                           tive, trend level predictor: When mothers reported
+                                                                                                                     higher levels of bias preparation, youth reported
+                        34                                                                                           more depression symptoms. Given that this finding
+                                                                                                                     only reached trend level and does not replicate prior
+                        32                                                                                           work, however, this result should be viewed with
+                                                                                                                     caution. Among control variables, fathers' education
+                        30                                                                                           was the only significant correlate: Youth reported
+                                                                                                                     higher levels of depression when fathers had fewer
+                            Low           High                                                                       years of education.
+
+                            Mothers' Preparation for Bias                                                               Summary. Both maternal and paternal warmth
+                                                                                                                     were positively related to their own racial socialization
+Figure 2. Interaction between mothers' and fathers' preparation for                                                  practices, suggesting that both cultural socialization
+bias predicting youth locus of control.
+1398 McHale et al.                                        socialization for youth's psychosocial functioning
+                                                          may be better understood when both parents'
+and bias preparation occur within a larger context of     practices are taken into account. Below, we review
+positive parenting. We found within-family differences    our results, considering both how they extend un-
+in parents' practices, however: Mothers engaged in        derstanding of racial socialization dynamics in fam-
+more racial socialization with their older as com-        ilies and what directions they suggest for future re-
+pared with their younger offspring, and fathers en-       search.
+gaged in more racial socialization with their sons
+than with their daughters. These patterns emerged         Explaining Variation in Parents' Racial Socialization
+when parents' age and education were controlled.
+Parents' racial socialization practices, in turn, were       Our findings suggested that parents' racial social-
+linked to youth psychosocial functioning. In the case     ization may be part of a larger pattern of positive
+of youth ethnic identity, mothers' cultural socializa-    parent ­ child relationships: Parental warmth was
+tion and fathers' bias preparation (the latter at trend   linked to cultural socialization and bias preparation
+level) were associated with stronger, more mature         for both mothers and fathers, and these links were
+identity, and these linkages were not moderated by        evident when parent education and age and off-
+youth or family characteristics. Findings for youth       spring age and gender were controlled. These find-
+depression symptoms were less consistent: Fathers'        ings replicate those reported by Caughy et al. (2002),
+cultural socialization was negatively related to youth    who studied preschoolers' primary caregivers
+depression symptoms, but mothers' bias preparation        (mostly mothers) and Frabutt et al. (2002), who stud-
+was positively related, albeit at trend level, to youth   ied young adolescents' mothers. Our study relied on
+symptoms, and there were no significant moderators        parents' reports of both their parent ­ child relation-
+of these linkages. The links between parents' racial      ship quality and their racial socialization practices.
+socialization and youth locus of control, in contrast,    As such, these linkages may have emerged because
+were moderated by the spouse's socialization prac-        parents see racial socialization as an element of po-
+tices: High levels of maternal socialization in com-      sitive parenting. Future studies should include in-
+bination with low levels of paternal socialization        formation from other sources (e.g., from youth or
+(both bias preparation and cultural socialization)        objective reporters) to further establish how racial
+were linked to lower levels of youth locus of control.    socialization is connected to larger parent ­ offspring
+Across the ``outcome'' measures, we did not find          relationship dynamics.
+strong evidence that parental warmth, youth gender,
+or youth age moderated the link between racial so-           An important question in the racial socialization
+cialization practices and youth functioning.              literature has been whether and how parents' prac-
+                                                          tices vary as a function of offspring age and gender.
+                           Discussion                     Findings to date are inconsistent, in part due to
+                                                          methodological limitations of prior research (Hughes
+An emerging literature has established racial social-     et al., in press). Our findings revealed that mothers,
+ization as an important dynamic in African Amer-          but not fathers, engaged in more preparation for bias
+ican families. We built on this foundation to study       and cultural socialization with older as compared
+the racial socialization practices of mothers and fa-     with younger offspring. In contrast, fathers' but not
+thers in two-parent African American families. Our        mothers' socialization practices varied by offspring
+descriptive findings were consistent with a family        gender, with fathers engaging in more racial social-
+systems perspective in documenting within-family          ization with sons than with daughters. Importantly,
+differences in mothers' and fathers' socialization        these findings reflected within-family comparisons of
+practices with older and younger sons and daugh-          parents' socialization of two offspring. Our findings
+ters: In the case of racial socialization dynamics, fam-  on age differences in maternal practices are con-
+ily members may have quite different experiences          sistent with prior research in which the most clear-
+within their shared family environment. A primary         cut age differences have emerged in the domain of
+goal of our work was to assess the implications of        bias preparation (e.g., Hughes & Chen, 1997). Most
+racial socialization for youth's ethnic identity and      prior studies, however, have failed to distinguish
+psychological adjustment. Working from an ecolo-          mothers' from fathers' practices. Given that mothers
+gical perspective, we studied the family conditions       tend to be the primary caregivers, they may be more
+under which the linkages between racial socializa-        responsive to the developmental needs and cap-
+tion and youth functioning were more or less              abilities of their children than are fathers. Prior
+apparent. Our findings suggest that, in the case          findings regarding differences in parents' practices
+of two-parent families, the implications of racial
+as a function of offspring gender are less consistent              Mothers' and Fathers' Racial Socialization 1399
+than findings for age effects, and extant studies have
+not differentiated men's and women's socialization        theory about the significance of the emotional cli-
+practices with sons and daughters. Our findings           mate of parent ­ offspring relationships (Darling &
+suggest that when fathers have the opportunity to do      Steinberg, 1993), we found no evidence that parental
+so (because they have both a daughter and a son),         warmth moderated the links between racial sociali-
+they engage in more racial socialization with their       zation and youth outcomes. Importantly, with both
+sons. These results are in keeping with prior work        factors in the model, racial socialization proved to be
+showing that fathers exhibit more gender-differ-          a more consistent correlate of youth functioning than
+entiated socialization of children than mothers           parental warmth. In keeping with scholars' call for
+(McHale et al., 2003).                                    treating racial socialization as a multidimensional
+                                                          phenomenon (e.g., Coard & Sellers, 2005), however,
+   Taken together, our findings underscore the im-        we did find evidence that the combination of mothers'
+portance of distinguishing between mothers' and           and fathers' socialization practices had implications
+fathers' practices. Further, they suggest that, al-       for youth: In two-parent families, the implications of
+though age differences in mothers' bias preparation       racial socialization for youth adjustment, specifically
+have been evident in prior literature, other offspring    locus of control, may be better understood when
+age and gender effects may be detected only in large      both parents' practices are taken into account.
+samples or studies with complex research designs
+such as ours (i.e., within-family comparisons). To           To study the implications of mothers' and fathers'
+better understand how child characteristics may           practices, we first tested the links between parents'
+elicit racial socialization practices, future in-         socialization and youth's ethnic identity. Replicating
+vestigators should ask mothers and fathers in an          prior work (see Hughes et al., in press), we found
+open-ended way about their reasons for the sociali-       that mothers' cultural socialization was a positive
+zation strategies they use with daughters and sons        correlate. As noted, mothers were more involved in
+and their beliefs about how their practices influence     cultural socialization than fathers, and the salience of
+offspring at different periods of development.            mothers' cultural socialization, coupled with its links
+                                                          to the ``kin-keeper'' role, may underlie the sig-
+Implications of Racial Socialization for Youth            nificance of mothers' practices in this domain. Prior
+                                                          findings on the links between bias preparation and
+   A primary goal of our study was to assess the          ethnic identity are less consistent than findings for
+implications of parents' practices for youth's ethnic     cultural socialization (Hughes et al., in press). Fa-
+identity and psychological well-being. In doing so,       thers have not been an explicit focus of this work,
+we addressed several methodological limitations of        however, and our results showed that fathers' bias
+prior work. First, we moved beyond correlations           preparation was linked, at trend level, to youth eth-
+between self-reports to examine parent reports of         nic identity. Prior work highlighting males' more
+their socialization practices and youth reports of their  frequent experiences of discrimination (e.g., Ste-
+ethnic identity and well-being. Further, in contrast to   venson et al., 2002) may mean that fathers have more
+the field's focus on the socialization practices of       reason than mothers to see bias preparation as im-
+mothers or generic ``parents,'' we collected in-          portant, and they also may have more credibility
+formation about the practices of mothers and fathers      with their children in this domain of parenting.
+from the same families so that we could determine
+whether the implications of maternal and paternal            In contrast to the main effects of racial socializa-
+socialization practices were similar or different. Our    tion on youth ethnic identity, links between racial
+work also addressed an important gap in the litera-       socialization and youth locus of control were mod-
+ture by studying youth gender and age as potential        erated by other family dynamics. Specifically, our
+moderators of the links between racial socialization      findings suggested that the implications of mothers'
+and youth functioning.                                    practices were contingent on those of fathers: Youth
+                                                          reported lower locus of control in families in which
+   A primary contribution of this study was its ex-       mothers were highly involved in racial socialization
+amination of the family conditions under which ra-        but fathers were not, and this pattern emerged for
+cial socialization practices were linked to youth         both cultural socialization and bias preparation.
+functioning. To this end, we studied parental             These results are consistent with an emerging body
+warmth and the racial socialization practices of the      of work on co-parenting that highlights the im-
+other parent as potential moderators of socializa-        portance of interparental consistency for youth well-
+tionFyouth functioning linkages. In the face of           being (e.g., Feinberg, 2003), and with family systems'
+                                                          notions about linkages between dyads within a fam-
+                                                          ily (Whitchurch & Constantine, 1993). In contrast
+1400 McHale et al.                                        Limitations and Directions for Study
+
+to the negative implications of the high mother/low          Although our findings contribute to the literature
+father socialization pattern, when fathers were           on racial socialization, our study is not without
+highly involved in racial socialization but mothers       limitations. First, our study goals directed attention
+were not, youth reported high levels of locus of          to a particular type of family, that is, families that
+control. Because mothers report higher levels of ra-      included a mother and father and at least two chil-
+cial socialization, on average, than fathers do, youth    dren in middle childhood and adolescence. Had we
+may perceive few differences between mothers and          targeted a randomly selected and representative
+fathers who display the latter pattern. It is also pos-   sample of African American families and studied the
+sible that the high mother ­ low father pattern reflects  racial socialization efforts of the caregivers in those
+problematic co-parenting dynamics, such as mothers        families (e.g., mothers and grandmothers or other
+compensating for fathers' lack of involvement or          adults in the home), a different pattern of findings
+interparental disagreement about how to socialize         may have emerged.
+offspring. In future studies, parents should be asked
+directly about co-parenting in the domain of racial          Our lack of detail on family members' ethnicity is
+socialization.                                            another limitation of this study. Our interest in family
+                                                          dynamics directed our focus on constructs such as
+   With respect to youth depression symptoms, the         racial socialization rather than status variables such as
+results revealed that fathers who engaged in more         ethnicity. Variability in ethnicity among individuals
+cultural socialization had children who were less         who self-identify as Black or African American is
+depressed. As was the case with locus of control,         considerable, however. In future work, researchers
+however, mothers' bias preparation was negatively         should examine whether ethnicity moderates the
+related (at trend level) to youth adjustment. Al-         links between cultural dynamics like racial socializa-
+though cultural socialization has been shown to be a      tion and youth and family relationship outcomes.
+protective factor, some prior work indicates that ra-
+cial socialization that highlights barriers to oppor-        A final limitation is the cross-sectional and cor-
+tunity may be linked to poorer youth well-being           relational nature of our research design. The existing
+(e.g., Constantine & Blackmon, 2002; Ogbu, 1974).         literature led us to frame our research to study the
+The different valences of mothers' versus fathers'        implications of racial socialization for youth, but our
+socialization for youth depression symptoms may           design does not allow for such causal inferences.
+also arise because mothers tend to engage in more         Longitudinal research is essential to shed light on the
+racial socialization, on average, than fathers, and       direction of effect of these dynamics, that is, whether
+thus, mothers who score high on this dimension may        higher levels of racial socialization give rise to posi-
+be overly involved. The fact that a similar pattern       tive youth functioning or the other way around. In-
+emerged in the case of locus of control (i.e., mothers'   tervention studies, in which parents are trained in
+racial socialization was negatively related and fa-       the use of effective racial socialization and the im-
+thers' racial socialization was positively related to     portance of co-parenting is highlighted, are another
+youth adjustment) also may mean that a more com-          direction for research that may have both practical
+plex process was in play: Youth in this sample            and theoretical significance.
+were generally well adjusted and limited variability
+in depression symptoms may have precluded                    In the face of its limitations, this study provides an
+our detecting the mother socialization by father          important contribution to the literature on racial so-
+socialization interactions that emerged for locus of      cialization by setting this dynamic in its larger family
+control.                                                  context. Our findings add to a small but important
+                                                          literature in documenting the characteristics and
+   Taken together, our findings imply that gendered       experiences of family members that give rise to racial
+patterns in parents' racial socialization and their       socialization practices and how these practices, in
+implications merit future research scrutiny. A body       turn, have implications for youth and family re-
+of work describes differences in mothers' and fa-         lationships. This research also speaks to the literature
+thers' parental roles (McHale et al., 2003). Given        on family socialization influences, more generally, in
+differences in their individual experiences and or-       its investigation of normative dynamics in African
+ientations to parenting, it would be surprising if men    American families. Finally, our examination of the
+and women approached the tasks of racial sociali-         racial socialization practices of two parents with two
+zation in precisely the same way. Qualitative data        offspring provides insights into how families operate
+from youth on their experiences with mothers and          as systems in the process of child and adolescent
+fathers may reveal more mother ­ father differences       socialization.
+than are apparent when rating scales are used.
+                           References                                      Mothers' and Fathers' Racial Socialization 1401
+
+Aiken, L. S., & West, S. G. (1991). Multiple regression: testing     socialization among African American families. Applied
+   and interpreting interactions. Thousand Oaks, CA: Sage.           Developmental Science, 1, 200 ­ 214.
+                                                                  Hughes, D., & Johnson, D. (2001). Correlates in children's
+Bowman, P. J., & Howard, D. (1985). Race-related sociali-            experiences of parents' racial socialization behaviors.
+   zation, motivation, and academic achievement: A study             Journal of Marriage and Family, 63, 981 ­ 995.
+   of Black youth in three-generation families. Journal of the    Hughes, D., Rodriguez, J., Smith, E. P., Johnson, D., &
+   American Academy of Child Psychiatry, 24, 134 ­ 141.              Stevenson, H. C. (in press). Parents' ethnic/racial so-
+                                                                     cialization practices: A review of research and directions
+Boykin, A. W., & Toms, F. D. (1985). Black child socializa-          for future study. Developmental Psychology.
+   tion: A conceptual framework. In H. P. McAdoo & J. L.          Jacobs, J. E., Lanza, S., Osgood, D. W., Eccles, J. S., & Wig-
+   McAdoo (Eds.), Black children: Social, educational, and           field, A. (2002). Changes in children's self-competence and
+   parental environments (pp. 33 ­ 52). Newbury Park, CA:            values: Gender and domain differences across grades
+   Sage.                                                             one through twelve. Child Development, 73, 509 ­ 527.
+                                                                  Johnson, D. (2001). Parental characteristics, racial stress
+Bronfenbrenner, U., & Crouter, A. C. (1983). The evolution           and racial socialization processes as preditors of racial
+   of environmental models in developmental research. In             coping in middle childhood. In A. M. Neal-Barnett, J. M.
+   P. Mussen (Ed.), Handbook of child psychology (Vol. 1, pp.        Contreras, & K. A. Kerns (Eds.), Forging links: African
+   358 ­ 414). New York: Wiley.                                      American children clinical developmental perspectives
+                                                                     (pp. 57 ­ 74). Westport, CT: Praeger.
+Caughy, M., O'Campo, P. J., Randolph, S. M., & Nickerson,         Johnson, D., Brown, D., Wayumba, E., Choi, Y. K., &
+   K. (2002). The influence of racial socialization practices        Hunter, A. G. (2005). Correlates of racial socialization
+   on the cognitive and behavioral competence of                     among African American fathers. Paper presented at the
+   African American preschoolers. Child Development, 73,             biennial meeting of the Society for Research in Child
+   1611 ­ 1625.                                                      Development, Atlanta, GA.
+                                                                  Kovacs, M. (1981). The children's depression inventory: A self-
+Coard, S. I., & Sellers, R. M. (2005). African American fa-          rated depression scale for school-aged youngsters. Un-
+   milies as contexts for racial socialization. In V. C.             published manuscript. Pittsburgh, PA: University of
+   McLoyd, N. E. Hill, & K. A. Dodge (Eds.), African                 Pittsburgh School of Medicine.
+   American family life (pp. 264 ­ 284). New York: Guilford.      Margolin, G., Oliver, P. H., & Medina, A. M. (2001). Con-
+                                                                     ceptual issues in understanding the relation between
+Constantine, M. G., & Blackmon, S. M. (2002). Black ado-             interparental conflict and child adjustment. In J. H.
+   lescents' racial socialization experiences their relations        Grych & F. D. Fincham (Eds.), Interparental conflict and
+   to home, school, and peer self-esteem. Journal of Black           child development (pp. 9 ­ 38). Cambridge, UK: Cam-
+   Studies, 32, 322 ­ 335.                                           bridge University Press.
+                                                                  Marshall, S. (1995). Ethnic socialization of African Amer-
+Darling, N., & Steinberg, L. (1993). Parenting style as              ican children: Implications for parenting, identity de-
+   context: An integrative model. Psychological Bulletin, 113,       velopment, and academic achievement. Journal of Youth
+   487 ­ 496.                                                        and Adolescence, 24, 377 ­ 396.
+                                                                  McHale, S. M., Crouter, A. C., & Whiteman, S. D. (2003).
+Fatimilehin, I. A. (1999). Of jewel heritage: Racial sociali-        The family contexts of gender development in child-
+   zation and racial identity attitudes amongst adolescents          hood and adolescence. Social Development, 12, 125 ­ 148.
+   of mixed African-Caribbean/White parentage. Journal of         McLoyd, V. C. (1998). Changing demographics in the
+   Adolescence, 22, 308 ­ 318.                                       American population: Implications for research on
+                                                                     minority children and adolescents. In V. C. McLoyd & L.
+Feinberg, M. E. (2003). The internal structure and ecologi-          Steinberg (Eds.), Studying minority adolescents: Con-
+   cal context of coparenting: A framework for research              ceptual, methodological, and theoretical issues (pp. 3 ­ 28).
+   and intervention. Parenting: Science and Practice, 3,             Mahwah, NJ: Lawrence Erlbaum.
+   95 ­ 131.                                                      Miller, D. B. (1999). Racial socialization and racial identity:
+                                                                     Can they promote resiliency for African American
+Fischer, A. R., & Shaw, C. M. (1999). African Americans'             adolescents? Adolescence, 34, 494 ­ 501.
+   mental health and perceptions of racist discrimination:        Murry, V. M., & Brody, G. H. (2002). Parenting and racial
+   The moderating effects of racial socialization experi-            socialization processes in rural, single-parents families:
+   ences and self esteem. Journal of Counseling Psychology,          An examination of self-worth and self-regulatory behav-
+   46, 395 ­ 407.                                                    ior of Black children. In H. P. McAdoo (Ed.), Black chil-
+                                                                     dren: Social, environmental, and parental environments (2nd
+Frabutt, J. M., Walker, A. M., & MacKinnon-Lewis, C.                 ed., pp. 97 ­ 115). Thousand Oaks, CA: Sage.
+   (2002). Racial socialization messages and the quality of       Nowicki, S. Jr., & Strickland, B. R. (1973). A locus of control
+   mother/child interactions in African American families.           scale for children. Journal of Consulting and Clinical Psy-
+   Journal of Early Adolescence, 22, 200 ­ 217.                      chology, 40, 148 ­ 154.
+
+Hagestad, G. O. (1986). The family: Women and grand-
+   parents as kinkeepers. In A. Pifer & L. Bronte (Eds.), Our
+   aging society (pp. 141 ­ 160). New York: Norton.
+
+Hill, N. E., Murry, V. M., & Anderson, V. D. (2005). Socio-
+   cultural contexts of African American families. In V. C.
+   McLoyd, N. E. Hill, & K. A. Dodge (Eds.), African
+   American family life (pp. 21 ­ 44). New York: Guilford.
+
+Hughes, D., & Chen, L. (1997). When and what parents tell
+   children about race: An examination of race-related
+1402 McHale et al.
+
+Ogbu, J. U. (1974). The next generation: An ethnography of        Thomas, A. J., & Speight, S. L. (1999). Racial identity and
+   education, in an urban neighborhood. New York: Academic.          racial socialization attitudes of African American par-
+                                                                     ents. Journal of Black Psychology, 25, 152 ­ 170.
+Parke, R., & Buriel, R. (1998). Socialization in the
+   family: Ethnic and ecological perspectives. In W. Damon        Thornton, M. C., Chatters, L. M., Taylor, J. R., & Allen, W.
+   & N. Eisenberg (Eds.), Handbook of child psychology:              R. (1990). Sociodemographic and environmental corre-
+   Social, emotional, and personality development (Vol. 4,           lates of racial socialization by Black parents. Child De-
+   pp. 463 ­ 552). New York: Wiley.                                  velopment, 61, 401 ­ 409.
+
+Peters, M. F. (1985). Ethnic socialization of young Black         U.S. Census Bureau. (2001). 2000 Census Population and
+   children. In H. P. McAdoo & J. L. McAdoo (Eds.), Black            Housing. Retrieved from http://www.census.gov/
+   children: Social, educational, and parental environments (pp.     Press-Release/www/2001/sumfile.htm
+   159 ­ 173). Newbury Park, CA: Sage.
+                                                                  Whitchurch, G. G., & Constantine, L. L. (1993). Systems
+Phinney, J. S. (1992). The multigroup ethnic identity mea-           theory. In P. G. Boss, W. J. Doherty, R. LaRossa, W. R.
+   sure: A new scale for use with diverse groups. Journal of         Schumm, & S. K. Steinmetz (Eds.), Sourcebook of family
+   Adolescent Research, 7, 156 ­ 176.                                theories and methods: A contextual approach (pp. 325 ­ 355).
+                                                                     New York: Plenum.
+Phinney, J. S., & Chavira, V. (1995). Parental ethnic socia-
+   lization and adolescent coping with problems, related to                                   Appendix
+   ethnicity. Journal of Research on Adolescence, 5, 31 ­ 54.
+                                                                  Links Between Parental Warmth, Youth Age, and Gender
+Quintana, S. M. (1998). Children's developmental under-           and Racial Socialization
+   standing of ethnicity and race. Applied and Preventive
+   Psychology, 7, 27 ­ 45.                                            Level 1:
+
+Raudenbush, S. W., Bryk, A. S., Cheong, Y. F., & Congdon,          yij ¼ b0j þ b1jðyouth ageÞ þ b2jðyouth genderÞ
+   R. (2003). HLM 5.05: Hierarchical linear and nonlinear                 þ b3jðmothers0 warmthÞ þ b4jðfathers warmthÞ þ eij
+   modeling. Chicago: Scientific Software International.
+                                                                      Level 2:
+Rumbaut, R. (1994). The crucible within: Ethnic identity,
+   self esteem, and segmented assimilation among children          b0 ¼g00 þ g01ðyouth mean ageÞ
+   of immigrants. International Migration Review, 28,                     þ g02ðyouth mean genderÞ þ g03ðmothers0 ageÞ
+   748 ­ 794.                                                             þ g04ðfathers0 ageÞ
+                                                                          þ g05ðmothers educationÞ þ g06ðfathers0 educationÞ
+Sanders Thompson, V. L. (1994). Socialization to race and                 þ g07ðsibling relatednessÞ þ u0j
+   its relationship to racial identification among African
+   Americans. Journal of Black Psychology, 20, 175 ­ 188.           b1j ¼ g10; b2j ¼ g20; b3j ¼ g30; b4j ¼ g40
+
+Sanders Thompson, V. L. (1999). Variables affecting racial-       Parents' Racial Socialization and Youth Psychosocial
+   identity salience among African Americans. Journal of          Functioning
+   Social Psychology, 139, 748 ­ 761.
+                                                                  Level 1:
+Schwarz, J. C., Barton-Henry, M. L., & Pruzinsky, T. (1985).
+   Assessing child-rearing behavior: A comparison of rat-         yij ¼ b0j þ b1jðyouth ageÞ þ b2jðyouth genderÞ
+   ings made by mother, father, child, and sibling on the
+   CRPBI. Child Development, 56, 462 ­ 479.                       þ  b3jðmothers  warmthÞ  þ  b ðfathers  warmthÞ
+                                                                                                 4j
+Scott, L. D. (2003). The relation of racial identity and racial
+   socialization to coping with discrimination among              þ b5jðmothers0 racial socializationÞ
+   African American adolescents. Journal of Black Studies,
+   33, 520 ­ 538.                                                 þ b6jðfathers racial socializationÞ
+
+Spencer, M. B. (1983). Children's cultural values and par-        þ b7jðmothers racial socialization
+   ental child rearing strategies. Developmental Review, 3,
+   351 ­ 370.                                                     Ã fathers0 racial socializationÞ
+
+Stevenson, H. C. (1995). Relationships of adolescent per-         þ b8jðyouth age Ã mothers0 racial socializationÞ
+   ceptions of racial socialization to racial identity. Journal
+   of Black Psychology, 21, 49 ­ 70.                              þ b9jðyouth age Ã fathers0 racial socializationÞ þ eij
+
+Stevenson, H. C., Camercon, R., Herrero-Taylor, T., & Da-             Level 2:
+   vis, G. Y. (2002). Development of the teenager experience
+   of racial socialization scale: Correlates of race-related      b0j ¼g00 þ g01ðmothers0 ageÞ
+   socialization frequency from the perspective of Black                 þ g02ðfathers0 ageÞ þ g03ðmothers0 educationÞ
+   youth. Journal of Black Psychology, 28, 84 ­ 106.                     þ g04ðfathers0 educationÞ þ g05ðsibling relatednessÞ þ u0j
+
+Stevenson, H. C., Reed, J., Bodison, P., & Bishop, A. (1997).     b1j ¼ g10; b2j ¼ g20; b3j ¼ g30; b4j ¼ g40; b5j ¼ g50; b6j ¼ g6; b7j
+   Racism stress management: Racial socialization beliefs             ¼ g70; b8j ¼ g80; b9j ¼ g90
+   and the experience of depression and anger in African
+   American youth. Youth and Society, 29, 197 ­ 222.
+

@@ -1,0 +1,738 @@
+RESEARCH REPORT
+
+              Benefits of Cultural Exposure and Development
+              of Korean Perspective-Taking Ability for
+              Transracially Adopted Korean Children
+
+                                        DAVID C. LEE
+                                        Mendota Mental Health
+                                        STEPHEN M. QUINTANA
+                                        University of Wisconsin
+
+                            This study investigated the benefits of cultural exposure for transracially adopted
+                            (TRA) Korean children's developmental understanding of being Korean. Fifty TRA
+                            Korean children living in the United States were interviewed to assess their understand-
+                            ing of the implications of their Korean status for peer relations and personal identities,
+                            using a model of perspective-taking ability (PTA). Results showed cultural exposure
+                            and chronological age were significant predictors of children's PTA for being Korean.
+                            Cultural exposure had a slightly stronger relationship with PTA development for
+                            younger children than older ones. Comparison with another sample suggested that non-
+                            adopted native Korean children in the United States for an average of 25 months
+                            achieved levels of PTA at earlier ages did TRA children but that level of cultural expo-
+                            sure mediated these age differences.
+                            Keywords: transracially adopted, Korean children, perspective-taking ability
+
+Transracial adoption in the United States          National Association of Black Social Work-
+has a controversial history (Simon & Alstein,      ers, 1972). Indeed, during the 1960s and
+2002). Some have considered transracial            1970s American Indian and African Ameri-
+adoption a form of cultural genocide (e.g.,        can children were disproportionately repre-
+
+ David C. Lee, Mendota Mental Health, Madison, Wisconsin; Stephen M. Quintana, Depart-
+   ment of Counseling Psychology, University of Wisconsin--Madison.
+       This research was David C. Lee's dissertation, chaired by Stephen M. Quintana. We thank
+   Lindy Gelber, director of Camp Sejong Korean Cultural Camp, for her unyielding support with
+   this research project; Wayne Chiu and Kathleen Ja Sook Berquist for their assistance in data col-
+   lection; and Takuya Minami for assistance with the data coding.
+       Correspondence concerning this article should be addressed to Stephen M. Quintana, Depart-
+   ment of Counseling Psychology, 1000 Bascom Mall, University of Wisconsin, Madison, WI
+   53706. E-mail: quintana@education.wisc.edu
+
+Cultural Diversity and Ethnic Minority Psychology              Copyright 2005 by the Educational Publishing Foundation
+Vol. 11, No. 2, 130 ­143                                        1099-9809/05/$12.00 DOI: 10.1037/1099-9809.11.2.130
+
+                                                   130
+Transracially Adopted Korean Children            131
+
+sented in the adoption process. In Wiscon-       placement in foster care, age of adoption)
+sin, for example, American Indian children       were statistically controlled, differences in
+were 1,600% more likely to be adopted than       adjustment between TRA and WRA children
+were non-Indian children (see review by Si-      disappeared (e.g., Wickes & Slate, 1997).
+mon & Alstein, 2002). Concern over the
+prevalence of White families adopting Black          Nonetheless, some research finds differ-
+children led to the National Association of      ences in adjustment between TRA and non-
+Black Social Workers' call in 1971 for an end    adopted children (e.g., Bimmel, Juffer, van
+to transracial adoptions of Black children       IJzendoorn, & Bakermans-Kranenburg, 2003;
+out of fears that adopted Black children         Lindblad, Hjern & Vinnerljung, 2003). For
+were receiving inadequate socialization in       example, Lindblad et al. found differences
+White families (National Association of          in adjustment (e.g., psychiatric problems)
+Black Social Workers, 1972). A subsequent        between TRA children and their non-
+decline in the availability of Black children    adopted siblings (i.e., biological offspring of
+for transracial adoption by White families       the adopting parents) in Sweden but fewer
+led to the cultivation of other sources of       differences with a nonadopted immigrant
+infants for adoption (McRoy & Zurcher,           comparison group. R. M. Lee's (2003) re-
+1983). The majority of transracial adoptions     view concluded that there do not seem to be
+in the United States since the 1980s have        psychological risks inherent in transracial
+been across national borders, with predom-       adoption, with the majority of TRA children
+inantly White, Anglo, middle-class families      appearing to be well adjusted, but there
+adopting infants from Korea in 1980s and         seem to be some risks associated with adopted
+from China and Russia in the 1990s. One of       children (e.g., preadoption trauma) and in
+the main arguments against transracial           being a racial minority (e.g., experience of
+adoption is that it is harmful to transracially  social and employment discrimination),
+adopted (TRA) children (Feigelman & Sil-         which may combine and influence levels of
+verman, 1984).                                   adjustment for TRA children, particularly
+                                                 for ethnic or racial minorities.
+    Research has found that most TRA chil-
+dren show adjustment levels equivalent to,           A second focus of research has been on
+and sometimes higher than, within-race           TRA children's ideological, behavioral, and
+adopted (WRA) children (Alexander & Cur-         social commitment to their culture of origin
+tis, 1996; see also review by R. M. Lee, 2003).  (Taylor & Thorton, 1996). By definition,
+In their review, Simon and Alstein (2000)        TRA children are being raised by parents
+indicated that TRA children show equiva-         with a different racial status; consequently,
+lent or higher levels of adjustment (e.g.,       they tend to experience different racial so-
+indices of self-esteem, well-being) than WRA     cialization than children who are raised by
+children. This pattern holds when TRA chil-      their biological parents or children adopted
+dren are compared with WRA White chil-           within their race. Across several studies, two
+dren (Feigelman & Silverman, 1983; Simon         thirds or more of TRA children fail to iden-
+& Alstein, 1992) and with WRA children of        tify with their racial status (Andujo, 1988;
+color (e.g., Andujo, 1988). Moreover, this       Feigelman & Silverman, 1984; Kim, 1995).
+pattern has been supported in long-term          For example, Andujo's (1988) study com-
+longitudinal research, in one case spanning      paring TRA with WRA children of Mexican
+two decades (Simon & Alstein, 1992). Some        descent found that none of the 30 TRA
+exceptions to this trend of equivalent or        children identified with the term Mexican
+higher levels of adjustment comparing TRA        American, compared with 22 (73%) of WRA
+with WRA children occurred when there            children of Mexican descent. DeBerry,
+were significant differences in the circum-      Scarr, and Weinberg's (1996) longitudinal
+stances of the adoption (Simon & Alstein,        study found that TRA children had difficulty
+2000). When these factors (e.g., age of          developing bicultural/biracial competence
+                                                 and were more identified with White than
+132 Lee and Quintana
+
+Black reference groups. In a meta-analysis,       adopted children would be applicable to
+Hollingsworth (1997) found that TRA chil-         TRA children. Friedlander et al. (2000)
+dren scored lower than WRA children on            found support for a broad outline of TRA
+ethnic/racial identity across six published       children's development of ethnic or racial
+studies.                                          cognitions in a small qualitative study that
+                                                  appeared to parallel levels of development
+    Moreover, there are indicators suggest-       for nonadopted children identified by Quin-
+ing some TRA children have negative racial        tana (1994, 1998). Specifically, Quintana
+experiences (Taylor & Thorton, 1996). For         (1994, 1998) and colleagues (Quintana, Cas-
+example, a relatively large portion of TRA        tan~eda-English, & Ybarra, 1999; Quintana,
+children (20%) indicate they wished they          Chun, Gonsalves, Kaeo & Lung, 2004; Quin-
+had a different racial status (Benson,            tana & Segura-Herrera, 2003; Quintana,
+Sharma, & Roehlkepartain, 1994). TRA chil-        Ybarra, Gonzalez-Doupe, & de Baessa, 2000)
+dren reflect lower adjustment relative to         demonstrated that nonadopted children
+comparison groups in acceptance and com-          across a variety of ethnic and racial back-
+fort with their physical appearance com-          grounds (Mexican American, Ladino/Gua-
+pared with WRA children (Andujo, 1988;            temalan, Native Hawaiian, Quiche´/Guate-
+Kim, 1995). Finally, 25% of TRA children          malan) develop increasingly complex and
+report difficulties growing up connected to       integrated perspectives on their ethnic and
+their racial status, whereas only 2%­3% of        racial experiences. Children have been
+TRA children identified difficulties related      found to progress through physical, literal,
+to their adoption status (Simon & Alstein,        social, and group perspectives on their cul-
+2000). Taken together, research suggests          tural and racial experiences (see Table 1).
+that most TRA children have levels of gen-        Young preschool children's understanding
+eral adjustment equivalent to WRA children        of ethnicity and race is focused on superfi-
+but that a larger portion of TRA children         cial physical markers of race (physical per-
+experience some challenges related to their       spective), whereas older children in elemen-
+ethnic and racial identity (for a more com-       tary school bring an awareness of nonphysi-
+plete review, see R. M. Lee, 2003).               cal features, such as heritage and cultural
+                                                  characteristics (literal perspective). The lat-
+    Although some continue to investigate         ter perspective is considered literal because
+general adjustment differences between            children at this level tend to associate only
+adopted and nonadopted children (e.g.,            cultural characteristics that are literally con-
+Lindblad et al., 2003), researchers have re-      nected with race or labeled with racial
+cently focused on the processes by which          terms, such as having Korean ancestry, speak-
+children develop positive conceptions about       ing Korean, or eating Korean food. Preadoles-
+their ethnic, cultural, and racial status in the  cent youths begin to see their racial status
+context of transracial adoption. To date,         through social dimensions in which aware-
+most research has focused on connections          ness of racism and social discrimination has
+between parental attitudes toward adopted         particularly salient roles in their concep-
+children's racial status and the children's       tions of race (social perspective). During
+racial attitudes (e.g., Carstens & Julia, 2000;   adolescence, youths develop racial or cul-
+Friedlander et al., 2000; Vonk, 2001; Yoon,       tural group consciousness in which there is
+1997). Although widely assumed, little re-        increased awareness of intragroup and inter-
+search has explicitly investigated the bene-      group dynamics (collective group conscious-
+fits of cultural exposure for TRA children.       ness perspective).
+Consequently, the first purpose of this study
+was to examine some of the benefits of cul-           For the present study, we were interested
+tural exposure for TRA children.                  in whether Quintana's model of perspective-
+                                                  taking ability (PTA) could be reliably ap-
+    A second purpose of the present study         plied to TRA children. We were particularly
+was to investigate whether developmental
+models originally formulated for non-
+Transracially Adopted Korean Children                                               133
+
+TABLE 1 Description and Illustrative Responses of Levels of Perspective-Taking Ability (PTA)
+
+Level of PTA                                                 Illustrative response
+
+Level 0: Physical perspective                                "Korean people have Black hair, brown eyes and
+   Children understand race based on observable physical        [White] Americans have tan hair and different
+      manifestations, such as physical features or language     color eyes."
+      usage.
+                                                             "To be Korean means your parents were Korean.
+Level 1: Literal perspective                                    But just because you're Korean on the outside
+   Children understand role of ancestry in determining          [does not mean] that you're not American on
+      racial status and focus on obvious, literal, and          the inside."
+      cultural features.
+                                                             "I guess I'm different [from Caucasians] because
+Level 2: Social perspective                                     they treat me differently."
+   Children can see themselves through the eyes of others
+      and can describe social consequences of racial group   "I believe [what makes me Korean] is the way you
+      membership, including racial prejudice.                   feel about it . . . it's more what you know about
+                                                                 your culture and how much you believe in it."
+Level 3: Collective group consciousness perspective
+   Children and youths focus less on objective racial
+      features such as racial status and more on subjective
+      racial features such as sense of psychological
+      connection to other members of racial group.
+
+interested in whether TRA children pro-                Hypothesis 4. The rate of PTA develop-
+gressed through the same developmental                 ment for TRA children would be differ-
+levels, attained the same levels of develop-           ent from that of children raised within
+ment, and developed through levels at rates            same-race families.
+equivalent to those of nonadopted children.
+Although TRA children are of intrinsic in-                             Method
+terest, we were also interested in investigat-
+ing the generality of the model to determine     Participants
+if children who were not raised by same-race
+parents would develop similarly to children      Fifty Korean-born TRA children (27 girls, 23
+raised by same-race parents. This kind of        boys) attending a Korean culture camp on the
+research can contribute to a broader under-      East Coast participated in the study. The aver-
+standing of the role of cultural exposure in     age age was 12.26 years (SD  2.54), with a
+a variety of different contexts.                 median of 13 years. Fifty-six percent (n  28)
+                                                 of the Korean adoptees had some limited
+    Our formal hypotheses are as follows:        knowledge of verbal and written Korean, and
+                                                 60% (n  30) had been back to Korea. Sixty-
+      Hypothesis 1. Quintana's (1994, 1998)      four percent (n  32) had been involved in
+      PTA model and methodology could be         cultural activities outside of the camp. Nearly
+      applied to TRA children with reliability.  three fourths (72%) of the sample indicated
+                                                 being teased because of their racial status (see
+      Hypothesis 2. TRA children's PTA scores    Table 2). There were no selection criteria with
+      would be strongly predicted by their       the exception that each adoptee participate
+      level of chronological age, consistent     willingly and was able to respond to the study
+      with previous research with non-           instruments. All camp attendees who had pa-
+      adopted children.                          rental consent and who assented to participate
+                                                 were included in the study.
+      Hypothesis 3. Greater cultural expo-
+      sure and cultural knowledge would pre-
+      dict more advanced levels of PTA
+      development.
+134 Lee and Quintana
+
+TABLE 2 Demographic and Cultural Exposure       lies different from Caucasian families?"
+Information                                     (Family domain). Drawings representing
+                                                Korean and Caucasian children (one boy
+Variable                            n           and one girl for each race), groups of chil-
+                                                dren (one group of Korean children, one
+Sex                                 23          group of Caucasian children, one mixed ra-
+   Male                             27          cial group), and families (one Korean family
+   Female                           34          and one Caucasian family) were used to as-
+                                    36          sist children's understanding of the inter-
+Has adopted siblings                            view questions and to maintain attention
+Been teased for being Korean        32          during the interview. The PTA interview is
+Cultural exposure items             30          individually administered and lasts 30 ­ 45
+                                                min. Children's responses to each of the
+   Attended other Korean cultural    5          domains were scored according to a manual,
+      group activities              25          with a final score representing the average
+                                    17          of the three domain scores as an index of
+   Has visited Korea at least once  23          their level of development.
+   Attended Korean school
+   Can speak some Korean                            The PTA instrument has demonstrated
+   Can write some Korean words                  validity and reliability in previous research
+   Eats Korean food monthly                     (Quintana et al., 1999), based on interrater
+                                                reliability (r  .86) and validity coefficient
+Note. N  50.                                    (eta-squared  .75). To establish reliability
+                                                in the present study, two raters scored every
+Instruments                                     interview, with one experienced rater from a
+                                                previous research. The inexperienced rater
+PTA Interview. The Korean adoptees' PTA         was trained on a separate pilot sample of
+for being Korean was evaluated using a semi-    interviews conducted with TRA Korean chil-
+structured interview format based on Quin-      dren. Training on scoring was provided un-
+tana et al.'s (1999) interview methodology.     til a high level of agreement (e.g., 80% or
+The original PTA interview questions were       more) was obtained on the pilot sample. For
+modified to reflect the Korean children's       the present set of interviews, interrater
+cultural and racial status (e.g., questions     agreement for PTA ratings was high (r 
+were asked specific to Koreans). Specifically,  .83, p  .001).
+questions were phrased to encourage chil-
+dren's reflection on their personal experi-     Cultural Exposure. Cultural exposure
+ences related to race and culture. The PTA      data were obtained via oral questions. Chil-
+interview format has been successfully          dren were asked six questions to index the
+adapted to a variety of racial contexts and     degree of exposure to cultural experiences:
+has been translated into five languages while   "Have you ever been [back] to Korea?" "Do
+preserving important facets of cultural valid-  you go to Korean school?" "Do you speak
+ity (Quintana, Troyano, & Taylor, 2001). We     Korean?" "Do you read Korean?" "How of-
+were optimistic that the PTA methodology        ten do you eat Korean food?" and "Have you
+provided sufficient flexibility and openness    gone to other group activities for Korean
+to be adapted to interviews with TRA chil-      children?" Positive responses were followed
+dren while retaining important features of      up with inquiries about frequency or quan-
+cultural validity.                              tity of experience (e.g., "How many times
+                                                have you visited Korea?"). These questions
+    There were three sections of the inter-     were based on items from the Suinn­Lew
+view, including Individual, Friendship, and     Asian Self-Identity Acculturation Scale
+Family domains. Examples of questions in
+the domains are: "Do you like being Ko-
+rean? Why?" (Individual domain), "Do you
+notice differences between friends who are
+Korean from those who are not?" (Friend-
+ship domain), and "How are Korean fami-
+Transracially Adopted Korean Children               135
+
+(Suinn, Khoo, & Ahuna, 1995) and the Chil-          and subtracting scores for incongruent
+dren's Acculturation Scale (Franco, 1983),          items. Higher scores indicate higher ratings
+with modifications made to accommodate              were given to congruent than to incongru-
+TRA Korean children. The responses were             ent items. This instrument was modified for
+scored according to fixed codes. For exam-          the present study by substituting a Korean
+ple, 0 return visits to Korea was scored as 0, one  town and Korean cultural activities (e.g., eat
+visit was scored as 1, 2 to 4 visits was scored     kimchi and know Tae Kwan Do) for the Mex-
+as 2, and more than 4 visits was scored as 3.       ican town and Mexican activities. The com-
+The item about eating Korean food was in-           parison town was described as Caucasian or
+dexed to approximate the number of times            White rather than Anglo, to be appropriate
+the child ate Korean food per year (e.g.,           for a Korean sample. In previous research,
+once per week  52 times per year). Be-              Bernal et al. reported strong relationships
+cause the scoring format for cultural expo-         for ethnic knowledge with acculturation
+sure items varied, the items were standard-         (r  .51, p  .001) and children's ethnic
+ized to zero mean and unity variance before         identification (r  .30, p  .05). For the
+being summed into a total score. The coef-          present study, the reliability, using coeffi-
+ficient alpha across these six items was .70,       cient alpha procedures, was .66. This reli-
+which is respectable given the relatively           ability coefficient may seem low, but because
+small number of items.                              coefficient alpha assumes homogeneity of
+                                                    items and because the cultural knowledge
+Cultural Knowledge. The instrument                  scale was developed to assess knowledge of
+used to index cultural knowledge was an             different cultural activities, the reliability
+adaptation of Bernal, Knight, Ocampo,               may be underestimated as a result of heter-
+Garza, and Cota's (1990) measure originally         ogeneity of items.
+developed for Mexican American children
+and included items analogous to other age-          Self-Esteem. Rosenberg's (1979) Self-Es-
+appropriate cultural knowledge scales for           teem Scale was also administered to provide
+other ethnic/racial groups (e.g., Native Ha-        evidence of discriminant validity given that
+waiian Cultural Scale; Hishinuma et al.,            the cultural variables were not expected to
+2000). The original instrument involved ask-        be significantly related to self-esteem.
+ing children to imagine two towns, one Mex-         Rosenberg (1965) defined self-esteem as
+ican town and one Anglo American town.              "the evaluation which an individual makes
+Items depicted cultural activities, and chil-       and customarily maintains with regard to
+dren were asked how many people in each             himself; it expresses an attitude of approval
+town would be involved with the activity.           or disapproval" (p. 5). Rosenberg's scale
+Response formats ranged from none (0), a            measures how the individual evaluates his or
+few (1), some (2), most (3), and all (4). There     her abilities, attributes, capabilities, and
+were 6 activities characteristic of Mexican         some form of attitude of approval or disap-
+culture and 6 activities characteristic of An-      proval of self (self-worth). The reliability co-
+glo American culture. These 12 items were           efficient of this instrument is .92 (Rosen-
+asked in the context of the Mexican town            berg, 1965, 1979). The method for scoring
+and then the Anglo town, for a total of 24          involved assigning scores ranging from 1
+items, with half of the items congruent with        point for strongly disagree to 4 points for
+the town (e.g., Mexican cultural activity           strongly agree on the Likert-type scale. Of
+asked in context of Mexican town) and half          the 10 questions in the scale, the 5 negative
+of the items were incongruent with the town         self-esteem questions were reverse scored.
+(e.g., Mexican cultural activity in context of      The scoring method was applied so that
+Anglo town). The total score is computed by         high scores reflected positive esteem.
+summing across scores for congruent items
+136 Lee and Quintana
+
+Procedure                                          between Level 1 (literal perspective) and
+                                                   Level 2 (social perspective). The cultural
+The TRA Korean children were adminis-              exposure items were standardized to sum
+tered study materials by three Asian Ameri-        across items with different response formats.
+can adults, two men and one woman, to be           There were large relationships (sharing over
+consistent with previous PTA research. Each        25% of variance) between PTA and chrono-
+interviewer was provided an orientation to         logical age and between PTA and cultural
+the interviewing procedures, including what        exposure. Cultural exposure was also signif-
+instruments were to be used, the order in          icantly related to chronological age. Cul-
+which they were to be administered, how            tural knowledge was significantly, albeit
+questions were to be asked, and how partic-        modestly, related to PTA. Finally, self-es-
+ipants were to be identified and coded for         teem had only nonsignificant relationships
+confidentiality purposes. The order of ad-         with other study variables. As part of the
+ministration of instruments was randomized         larger dissertation study (D. C. Lee, 2000),
+to control for order effects. Interview sites      children's responses were content analyzed
+were mainly outdoors on picnic tables away         and could be compared with nonadopted
+from the activities of other children. Inter-      children's responses from other studies. The
+views were audio-recorded and later tran-          most interesting and common content cate-
+scribed. There were no reports of discom-          gory was that nearly half of the sample (n 
+fort experienced by TRA children during the        24) reported having pride in being Korean
+interviews or study procedures. Participating      because this status made them distinctive in
+children were offered a T-shirt in consider-       an otherwise mostly White environment.
+ation of their involvement in the study.
+
+                       Results                     Test of Hypotheses
+
+Descriptive Results                                The hypothesis that the PTA methodology
+                                                   could be applied to this sample of TRA Ko-
+Table 3 lists descriptive information for          rean children with reliability and validity
+chronological age, PTA, cultural exposure,         (Hypothesis 1) was supported with the large
+cultural knowledge, and self-esteem. The av-       interrater correlation coefficient reported
+erage level of PTA for study participants was      earlier (r  .83, p  .001) and with the large
+                                                   relationship between PTA and chronologi-
+
+TABLE 3 Means, Standard Deviation, Correlation Coefficients for Age, Perspective-Taking Ability
+(PTA), Cultural Exposure, and Self-Esteem
+
+Variable               M (SD)                  1 2 3 45
+1. Age
+2. PTA                  12.26                  --
+3. Cultural exposure   (2.54)
+4. Cultural knowledge    1.84  .63***              --
+5. Self-esteem         (0.77)
+                         0.00  .37**               .52***  --
+                       (3.78)
+                        19.34  .25 .28*                    .13 --
+                       (6.89)
+                         7.74  .14 .16 .02 .07 --
+                       (3.69)
+
+Note. N  50. Cultural exposure has a mean of 0 because the items were standardized to have 0 mean.
+* p  .05. ** p  .01. *** p  .001.
+Transracially Adopted Korean Children                                                    137
+
+cal age (r  .63, p  .001). The latter finding    PTA development. The significance of both
+is particularly important because chronolog-     these regression coefficients suggests that
+ical age is measured with relatively little er-  chronological age and cultural exposure
+ror, given that school-age children can re-      were unique predictors of PTA, even after
+port their age and birth date with accuracy.     variance associated with other variables was
+Because chronological age and PTA share          controlled. The multiple R for Step 1 indi-
+little or no method variance, the large cor-     cates that the predictor variables accounted
+relation coefficient between these two con-      for about 51% of the variance associated
+structs suggests that a significant portion of   with PTA. The interaction term, entered on
+PTA variance is unassociated with measure-       Step 2, was significant, suggesting that age
+ment error, including rater, interviewer, and    moderates the relationship between cultural
+transient specific error (see Heppner, Kiv-      exposure and PTA (see Table 4).
+lighan, & Wampold, 1999, on sources of
+measurement error).                                  Following Aiken and West's guidelines,
+                                                 the negative interaction was probed with
+    The hypotheses that PTA would be sig-        plots and tests of regression slopes at 1
+nificantly associated with chronological age     standard deviation and the mean of age (see
+(Hypothesis 2) and with cultural exposure        Figure 1). The negative valence for the in-
+and cultural knowledge (Hypothesis 3) were       teraction indicates that the slope is steeper
+evaluated by regression analyses. Because of     for younger children than for older ones.
+the significant intercorrelation between age     Note, for example, that there was an in-
+and cultural exposure, we were interested in     crease of almost a full developmental level
+the unique contributions of cultural expo-       (1.02 to 1.97 PTA) for 10-year-old children
+sure and chronological age to predicting         from low to high cultural exposure, but just
+PTA scores. An interaction term (Age             only a half level of development (1.99
+Cultural Exposure) was also entered into         to 2.55) for 15-year-old children from low to
+the regression equation, according to guide-     high cultural exposure. Although the in-
+lines described by Aiken and West (1991).        crease of a single developmental level ap-
+These guidelines require that, in this situa-    pears small, by focusing on those with low
+tion, age and cultural exposure variables be     cultural exposure, there is about 5 years dif-
+centered (i.e., mean set at zero) to interpret   ference in chronological age between those
+the interaction coefficient. PTA shows a de-     scoring at 1.02 level of PTA (10.13 years)
+velopmental trend with older children and        and those scoring at 1.99 level of PTA (15.21
+those children with high levels of cultural      years). Another comparison is that 10-year-
+exposure demonstrating advanced levels of        old children with high levels of cultural ex-
+
+TABLE 4 Regression Analyses Investigating Direct and Moderator Relationships of Age and
+Cultural Exposure on Perspective-Taking Ability
+
+Predictor                      B                 SE B             t(45)
+
+Step 1a                        .146              .034    .483    4.24***
+   Chronological age           .066              .023    .330    2.92**
+   Cultural exposure, total    .013              .012    .121    1.13
+   Cultural knowledge
+                             .013                .006  .257    2.18*
+Step 2b
+   Age  Cultural
+   Exposure
+
+Note. Variables were centered, and cultural exposure scores were standardized.
+a Multiple R  .714, F(3, 46)  15.92, p  .001. b Multiple R  .742, F(4, 47)  13.80, p  .001. R change  .028, p  .05.
+* p  .05. ** p  .01. *** p  .001.
+138 Lee and Quintana
+
+Figure 1. Interaction of age and cultural exposure. PTA  perspective-taking ability.
+
+posure (1.97 PTA) scored nearly as high as      international sojourners, native to Korea,
+15-year-old children with low levels of cul-    raised by biological parents, and currently
+tural exposure (1.99 PTA). It is important to   residing in the United States. The non-
+note that the slope for cultural exposure       adopted children had been in the United
+predicting PTA at each of the levels of age is  States an average of 25 months. Out of
+positive and significant (ts  2.82, ps          the 24 nonadopted children, 13 were girls.
+.007). In short, cultural exposure was          They were interviewed by an Asian adult and
+slightly more important for younger chil-       followed procedures similar to those for
+dren than older children in predicting levels   TRA children. Table 5 lists the mean ages
+of the PTA development, but at low, aver-       for children classified at each level of PTA
+age, and high age levels, there was a signif-   for the TRA and nonadopted Korean chil-
+icant and positive relationship between cul-    dren. The average age at each level of PTA
+tural exposure and PTA.                         was higher for TRA children. The non-
+                                                adopted Korean children appeared to de-
+    To test Hypothesis 4 that TRA children      velop through PTA Levels 0 ­2 at a faster
+would develop PTA at a different rate than      rate than did TRA children. Analysis of vari-
+nonadopted Korean children, we compared         ance confirms that the age differences
+previously collected data on a sample of        across the levels of PTA were significant, F(1,
+nonadopted Korean children (Quintana &          66)  12.62, p  .001, eta squared  .16.
+Kim, 1998) with the present dataset. The        This result suggests that nonadopted chil-
+nonadopted Korean children (N  24) were
+Transracially Adopted Korean Children                        139
+
+TABLE 5 Breakdown of Mean Age by Level of                    Korean culture. These results support the
+PTA for TRA (N  50) and Nonadopted (N                        hypothesis that nonadopted Korean chil-
+24) Korean Children                                          dren appear to progress through the levels
+                                                             of PTA at a younger ages than TRA Korean
+PTA level  TRA children  Nonadopted children                 children but that these differences appear to
+                                                             be related to differences in levels of cultural
+0                8.75               7.15                     exposure.
+1               10.72               8.17
+2               13.21               9.64
+3               14.81             12.91
+
+Note. Nonadopted Korean children were collected for a sep-                        Discussion
+arate study. PTA  perspective-taking ability; TRA  transra-
+cially adopted.                                              Taken together, the results suggest some
+                                                             similarities and differences between TRA
+dren progress through the levels more rap-                   children in this study and previous research
+idly than TRA children. Because this analysis                conducted on nonadopted children of
+is based on a comparison of nonequivalent                    color. TRA children appear to develop PTA
+groups, a number of sample characteristics                   about their cultural and racial status in ways
+could be responsible for these differences.                  similar to nonadopted children. The PTA
+                                                             interview procedure was applied to TRA
+    To further explore reasons for age dif-                  children with support for its reliability and
+ferences in PTA levels between the samples,                  validity. The breakdown of ages across level
+we developed an abbreviated cultural expo-                   of PTA suggests that TRA children had at-
+sure variable from available data. Specifi-                  tained levels of PTA in the same pattern,
+cally, nonadopted children's level of cul-                   with younger children predominantly classi-
+tural exposure could be indexed from exist-                  fied in lower levels and older children in
+ing data on children's report of their written               higher levels of PTA. Moreover, TRA chil-
+and oral skills with Korean language and                     dren were classified in each of the levels
+exposure to Korea. Similar data from TRA                     from Level 0 through Level 3, again suggest-
+Korean children were combined into an ab-                    ing similarities with nonadopted children of
+breviated cultural exposure variable. Subse-                 color who are raised within same-race fami-
+quently, we used an analysis of covariance to                lies. As suggested in previous research
+investigate age differences between TRA                      (Quintana et al., 2000), maturational factors
+and nonadopted Korean children, using the                    associated with chronological age appear to
+abbreviated cultural exposure variable as a                  be important factors contributing to the de-
+covariate. When the level of exposure to                     velopment of PTA for TRA and nonadopted
+Korean culture was controlled, the age dif-                  children. Although not explicitly measured
+ferences at levels of PTA were nonsignifi-                   in the present study, previous research has
+cant, F(1, 65)  3.85, ns, eta squared  .056.                 indicated that social­ cognitive development
+The reduction in effect size for the differ-                 mediated the relationship between chil-
+ence in the analysis with and without con-                   dren's age and PTA (Quintana et al., 2000).
+trolling for cultural exposure was significant               The findings herein suggest PTA develop-
+(z  1.88, p  .03, one-tailed). This result                   ment is similar for TRA Korean children
+suggests that age differences between TRA                    and other populations--Mexican American,
+and nonadopted children at levels of PTA                     Guatemalan Ladino, Guatemalan Quiche´,
+were due to differences in cultural expo-                    Native Hawaiian--to which the PTA model
+sure. In other words, cultural exposure me-                  has been applied (Quintana, 1998; Quin-
+diated the differences in average age of PTA                 tana et al., 1999; Quintana et al., 2003).
+across the two samples. In this case, the Ko-
+rean language skills and exposure to Korea                       In the present study, TRA Korean chil-
+served as proxies to broader exposure to                     dren appear to be in levels of PTA at older
+140 Lee and Quintana
+
+ages, compared with nonadopated Korean          the minimum required to support PTA de-
+children raised within same-race families.      velopment. Conversely, the amount of cul-
+This is a novel finding for research on TRA     tural exposure for TRA children may be
+children, which has not previously demon-       around the critical levels necessary to sup-
+strated developmental differences for TRA       port PTA development.
+children in their understanding of their ra-
+cial status (see review by Simon & Alstein,         These research findings can be com-
+2000). This finding is, nonetheless, gener-     pared with research (e.g., Portes & Rum-
+ally consistent with previous research on       baut, 1996; Zhou, 1997) on other popula-
+TRA children who show relatively low levels     tions of 1.5 generation (i.e., children born
+of ideological commitment to their racial       outside of the United States but arriving in
+group (Benson et al., 1994). Further study      United States early in childhood). This pre-
+results indicated that cultural exposure me-    vious research found that children's adapta-
+diated the age differences in PTA develop-      tion based on a blending of culture of origin
+ment between TRA and nonadopted Korean          or family culture and dominant culture was
+children. These results suggest the reason      complex: For some, there were benefits to
+for developmental differences between TRA       increased socialization into family culture,
+and nonadopted Korean children is due to        but for others, this socialization appeared to
+differential levels of cultural exposure. One   pose challenges to their adjustment (Zhou,
+implication, albeit somewhat speculative, is    1997). In the latter situations, acculturation
+that the developmental differences may be       to the dominant culture may be experi-
+overcome if TRA children receive greater        enced as threatening to ethnic/racial mi-
+exposure to their culture of origin.            nority adolescents' identity (Ogbu, 1994).
+                                                For TRA Korean children raised in other-
+    The results also suggested that cultural    wise Caucasian families, however, family or
+exposure had a particularly critical role for   home culture mirrors dominant culture
+TRA children's development of PTA. Cul-         while culture of origin differs from family
+tural exposure was an unique predictor of       culture. We speculate that the forms and
+PTA after controlling for variance associated   levels of cultural exposure reflected in this
+with chronological age and cultural knowl-      study do not undermine TRA children's
+edge. The finding of a significant relation-    main cultural orientation, which tends to-
+ship between cultural exposure and devel-       ward their adopted family culture. Instead,
+opment of PTA is novel. Previous research       the ranges of exposure to Korean culture
+has failed to find significant connections be-  reflected in this study appear to stimulate
+tween contextual or cultural factors in pre-    TRA children's perspective-taking develop-
+dicting PTA. Specifically, acculturation and    ment about their culture of origin without
+general forms of parental ethnic socializa-     threatening their commitment to their
+tion were not significantly predictive of PTA   home culture.
+scores for Mexican American children
+(Quintana et al., 2000). Quintana (1994)            It is interesting to note that there was a
+originally theorized that cultural exposure     small, albeit significant, interaction effect
+was a critical component of children's devel-   between cultural exposure and chronologi-
+opment of PTA. Integrating the results from     cal age in predicting levels of PTA. This
+the present and previous research suggests      finding indicated that cultural exposure was
+that very low levels of cultural exposure ap-   particularly important for younger TRA chil-
+pear to hinder PTA development but that         dren (e.g., 10 years of age). This suggests
+cultural exposure beyond a relatively small     that the kinds of cultural exposure may
+amount does not appear to hinder PTA de-        need to be tailored to children's age. The
+velopment. Nonadopted children raised by        kinds of exposure we indexed were some-
+same-race families are likely to have expo-     what focused on experiences with Korean
+sure to their culture of origin that exceeds    culture (e.g., food, language), and the kinds
+                                                of cultural knowledge we assessed were also
+Transracially Adopted Korean Children            141
+
+focused on more objective features of cul-       not attend Korean camps. However, includ-
+ture (e.g., cultural traditions). These kinds    ing only children from a cultural camp may
+of cultural exposure may be particularly im-     have restricted the range of scores on cul-
+portant for young children at Level 1 of PTA     tural exposure, which would attenuate or
+development, which also involves emphasis        underestimate the size of relationships in-
+on historical and traditional features of Ko-    volving cultural exposures. It is possible that
+rean culture (e.g., language, food, tradi-       including TRA children with a wider range
+tions). In contrast, older children at Level 2   of cultural exposures would lead to finding
+of PTA focus more on the racialized compo-       even stronger relationships involving the
+nents of being Korean, including under-          variable of cultural exposure. The compari-
+standing of racial prejudice. Children's un-     son of the results from this TRA sample with
+derstanding of the racialized components is      those from a sample of nonadopted chil-
+further integrated and expanded at Level 3       dren is somewhat tentative given that a num-
+of PTA when they develop greater racial          ber of sample differences could be respon-
+group consciousness about being Korean.          sible for pattern of results. Another limita-
+Although exposure to traditional and histor-     tion is that many instruments had to be
+ical features of Korean culture continued to     adapted for the cultural and racial charac-
+be predictive of PTA development for older       teristics of this particular sample. This kind
+children, it follows logically that older chil-  of adaptation contributes to the cultural va-
+dren may benefit even more from exposure         lidity of the results (Quintana et al., 2001)
+to different kinds of cultural and racial ex-    but comes at a cost related to less prior
+periences. Future research could investigate     knowledge about the psychometric proper-
+the kinds of experiences that promote TRA        ties of the instruments used in the study.
+children's development as they approach          One particular strength of this study worth
+and enter adolescence.                           noting is its multimethod instrumentation.
+                                                 PTA scores were obtained from scoring of
+    There are study limitations worth noting.    interview responses of the developmental so-
+Because the study design was cross-sectional     phistication and content of responses,
+and nonexperimental, the results could not       whereas the predictor variables were based
+address the causal ordering of variables. Ad-    on structured, quantified response formats.
+ditionally, the study sample included chil-      Consequently, common problems with
+dren at a cultural camp and may not be           shared method variance are minimized in
+representative of TRA children who do not        this study.
+attend such camps. Using Asian American
+interviewers could be seen as a limitation or        There are several practical and theoreti-
+confound given that TRA children may be          cal implications from this study. There seem
+racially Asian or Korean but may be more         to be important benefits to TRA children
+culturally affiliated with White culture. The    from exposure to their culture of origin for
+interviewers were biculturally skilled and       their development. Professionals working
+could match the children's preferred cul-        with TRA children and their families could
+tural style of interaction. Moreover, given      emphasize the importance of cultural expo-
+that the interviews were administered in the     sure, particularly for young children. High
+context of a camp specifically for TRA Ko-       levels of cultural exposure may help to min-
+rean children and staffed by many Asian and      imize differences between TRA children's
+Asian American adults, the presence of           developmental understanding of culture
+Asian American interviewers would seem           and race and nonadopted children. Direct
+less salient or unusual than if the interviews   exposure appeared more beneficial than
+were conducted in the children's home. An-       knowledge or awareness of differences. We
+other caveat for the studies is that the par-    speculate that as TRA children approach
+ticipants are likely to have greater cultural    adolescence, exposure to Korean traditions
+exposure than other TRA children who do          and culture may need to be supplemented
+142 Lee and Quintana
+
+with other kinds of socialization and support                awareness in intercountry adoption: U.S. ex-
+as they increase their understanding of the                  periences. International Social Work, 43, 61­73.
+racialized components of being Korean. Psy-
+chologists could benefit from understand-               DeBerry, K. M., Scarr, S., & Weinberg, R. (1996).
+ing that many TRA children are racially iso-                 Family racial socialization and ecological
+lated and many are recipients of racial teas-                competence: Longitudinal assessments of Af-
+ing, but that their racial status affords them               rican American transracial adoptees. Child De-
+with a source of uniqueness and pride. The                   velopment, 67, 2375­2399.
+application of the PTA model to TRA chil-
+dren appeared successful. Familiarity with              Feigelman, W., & Silverman, A. R. (1983). Chosen
+the levels and progression of development                    children: New patterns of adoptive relationships.
+for PTA could help inform professionals'                     New York: Praeger.
+work with TRA children. More generally,
+examining the various contexts of children's            Feigelman, W., & Silverman, A. R. (1984). The
+psychological experiences of race, such as                   long-term effects of transracial adoption. So-
+transracial adoptions, can contribute to                     cial Service Review, 58, 588 ­ 602.
+more complex and nuanced understanding
+of children's ethnic and racial development             Franco, J. N. (1983). An acculturation scale for
+across a variety of sociocultural contexts.                  Mexican-American children. Journal of Gen-
+                                                             eral Psychology, 108, 175­181.
+                      References
+                                                        Friedlander, M. L., Larney, L. C., Skau, M., Ho-
+Aiken, L. S., & West, S. G. (1991). Multiple regres-         taling, M., Cutting, M. L., & Schwam, M.
+     sion: Testing and interpreting interactions. New-       (2000). Bicultural identification: Experiences
+     bury Park, CA: Sage.                                    of internationally adopted children and their
+                                                             parents. Journal of Counseling Psychology, 47,
+Alexander, R., & Curtis, C. M. (1996). A review of           187­198.
+     empirical research involving the transracial
+     adoption of African American children. Jour-       Heppner, P. P., Kivlighan, D. M., & Wampold,
+     nal of Black Psychology, 22, 223­235.                   B. E. (1999). Research design in counseling (2nd
+                                                             ed.). Belmont, CA: Brooks/Cole.
+Andujo, E. (1988). Ethnic identity of transethni-
+     cally adopted Hispanic adolescents. Social         Hishinuma, E. S., Andrade, N. N., Johnson, R. C.,
+     Work, 33, 531­535.                                      McArdle, J. J., Miyamoto, R. H., Nahulu,
+                                                             L. B., et al. (2000). Psychometric properties
+Benson, P. J., Sharma, A. R., & Roehlkepartain,              of the Hawaiian Culture Scale--Adolescent
+     E. C. (1994). Growing up adopted: A portrait of         version. Psychological Assessment, 12, 140 ­157.
+     adolescents and their families. Minneapolis, MN:
+     Search Institute.                                  Hollingsworth, L. D. (1997). Effect of transra-
+                                                             cial/transethnic adoption on children's ra-
+Bernal, M. E., Knight, G. P., Ocampo, K. A.,                 cial and ethnic identity and self-esteem: A
+     Garza, C. A., & Cota, M. K. (1990). The de-             meta analysis. Marriage and Family Review, 25,
+     velopment of Mexican American identity in               99 ­130.
+     Mexican American children. Hispanic Journal
+     of Behavioral Sciences, 12, 3­24.                  Kim, W. J. (1995). International adoption: A case
+                                                             review of Korean children. Child Psychiatry
+Bimmel, N., Juffer, F., van IJzendoorn, M. H., &             and Human Development, 25, 141­154.
+     Bakermans-Kranenburg, M. J. (2003). Prob-
+     lem behaviors of internationally adopted ad-       Lee, D. C. (2000). Ethnic perspective-taking abil-
+     olescents: A review and meta-analysis. Har-             ity and ethnic attitudes in development of
+     vard Review of Psychiatry, 11, 64 ­77.                  Korean-born adoptee youth (Doctoral disser-
+                                                             tation, University of Wisconsin-Madison,
+Carstens, C., & Julia, M. (2000). Ethnoracial                2000). Dissertation Abstracts International, 61,
+                                                             6737.
+
+                                                        Lee, R. M. (2003). The transracial adoption par-
+                                                             adox: History, research, and counseling im-
+                                                             plications of cultural socialization. The Coun-
+                                                             seling Psychologist, 31, 711­744.
+
+                                                        Lindblad, F., Hjern, A., & Vinnerljung, B. (2003).
+                                                             Intercountry adopted children as young
+Transracially Adopted Korean Children                    143
+
+     adults: A Swedish cohort study. American Jour-           tural research. In J. G. Ponterotto, J. M. Ca-
+     nal of Orthopsychiatry, 73, 190 ­202.                    sas, L. A. Suzuki, & C. M. Alexander (Eds.)
+                                                              Handbook of multicultural counseling (2nd ed.,
+McRoy, R. G., & Zurcher, L. A. (1983). Transra-               pp. 604 ­ 630). Newbury Park, CA: Sage.
+     cial and inracial adoptees. Springfield, IL:
+     Charles C Thomas.                                   Quintana, S. M., Ybarra, V. C., Gonzalez-Doupe,
+                                                              P., & de Baessa, Y. (2000). Cross-cultural eval-
+National Association of Black Social Workers.                 uation of ethnic perspective-taking ability in
+     (1972, April). Position statement on transracial         two samples: U.S. Latino and Guatemalan
+     adoptions. Presented at the National Associa-            Ladino children. Cultural Diversity and Ethnic
+     tion of Black Social Workers conference,                 Minority Psychology, 6, 334 ­351.
+     Nashville, TN.
+                                                         Rosenberg, M. (1965). Society and the adolescent
+Ogbu, J. U. (1994). From cultural difference to               self-image. Princeton, NJ: Princeton University
+     differences in cultural frame of reference. In           Press.
+     P. M. Greenfield & R. R. Cocking (Eds.),
+     Cross-cultural roots of minority child development  Rosenberg, M. (1979). Conceiving the self. New
+     (pp. 365­392). Hillsdale, NJ: Erlbaum.                   York: Basic Books.
+
+Portes, A., & Rumbaut, R. G. (1996). Immigrant           Simon, R. J., & Alstein, H. (1992). Adoption, race,
+     America: A portrait. Berkeley: University of Cal-        and identity. New York: Praeger.
+     ifornia Press.
+                                                         Simon, R. J., & Alstein, H. (2000). Adoption across
+Quintana, S. M. (1994). A model of ethnic per-                borders. Lanham, MA: Rowman & Littlefield.
+     spective taking ability applied to Mexican-
+     American children and youth. International          Simon, R. J., & Alstein, H. (2002). Adoption, race,
+     Journal of Intercultural Relations, 18, 419 ­ 448.       and identity: From infancy to adulthood. New
+                                                              Brunswick, NJ: Transaction.
+Quintana, S. M. (1998). Development of chil-
+     dren's understanding of ethnicity and race.         Suinn, R. M., Khoo, G., & Ahuna, C. (1995). The
+     Applied and Preventive Psychology: Current Scien-        Suinn­Lew Asian Self-Identity Acculturation
+     tific Perspectives, 7, 27­ 45.                           Scale: Cross-cultural information. Journal of
+                                                              Multicultural Counseling and Development, 23,
+Quintana, S. M., Castan~eda-English, P., & Ybarra,            139 ­148.
+     V. C. (1999). Role of perspective-taking abil-
+     ity and ethnic socialization in the develop-        Taylor, R. J., & Thorton, M. C. (1996). Child
+     ment of adolescent ethnic identity. Journal of           welfare and transracial adoption. Journal of
+     Research on Adolescence, 9, 161­184.                     Black Psychology, 22, 282­291.
+
+Quintana, S. M., Chun, E., Gonsalves, S., Kaeo,          Vonk, M. E. (2001). Cultural competence for
+     W. D. K., & Lung, L. (2004). Hawaiian chil-              transracial adoptive parents. Social Work, 46,
+     dren's developmental understanding of race               246 ­255.
+     and culture. Hulili: A Multidisciplinary Research
+     in Hawaiian Well-Being, 1, 173­195.                 Wickes, K. L., & Slate, J. R. (1997). Transracial
+                                                              adoption of Koreans: A preliminary study of
+Quintana, S. M., & Kim, E. (1998). [Korean in-                adjustment. International Journal for the Ad-
+     ternational children's perspective-taking abil-          vancement of Counselling, 19, 187­195.
+     ity]. Unpublished raw data.
+                                                         Yoon, D. P. (2001). Causal modeling predicting
+Quintana, S. M., & Segura-Herrera, T. (2003).                 psychological adjustment of Korean-born ad-
+     Developmental transformations of self and                olescent adoptees. Journal of Human Behavior
+     identity in context of oppression. Journal of            in the Social Environment, 3, 65­ 82.
+     Self and Identity, 2, 269 ­285.
+                                                         Zhou, M. (1997). Growing up American: The
+Quintana, S. M., Troyano, N., & Taylor, G.                    challenging confronting immigrant children
+     (2001). Cultural validity and inherent chal-             and children of immigrants. Annual Review of
+     lenges in quantitative methods for multicul-             Sociology, 23, 63­95.
+

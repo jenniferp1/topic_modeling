@@ -1,0 +1,1580 @@
+Developmental Psychology                                                         Copyright 2006 by the American Psychological Association
+2006, Vol. 42, No. 5, 747­770                                                      0012-1649/06/$12.00 DOI: 10.1037/0012-1649.42.5.747
+
+Parents' Ethnic­Racial Socialization Practices: A Review of Research
+                       and Directions for Future Study
+
+      Diane Hughes                                                                 James Rodriguez
+
+     New York University                                                            Columbia University
+
+     Emilie P. Smith                                                              Deborah J. Johnson
+
+Pennsylvania State University                                                    Michigan State University
+
+ Howard C. Stevenson                                                                   Paul Spicer
+
+ University of Pennsylvania                                                       University of Colorado
+
+                               Recently, there has been an emergence of literature on the mechanisms through which parents transmit
+                               information, values, and perspectives about ethnicity and race to their children, commonly referred to as
+                               racial or ethnic socialization. This literature has sought to document the nature of such socialization, its
+                               antecedents in parents' and children's characteristics and experiences, and its consequences for children's
+                               well-being and development. In this article, the authors integrate and synthesize what is known about
+                               racial and ethnic socialization on the basis of current empirical research, examining studies concerning
+                               its nature and frequency; its child, parent, and ecological predictors; and its consequences for children's
+                               development, including ethnic identity, self-esteem, coping with discrimination, academic achievement,
+                               and psychosocial well-being. The authors also discuss conceptual and methodological limitations of the
+                               literature and suggest directions for future research.
+
+                               Keywords: socialization, child-rearing practices, racial and ethnic groups, intergroup dynamics, ethnic
+                               identity
+
+   Over 2 decades ago, scholars introduced the notion that com-                  racial and ethnic socialization processes across multiple ethnic
+munications to children about ethnicity and race are central and                 minority groups had emerged. For instance, large-scale ethnogra-
+highly salient components of parenting in ethnic minority families.              phies suggested that recent immigrants to the United States em-
+In the early 1980s, in-depth portraits of African American families              phasize children's acquisition of their native cultural values, be-
+described parents' concerns that their children would encounter                  liefs, practices, and language (Pessar, 1995; Rodriguez & Sa´nchez
+racial barriers and negative stereotypes and their corresponding                 Korrol, 1996; Sua´rez-Orozco & Sua´rez-Orozco, 1995, 2001; Ur-
+emphasis on promoting high self-esteem, instilling racial pride,                 ciuoli, 1996; Waters, 1990, 1994, 1999). Quantitative studies also
+and preparing children for bias (Peters & Massey, 1983; Richard-                 attempted to classify and assess parents' racial and ethnic social-
+son, 1981; Spencer, 1983; Tatum, 1987). By the 1990s, studies on                 ization practices (e.g., Stevenson, 1994, 1995; Thornton, 1997,
+                                                                                 1998; Thornton, Chatters, Taylor, & Allen, 1990), to examine the
+   Diane Hughes, Department of Psychology, New York University; James            sociodemographic and ecological correlates of these practices
+Rodriguez, Department of Child and Adolescent Psychiatry, Columbia               (e.g., Hughes, 2003; Hughes & Chen, 1997; Hughes & Johnson,
+University; Emilie P. Smith, Department of Human Development and                 2001; Thornton et al., 1990), and to determine their consequences
+Family Studies, Pennsylvania State University; Deborah J. Johnson, De-           for children and adolescents (e.g., Knight, Bernal, Cota, Garza, &
+partment of Family and Child Ecology, Michigan State University; Howard          Ocampo, 1993; Knight, Bernal, Garza, Cota, & Ocampo, 1993;
+C. Stevenson, Department of Applied Psychology and Human Develop-                Marshall, 1995; Phinney & Chavira, 1995; Quintana & Vera,
+ment, University of Pennsylvania; Paul Spicer, Department of Psychiatry,         1999; Spencer, 1983; Stevenson, Reed, Bodison, & Bishop, 1997).
+University of Colorado.                                                          Thus, the literature on parents' ethnic and racial socialization has
+                                                                                 grown tremendously in recent years.
+   Preparation of this article was supported, in part, by William T. Grant
+Foundation Grant 2642 and National Science Foundation Grant 0218159 to              Increased scholarly interest in racial and ethnic socialization has
+Diane Hughes and by a grant from Pennsylvania State University for a             been precipitated by a complex set of factors. Among the most
+meeting of the Study Group on Race, Culture, and Ethnicity (SGRCE). We           important has been what some have called the "browning of
+thank members of the SGRCE for initial conceptual contributions and Hiro         America." By 2035, children of color are expected to constitute
+Yoshikawa, Marybeth Shinn, Irwin Sandler, and Nancy Hill for their               50% of the U.S. school population, with the greatest increase
+thoughtful comments on drafts of this article.                                   coming from students of Hispanic descent (U.S. Census Bureau,
+                                                                                 2004). Thus, scholars, educators, and parents need to know about
+   Correspondence concerning this article should be addressed to Diane           processes that enable children to negotiate contexts characterized
+Hughes, Department of Psychology, New York University, 6 Washington              by high racial, ethnic, and cultural diversity. Parents' socialization
+Place, Room 280, New York, NY 10003. E-mail: diane.hughes@nyu.edu
+
+                                                                            747
+748 HUGHES ET AL.
+
+regarding ethnicity and race is likely to be among the most im-                    Conceptual Issues in Defining the Domain
+portant of these processes.
+                                                                          Racial Versus Ethnic Socialization
+   Scholars have also recognized that empirical knowledge about
+normative developmental and family processes within ethnic mi-               The terms racial socialization and ethnic socialization are each
+nority families is limited but sorely needed (Fisher, Jackson, &          used broadly to refer to the transmission from adults to children of
+Villarruel, 1998; Garc´ia Coll, Crnic, Lamberty, & Wasik, 1996;           information regarding race and ethnicity. Historically, these terms
+Garc´ia Coll, Meyer, & Brillon, 1995; Garc´ia Coll & Va´zquez             have been applied to somewhat different phenomena in different
+Garc´ia, 1995; Harrison, Wilson, Pine, Chan, & Buriel, 1990;              groups. Research on racial socialization emanated from scholars'
+McLoyd, Cauce, Takeuchi, & Wilson, 2000; Swanson, Spencer, et             efforts to understand how African American parents maintain
+al., 2003). Thus, recent theory and research has focused on elab-         children's high self-esteem and prepare them to understand racial
+orating constructs and processes that may be unique to various            barriers given systems of racial stratification in the United States
+ethnic minority groups. For example, recent findings regarding the        (Boykin & Toms, 1985; Peters, 1985, 2002; Spencer, 1983; Spen-
+protective functions of positive ethnic identity (Chatman, Eccles,        cer & Markstrom-Adams, 1990; Tatum, 1987; Thornton et al.,
+& Malanchuk, 2005; Oyserman, Harrison, & Bybee, 2001; Shelton             1990). Research on ethnic socialization originated in the experi-
+et al., 2005) have precipitated questions regarding practices that        ences of immigrant Latino, Asian, and (less often) African and
+promote it. Again, parents' ethnic and racial socialization are           Caribbean groups in the United States, having focused largely on
+likely to be especially important.                                        children's cultural retention, identity achievement, and in-group
+                                                                          affiliation in the face of competing pressures to assimilate to the
+   Finally, there is increased recognition that ethnic minority           dominant society (Knight, Bernal, Cota, et al., 1993; Knight,
+youths encounter unique ecological demands and developmental              Bernal, Garza, et al., 1993; Ou & McAdoo, 1993; Quintana &
+tasks stemming from societal discrimination against and devalua-          Vera, 1999). Currently, however, the two concepts overlap con-
+tion of ethnic minority group members (American Civil Liberties           siderably. Although the term racial socialization is still used
+Union, 1998; Charles, Dinwiddie, & Massey, 2004; Cunningham,              almost exclusively in research with African Americans, reflecting
+Swanson, Spencer, & Dupree, 2003; Garc´ia Coll et al., 1996;              deeply entrenched constructions of U.S. race relations as a Black-
+Swanson, Cunningham, & Spencer, 2003). Recent empirical work              versus-White problem, its current conceptualization includes ex-
+has documented subtle and insidious forms of bias against youths          posure to cultural practices and objects, efforts to instill pride in
+of color as well as the negative consequences of these for mental         and knowledge about African Americans, discussions about dis-
+health (Kessler, Mickelson, & Williams, 1999; Szalacha, Erkut,            crimination and how to cope with it, and strategies for succeeding
+Garc´ia Coll, Alarco´n, et al., 2003; Szalacha, Erkut, Garc´ia Coll,      in mainstream society. The term ethnic socialization is currently
+Fields, et al., 2003; Williams, Neighbors, & Jackson, 2003). Thus,        applied in research on multiple ethnic groups, including African
+studies of ethnic and racial socialization, in part, reflect psychol-     Americans, and covers the same conceptual territory.
+ogists' efforts to understand how families of color experience and
+discuss social inequalities and injustices and how they teach chil-          The fact that researchers use different terminology to refer to
+dren to manage them.                                                      similar processes in different ethnic or racial groups means that the
+                                                                          literature is fragmented and difficult to integrate. However, devel-
+   In this article, we evaluate and integrate existing studies of racial  oping a clear consensus on when the term ethnic socialization
+and ethnic socialization.1 Our primary objective is to take stock of      versus the term racial socialization should be used may also pose
+what is known and to pave the way for forward movement in this            challenges. Technically, both ethnic and racial socialization are
+area. Because the literature is characterized by wide variation in        applicable across all ethnic­racial groups, because all people are
+terminology, conceptualization, and operationalization of con-            members of racial categories that are legally recognized by the
+structs, we begin by discussing these issues, because they present        U.S. government, and all people are members of an ethnic group,
+challenges to integrating the literature. In the remaining sections,      defined as a group of people who share a common culture, reli-
+we first review studies that have sought to describe ethnic and           gion, language, or nationality (Cooper, Garc´ia Coll, Bartko, Davis,
+racial socialization. We focus on the four themes that have               & Chatman, 2005). Moreover, parents from all ethnic and racial
+emerged most often in empirical research, which we term                   groups probably transmit messages to children about issues such as
+cultural socialization, preparation for bias, promotion of mis-           cultural heritage and group social status, including discussions
+trust, and egalitarianism. Then, we review studies of the ante-           about the prevalence of stereotypes and discrimination based on
+cedents of racial and ethnic socialization and its consequences           phenotypic characteristics, language competencies, and other
+for a range of youth outcomes. Finally, we discuss conceptual             group characteristics. Notably, although White parents are rarely
+and methodological issues that are common across existing
+studies and limit what is known. We conclude by outlining                    1 Our review covers articles from peer-reviewed journals and book
+directions for future research.                                           chapters in psychology, sociology, and related fields, which were identified
+                                                                          by searching PsycINFO, Sociological Abstracts, ERIC, JSTOR, Ingenta,
+   To facilitate our goals, we provide basic information about            LexisNexis, and ProQuest between 1975 and 2005 using the keywords
+studies of ethnic and racial socialization in Table 1. Where studies      "racial socialization" and "ethnic socialization" and combinations such as
+have examined multiple dimensions, we list the terms used to              "parenting and ethnic identity" in the title, abstract, keyword, or full-text
+reference particular themes and, if possible, classify them accord-       listings. We perused citation lists for other articles that seemed relevant and
+ing to the four themes that constitute our focus. Although any            searched the Social Sciences Citation Index for recent work that cited key
+specific ethnic­racial socialization message may simultaneously           articles. This iterative process yielded over 50 empirical articles. Although
+contain two or more themes, we believe that it is conceptually and        the literature seems ripe for an integrative review, too few articles exist to
+empirically useful to distinguish them.                                   warrant a formal meta-analysis.
+ETHNIC­RACIAL SOCIALIZATION                                             749
+
+included in studies of socialization about ethnicity and race (for      common terminology that recognizes multiple dimensions of
+exceptions, see Hamm, 2001; Hughes & Chen, 1999), such social-          ethnic­racial socialization would benefit the literature immensely.
+ization is quite likely to take place within White families as well,
+especially in communities that are ethnically and racially inte-           Finally, the literature is characterized by great variety in how
+grated. Nevertheless, across racial and ethnic groups, either type of   ethnic­racial socialization is empirically operationalized. Al-
+discussion can concern ethnicity (e.g., discussions pertaining to       though diversity in measurement is needed in any field, the current
+being Puerto Rican, West Indian, or Chinese) or race (e.g., dis-        diversity within the socialization literature presents challenges to
+cussions pertaining to being Black, White, or Asian), and the basis     synthesis, because different measurement approaches yield differ-
+for determining when such discussions should be termed racial or        ent information. A close examination of existing measures indi-
+ethnic socialization can be tricky.                                     cates that some assess parent (or adolescent) attitudes and values
+                                                                        (Stevenson, 1994, 1995), some assess parents' behaviors and prac-
+   In our view, there is not yet a satisfying solution for unambig-     tices (Hughes & Chen, 1997), and some infer ethnic­racial social-
+uously distinguishing socialization that is racial from socialization   ization from significant correlations between parents' and chil-
+that is ethnic or for determining when one term should be used          dren's ethnic­racial attitudes or practices (e.g., Barnes, 1980;
+rather than the other. Further, we believe that both terms are too      Smith, Atkins, & Connell, 2003). In addition, inductively coded
+broad and nonspecific to be conceptually or empirically useful.         open-ended questions, closed-ended binary questions, and Likert-
+Thus, researchers will need to adopt terminology that is more           type survey questions, each of which have been used across
+precise and descriptive. Here, rather than attempting to settle the     studies, produce different types of information that are not readily
+issue, we use the combined term ethnic­racial socialization when        comparable. Open-ended questions assess what first comes to
+referring to the broader research literature and focus on other         mind when parents reflect on their child-rearing goals, an indicator
+definitional and conceptual issues that we regard as more impor-        of the salience of a particular ethnic­racial socialization theme.
+tant. We later propose that the terms cultural socialization, prep-     However, such open-ended questions provide limited information
+aration for bias, promotion of mistrust, and egalitarianism be used     about the range of messages that parents transmit, because multiple
+in lieu of these broad terms to refer to distinctions in the nature of  types of messages are not assessed independently. Binary ques-
+messages parents transmit about ethnicity and race.                     tions assess the prevalence of specified dimensions of ethnic­
+                                                                        racial socialization (e.g., whether they are ever used), and Likert-
+Varied Operationalization of Ethnic­Racial Socialization                type survey measures assess the strength of ethnic­racial
+                                                                        socialization values or the frequency of ethnic­racial socialization
+   To date, studies have varied considerably in how ethnic­racial       practices. In moving forward, researchers need to determine
+socialization is conceived and measured, limiting researchers'          whether their research questions call for an assessment of attitudes or
+ability to integrate findings across studies. To illustrate, Table 1    of behavior and whether relative salience, presence versus absence, or
+lists conceptualizations in existing work. As the table shows, some     frequency is the variable most relevant to their study goals.
+studies have focused solely on transmission of cultural values,
+knowledge, and practices (cultural socialization); some have fo-          The Content and Frequency of Parents' Ethnic­Racial
+cused solely on preparing youths for discrimination (preparation                                    Socialization
+for bias); some have examined multiple dimensions of ethnic­
+racial socialization; and some have examined ethnic­racial social-         We turn now to examining research that has sought to describe
+ization as a unidimensional construct. When the broad terms ethnic      the substantive content of parents' ethnic­racial socialization mes-
+socialization or racial socialization are used to refer to these        sages. In doing so, we distinguish studies using different assess-
+different conceptualizations, it becomes difficult to integrate find-   ment methods in terms of what they suggest regarding the salience,
+ings across studies. For the literature to advance, researchers need    prevalence, and frequency of different messages to youths.
+to use more precise and descriptive terminology that refers to the
+content or type of message that is under examination (e.g., prep-       Cultural Socialization
+aration for bias, specifically, rather than ethnic socialization, gen-
+erally), much as the literature on parenting distinguishes harsh           We propose that the term cultural socialization be used to refer
+from inconsistent discipline and authoritative, authoritarian, and      to parental practices that teach children about their racial or ethnic
+permissive parenting styles.                                            heritage and history; that promote cultural customs and traditions;
+                                                                        and that promote children's cultural, racial, and ethnic pride, either
+   Closely related to this, although common ethnic­racial themes        deliberately or implicitly (Boykin & Toms, 1985; Hughes, Bach-
+have emerged in many studies, scholars have not developed a             man, Ruble & Fuligni, 2006; Hughes & Chen, 1999; Thornton et
+common terminology to refer to them. Among the terms for                al., 1990; Uman~a-Taylor & Fine, 2004). Examples include talking
+messages about cultural pride, history, and heritage (cultural so-      about important historical or cultural figures; exposing children to
+cialization) are cultural emersion (O'Connor, Brooks-Gunn, &            culturally relevant books, artifacts, music, and stories; celebrating
+Graber, 2000), cultural pride reinforcement, cultural legacy ap-        cultural holidays; eating ethnic foods; and encouraging children to
+preciation (Stevenson, Herrero-Taylor, Cameron, & Davis, 2002),         use their family's native language. Cultural socialization shares
+and integrative/assertive socialization (Demo & Hughes, 1990).          conceptual space with other well-established social scientific con-
+Discussion with children about discrimination (preparation for          structs such as enculturation, and it has been central to researchers'
+bias) has been termed racism awareness training (Stevenson,             ideas regarding parental influences on children's ethnic and racial
+1994, 1995), racial barrier awareness (Bowman & Howard,                 identity formation (Bowman & Howard, 1985; Hughes & Chen,
+1985), racism struggles (Johnson, 1988), and cautious/defensive         1997; Knight, Bernal, Cota, et al., 1993; Knight, Bernal, Garza,
+socialization (Demo & Hughes, 1990). Again, development of a
+                                                                                                                    (text continues on page 756 )
+Table 1                                                                                                                                                                                                  750 HUGHES ET AL.
+Methodological and Measurement Characteristics of Studies That Directly Assess Ethnic­Racial Socialization
+
+                                                     Study characteristics                                   Authors' label for proposed dimensions of ethnic­racial socialization
+
+Study                   Age of                       Sample size  Participants Method of assessment            Cultural         Preparation for Promotion of                    Other
+                      target child Race/ethnicity       1,328                                                socialization            bias mistrust Egalitarianism
+
+Biafora, Taylor, et   Grades 6­7   African                377     Youth       9-item Likert-type measure                        Racial              Cultural
+   al. (1993);           (boys)       American,             76                   assessing adolescents'                            awareness/          mistrust
+   Biafora, Warheit,                  Haitian,                    Youth          attitudes about Whites                            pride
+   et al. (1993)                      Caribbean             50    Mother and     and messages received
+                                                                                 from family about
+Bowman &              14­24 years African                 200        youth       discrimination              Ethnic pride       Racial barrier                    Egalitarianism Global; taught
+   Howard (1985)                           American       115                    experiences                                       awareness                                             nothing; self-
+                                                            88    Youth                                      Pro-Black                                                                   development
+                                                                              Content coding of 2 NSBA          attitudes
+Branch &              4­7 years    African                        Caregiver      open-ended questions to                                            Teach about Teach an        No teaching
+   Newcombe                           American                    Youth          yield fourfold              Racial pride                                                          about race
+   (1986)                                                                        classification                                                     racial        egalitarian
+                                                                  Parent and                                 Racial pride;
+                                                                     youth    17-item Likert-type               Afrocentric                         matters in    position
+                                                                                 measure of parents'            home
+                                                                                 racial awareness; 40-                                              a pro-Black/
+                                                                                 item measure of parents'    Cultural pride
+                                                                                 Black ethnocentrism; 5         reinforcement;                      anti-White
+                                                                                 open-ended interview           cultural
+                                                                                 questions about parents'       appreciation                        direction
+                                                                                 child-rearing strategies       of legacy
+Brega & Coleman Grades 10­ African                                               vis-a`-vis race                                Racial barriers                   Humanitarian  Self-development;
+                                                                                                             Bicultural                                              values        no primary
+(1999)                11 American                                             8 content-coded open-             (verbal and                                                        orientation
+                                                                                 ended interview                behavioral
+Caughy et al.         3.0­4.5      African                                       questions assessing            evidence of     Preparation for Promotion of                    Spirituality
+   (2002)                years        American                                   racial socialization           teaching about     bias mistrust
+                                                                                 practices, yielding a          heritage)
+Constantine &         Grades 6­8 African                                         global measure and a                           Cultural                          Cultural
+                                                                                 primary orientation for                           alertness to                      endorsement
+Blackmon (2002)                    American                                      each respondent                                   discrimination;                   of
+                                                                                                                                   cultural                          mainstream
+                                                                              40 items from the PERS to                            coping with
+                                                                                 assess socialization                              antagonism                                         Deemphasis/
+                                                                                 practices; 10-item                                                                                      denial;
+DeBerry et al.        Transracial  African                                       observational checklist                                                                                 ambivalent/
+   (1996)                adoptees     American                                   of objects in home                                                                                      inconsistent;
+                         (Time 1      youth;                                                                                                                                             overzealous/
+                         M7           European                                40 items from the TERS                                                                                     overenthused;
+                         years;       American                                   assessing the frequency                                                                                 multiracial
+                         Time 2       parents                                    of messages received
+                         M  17                                                   from parents
+                         years)
+                                                                              Content coding of open-
+                                                                                 ended interview
+                                                                                 regarding ethnic­racial
+                                                                                 socialization practices
+                                                                                 that yielded a fivefold
+                                                                                 classification of families
+Table 1 (continued )
+
+                                                    Study characteristics                               Authors' label for proposed dimensions of ethnic­racial socialization
+
+Study                   Age of                                              Method of assessment          Cultural         Preparation for Promotion of        Other
+                      target child Race/ethnicity Sample size Participants                              socialization            bias mistrust Egalitarianism
+
+Demo & Hughes       Not           African           2,107  Adult            Content coding of 2 NSBA    Integrative/                         Cautious/     Individualistic/ Taught nothing
+   (1990)              specified     American          23  Youth               questions                   assertive                            defensive     universalistic
+                                                                                                                                                                               Spiritual coping
+Fatimilehin (1999)  Adolescents   Biracial (White/                          40 items from the TERS      Cultural survival  Racism                                                 socialization
+                       (M  15        Black)                                    assessing the frequency     socialization;     struggles
+                       years)                                                  of messages received        pride              socialization                                    Pluralism
+                                                                               from parents                development                                                         Cultural survival;
+                                                                                                           socialization
+Fischer & Shaw      College       African           119    Youth            11 items regarding teen                        Racism                                                 spiritual coping
+   (1999)                                                                                               Cultural              awareness;
+                      students    American                                  socialization attitudes        socialization      racism                                            (table continues)
+                                                                                                                              teaching
+                                                                            from the Racism             Cultural
+                                                                                                           socialization
+                                                                            Awareness Teaching
+                                                                                                        Cultural
+                                                                            subscale of the SORS; 8        socialization/
+                                                                                                           pluralism
+                                                                            items regarding received
+                                                                                                        Pride
+                                                                            socialization experiences      development                                                                              ETHNIC­RACIAL SOCIALIZATION
+
+                                                                            from the TERS               Ethnic
+                                                                                                           socialization
+Frabutt et al. (2002) Early       African           66     Parent           7-item Parent Management                       Proactive
+                                                                                                                              responses to
+                      adolescents American                                  Questionnaire assessing                           racial
+                                                                                                                              discrimination
+                                                                            the frequency and
+                                                                                                                           Preparation for
+                                                                            breadth of parents'                               bias
+
+                                                                            discussions with                               Preparation for Promotion of
+                                                                                                                              bias mistrust
+                                                                            children about
+                                                                                                                           Preparation for Promotion of
+                                                                            discrimination                                    bias mistrust
+
+Hughes (2003)       6­17 years    African           274    Parent           10 items assessing the                         Racism
+                    4­14 years       American,      157                                                                       struggles
+Hughes & Chen                        Dominican,      94                     prevalence (ever
+   (1997)                            and Puerto
+                                     Rican                                  happen) and frequency
+
+                                  African                                   of parents' socialization
+                                     American
+                                                                            practices
+
+                                                           Parent           16 items assessing the
+
+                                                                            prevalence (ever
+
+                                                                            happen) and frequency
+
+                                                                            of socialization practices
+
+Hughes & Johnson 8­11 years African                        Parent and 15 items assessing the
+
+(2001)                            American                 adolescent prevalence (ever
+
+                                                                            happen) and frequency
+
+                                                                            of parents' racial
+
+                                                                            socialization practices
+
+Johnson (2001)      Grades 3­7 African              37     Parent and 40 items from the TERS
+                                         American   59
+Knight, Bernal,                                            child assessing the frequency
+   Cota, et al.     9­12 years Mexican
+   (1993)                                American                           of messages received
+
+                                                                            from parents
+
+                                                           Parent and 68 Likert-type survey
+
+                                                           child items regarding ethnic
+
+                                                                            foods, teaching about
+
+                                                                            ethnic culture, Mexican
+
+                                                                            objects in the home, and
+
+                                                                            teaching about ethnic
+
+                                                                            pride and discrimination                                                                                                751
+Table 1 (continued )                                                                                                                                                                      752 HUGHES ET AL.
+
+                                                  Study characteristics                                   Authors' label for proposed dimensions of ethnic­racial socialization
+
+Study                   Age of                                              Method of assessment            Cultural          Preparation for Promotion of              Other
+                      target child Race/ethnicity Sample size Participants                                socialization             bias mistrust Egalitarianism
+
+Knight Bernal,     6­10 years Mexican             45           Parent       36 Likert-type items          Teaching            Teaching
+   Garza, et al.                        American                                                             Mexican             about
+   (1993)                                                                   assessing teaching about         culture;            discrimination
+                                                                                                             teaching
+                                                                            Mexican culture; 11              pride; objects   Racial barriers
+                                                                                                             in the home
+                                                                            items assessing teaching
+                                                                                                          Racial pride
+                                                                            about pride and
+                                                                                                          Cultural
+                                                                            discrimination; 21-item          socialization
+
+                                                                            checklist about Mexican       Cultural pride
+
+                                                                            objects in the home           Cultural
+                                                                                                             immersion
+Marshall (1995)    9­10 years African             58           Mother and 7 binary questions with                                                             Equality  Nothing; self-
+                                        American                                                          Maintenance of                                                   development;
+                                                               child open-ended follow-up                    Chinese                                                       physical
+                                                                                                             language;                                                     attributes
+                                                                            probes (probes were              pride in
+                                                                                                             Chinese                                                    Religiosity
+                                                                            content coded; answers           culture; belief                                            Racial
+                                                                                                             in Chinese
+                                                                            to binary questions were         culture;                                                      socialization
+                                                                                                             preservation
+                                                                            summed to create                 of Chinese
+                                                                                                             customs
+                                                                            measure used in
+
+                                                                            analysis)
+
+McHale et al. (in  6­17 years African             86 families  Mother,      12 items (from Hughes &                           Preparation for
+   press)                                                                                                                        bias
+                               American                        father,      Chen, 1997) assessing
+                                                                                                                              Racism
+                                                               and 2        the frequency of                                     awareness
+
+                                                               siblings     parents' racial
+
+                                                                            socialization behaviors
+
+McKay et al.       Grades K­8 African             161          Parent       42-item SORS assessing
+   (2003)                               American  131
+                                                                            attitudes toward racial
+
+                                                                            socialization
+
+Miller & MacIntosh Grades 8­ African                           Youth        Sum of 45 items from the
+
+(1999)                12 American                                           SORS-A assessing
+
+                                                                            adolescent attitudes
+
+                                                                            toward racial
+
+                                                                            socialization
+
+O'Connor et al.    8­9 years   African            140          Parent and 19 items (based on Hughes                           Cultural           Cultural
+   (2000)             (girls)     American        192                                                                            history            distance
+                                  and White                    adolescent & Chen, 1997)
+Ou & McAdoo
+   (1993)                                                                   regarding parents' racial
+
+                                                                            socialization practices
+
+                   Grades 1­2 1st-generation                   Parent       22 items assessing attitudes
+
+                      and 5­6  Chinese                                      toward Chinese values
+
+                                                                            vis-a`-vis child rearing
+
+                                                                            and maintenance of
+
+                                                                            Chinese traditions; 1
+
+                                                                            item assessing attitudes
+
+                                                                            toward child's study of
+
+                                                                            Chinese language
+Table 1 (continued )
+
+                                                       Study characteristics                                    Authors' label for proposed dimensions of ethnic­racial socialization
+
+                      Age of target                                                                             Cultural           Preparation for Promotion of
+                          child Race/ethnicity Sample size Participants
+Study                                                                              Method of assessment         socialization      bias              mistrust Egalitarianism  Other
+
+Parham & Williams  Adults ages 16­     African         114             Adult       Content coding of 2 NSBA
+   (1993)             68 years (no        American
+                      target child                                                 questions
+Phinney & Chavira     identified)      African
+   (1995)                                 American,     60 parents,    Parent and  4 binary questions (teach    Culture; pride     Coping with                   Adaptation   Emphasis on
+                   16­18 years            Japanese        60 youths       youth       about cultural practice;                        prejudice;                                 achievement
+                                          American,                                   teach about mainstream;   Ethnic                prejudice as
+                                          and           43             Parent and     teach about diversity;       socialization      problem
+                                          Mexican         adolescents     youth       teach about
+                                          American        and their                   discrimination) followed  Ethnic             Racial barrier
+                                                          parents      Parent and     by inductive coding of       socialization      awareness
+Quintana et al.    Grades 9­12         Mexican                            youth       answers to follow-up                                                                                                ETHNIC­RACIAL SOCIALIZATION
+   (1999)                                 American      47                            probes                    Latino cultural    Racism-related
+                                                                       Parent                                      socialization;     socialization
+Quintana & Vera    Grades 2 and 6 Mexican              244                         21 items assessing              American                                                          Global
+   (1999)                                    American                                 frequency of parental        cultural
+                                                                                      practices such as            socialization                                                     Ethnic social
+Romero et al.      Adult college       1st­4th-                                       emphasizing heritage,                                                                             preference;
+   (2000)             students (M         generation                                  teaching about                                                                                    independence;
+                      27 years)           Mexican                                     discrimination, language                                                                          interdependence
+Sanders Thompson                          and                                         use, events, and food
+   (1994)          Adults                 Mexican                                                                                                                Egalitarianism Self-development
+                                          American                                 5 Likert-type items
+                                                                                      assessing parents'                                                                             Global
+                                       African                                        attitudes about ethnic
+                                          American                                    socialization and                                                                              Global
+                                                                                      Mexican culture                                                                                  (table continues)
+
+                                                                                   19-item survey measure of
+                                                                                      attitudes about American
+                                                                                      and Latino preferences,
+                                                                                      knowledge, and role
+                                                                                      behaviors
+
+                                                       225             Adult       2 items assessing the        Racial pride
+
+                                                                                   frequency of
+
+                                                                                   discussions; 2 items
+
+                                                                                   regarding impacts on
+
+                                                                                   belief and behavior rated
+
+                                                                                   on a 5-point scale; 1
+
+                                                                                   open-ended question
+
+Sanders Thompson   Reported            African         409             Adult       20 items assessing family's
+   (1999)             retrospectively     American
+                      by adults ages                                               attitudes and advice
+Scott (2003)          18­92 years      African
+                                          American                                 about race
+                   Grades 9­11 (M
+                       16 years)                       71              Youth       5 items assessing parents'
+
+                                                                                   messages about race and
+
+                                                                                   racism
+
+                                                                                                                                                                                                          753
+Table 1 (continued )                                                                                                                                                                        754 HUGHES ET AL.
+
+                                                 Study characteristics                                     Authors' label for proposed dimensions of ethnic­racial socialization
+
+Study                   Age of                                              Method of assessment             Cultural         Preparation for Promotion of        Other
+                      target child Race/ethnicity Sample size Participants                                 socialization            bias mistrust Egalitarianism
+
+Spencer (1983)       3­9 years      African      45 Mother and 5 binary survey items
+                                       American
+                                                 child assessing importance of
+
+                                                                            teaching about race,
+
+                                                                            teaching or not about
+
+                                                                            civil rights, and Black
+
+                                                                            history embedded in
+
+                                                                            larger survey measure
+
+Stevenson (1994)     Adolescents    African      200 Youth                  45-item SORS-A assessing Cultural pride Racism                                        Spiritual and
+Stevenson (1995)        (M             American                                                                                                                      religious
+Stevenson (1997)        14.6                                                adolescents' attitudes         reinforcement awareness                                   coping;
+                        years)                                                                                                                                       extended
+                                                                            about aspects of ethnic-                          training                               family caring
+
+                                                                            racial socialization                                                                  Spiritual and
+                                                                                                                                                                     religious
+                     Adolescents    African      287 Youth                  45-item SORS-A assessing       Cultural pride     Racism                                 coping;
+                        (14­16         American                                adolescents' attitudes         reinforcement      awareness                           extended
+                        years                                                  about aspects of ethnic­                          training                            family caring
+                        old)                                                   racial socialization
+                                                                                                                                                                  Spiritual and
+                     Adolescents    African      204 Youth                  45-item SORS-A assessing       Cultural pride     Racism                                 religious
+                        (no target     American  260 Youth                     adolescents' attitudes         reinforcement;     awareness                           coping;
+                        age            males                                   about aspects of ethnic­       cultural           training;                           extended
+                        specified)               127 Youth                     racial socialization           survival           racism                              family caring
+                                                 229 Youth                                                    socialization;     struggles
+Stevenson,           Adolescents    African                                 45-item TERS assessing            pride              socialization    Mainstream Spiritual and
+   Cameron, et al.      (M             American                                teens' experiences of          development
+   (2002)               14.3                                                   racial socialization           socialization   Racism              racial          religious
+                        years)                                                 messages                                          awareness
+                                                                                                           Cultural pride        training;        socialization coping
+                                                                            45-item TERS assessing            reinforcement;     cultural
+Stevenson, Herrero-  Adolescents    African                                    teens' experiences of          cultural           alertness to     Mainstream
+   Taylor, et al.       (M             American                                racial socialization           legacy             discrimination;     racial
+   (2002)               14.6                                                   messages                       appreciation       race                socialization
+                        years)                                                                                                   communication;
+                                                                            45-item attitudinal 5-point    Cultural pride        cultural                             Extended family
+Stevenson et al.     Adolescents    African                                    Likert-type scale; single-     reinforcement;     coping with                             caring; spiritual
+   (1996)               (M             American                                item question about            cultural           antagonism                              and religious
+                        14.6                                                   family discussion of           legacy                                                     coping; global
+                        years)                                                 racism                         appreciation    Cultural
+                                                                                                                                 alertness to
+                                                                                                           Cultural pride        discrimination;
+                                                                                                              reinforcement      cultural
+                                                                                                                                 coping with
+                                                                                                                                 antagonism
+
+                                                                                                                              Racism
+                                                                                                                                 awareness
+                                                                                                                                 training
+Table 1 (continued )
+
+                                                  Study characteristics                                    Authors' label for proposed dimensions of ethnic­racial socialization
+
+Study                   Age of                                              Method of assessment             Cultural        Preparation for Promotion of            Other
+                      target child Race/ethnicity Sample size Participants                                 socialization           bias mistrust Egalitarianism
+
+Stevenson et al.  Adolescents     African         287 Youth                 45-item SORS-A assessing       Cultural pride    Racism                                  Extended family
+   (1997)            (M              American     104 Parent                   attitudes toward racial        reinforcement     awareness                               caring; spiritual
+                     14.6                                                      socialization                                    training                                and religious
+Thomas & Speight     years)       African                                                                                                                               coping; global
+   (1999)                            American                               17-item measure of             Racial pride;     Overcoming     Mistrust   Egalitarian
+                  Adults ages                                                  attitudes about the            African           racism;        Whites     messages;  Achievement;
+                     17­76                                                     importance of ethnic­          American          reality of                respect       religion; self-
+                     years (M                                                  racial socialization and       heritage;         racism                    others        pride; global
+                      42                                                       specific socialization         support other
+                     years; no                                                 messages; 4 content-           Blacks         Minority
+                     target                                                    coded interview question                         experience
+                     child                                                     about importance of         Black cultural
+                     identified)                                               messages, message              experience
+                                                                               frequency, messages for
+Thompson et al.   College         African         84 Youth                     boys, and messages for      Overt and covert                                                Global                  ETHNIC­RACIAL SOCIALIZATION
+   (2000)                                                                      girls                          socialization
+                      students    American                                                                                                             Mainstream
+                                                                            Total scale score from the     Ethnic                                         experience
+Thornton (1997)   Adults          African         2,107  Parent                40-item TERS assessing         socialization
+                                     American     2,107  Parent                teens' experiences of
+Thornton et al.   Adults                                                       ethnic­racial
+   (1990)            reporting    African         1,065  Youth                 socialization
+                     on any          American
+                     child                          241  Youth              Content coding of 2 NSBA
+                                                                               questions
+Uman~a-Taylor &   13­20 years     Mexican,
+   Fine (2004)                       Nicaraguan,                            Multiple themes derived
+                                     Honduran,                                 from coding of NSBA
+Yoon (2004)                          Puerto                                    questions;
+                                     Rican, and                                presence/absence of any
+                                     Salvadoran                                racial socialization used
+                                                                               in analysis
+                  12­19 years Transracially
+                                       adopted                              8 items assessing the
+                                       Korean                                  extent to which
+                                                                               adolescents receive overt
+                                                                               (family teaches about
+                                                                               culture) and covert
+                                                                               (family participates in
+                                                                               practices) socialization
+
+                                                                            4 items assessing messages
+                                                                               about pride and
+                                                                               participation in practices
+
+Note. Only studies that explicitly included a measure of ethnic­racial socialization are represented. NSBA  National Survey of Black Americans; PERS  Parental Experience of Racial Socialization
+Scale; TERS  Teenager Experience of Racial Socialization Scale; SORS  Scale of Racial Socialization; SORS-A  Scale of Racial Socialization­Adolescent.
+
+                                                                                                                                                                                                   755
+756 HUGHES ET AL.
+
+1993; Ou & McAdoo, 1993; Sanders Thompson, 1994; Spencer,                included measures pertaining to preparation for bias. Qualitative
+1983; Stevenson, 1994; Thornton et al., 1990).                           studies often identify discussions about discrimination as a theme
+                                                                         that emerges in parents' narratives as well (Tatum, 1987; Urciuoli,
+   Studies have consistently highlighted the fact that cultural so-      1996; Ward, 1991).
+cialization is a salient aspect of child rearing. That is, promoting
+pride, cultural knowledge, and cultural traditions are among the            Overall, studies suggest that few parents spontaneously mention
+first things parents mention when asked open-ended questions             discussion with children about discrimination in response to open-
+about ethnic­racial socialization. For instance, approximately 40%       ended question about socialization. It is difficult to determine
+of a nationally representative sample of African American adults         whether this is because preparation for bias is less salient to
+who participated in the National Survey of Black Americans               parents than are other ethnic­racial socialization themes or be-
+(NSBA; Jackson & Gurin, 1997) mentioned themes related to                cause discrimination and ethnic­racial bias are too painful or
+racial pride and heritage in response to open-ended questions about      uncomfortable to discuss in the context of interviews with relative
+their ethnic­racial socialization practices (Demo & Hughes, 1990;        strangers. In the NSBA, 8% of parents and 13% of youths men-
+Thornton et al., 1990), as did 23% of the NSBA youth sample              tioned messages to children about racial barriers in response to
+(Bowman & Howard, 1985). One in 6 African American adults in             questions about what parents taught about being Black (Bowman
+Sanders Thompson's (1994) study mentioned messages about cul-            & Howard, 1985; Thornton et al., 1990). In Marshall's (1995)
+tural pride when asked to reflect retrospectively on messages about      study, 14% of African American parents and 3% of African
+race that they had received in their families of origin. In studies of   American children mentioned racial barriers in response to open-
+Chinese (Ou & McAdoo, 1993) and Latino (Quintana & Vera,                 ended questions. The exception to this pattern is Sanders Thomp-
+1999) families, parents have stressed that their children should be      son's (1994) finding that 48%­58% of African American adults
+exposed to their culture and that they benefit from speaking their       who were asked to recount race-related discussions during their
+native language.                                                         youth recalled parental messages about racial barriers. This may be
+                                                                         because discrimination is more likely to be a topic of discussion
+   Studies that have used binary indicators of whether parents           than is participation in events or other activities that parents
+engage in cultural socialization have provided evidence that cul-        engage in to promote ethnic pride and knowledge in their children.
+tural socialization is also prevalent in many families; that is, most    Nevertheless, findings that preparing children for bias is not typ-
+parents report engaging in cultural socialization practices at some      ically among the first things parents mention when asked about
+point. In studies of African American families, the percentage of        their ethnic­racial socialization practices suggest that either this
+parents who report cultural socialization with their children ranges     aspect of socialization is not especially salient to parents or that
+from 33% (Marshall, 1995) to 80% or more (Caughy, O'Campo,               other factors prevent parents from mentioning it.
+Randolph, & Nickerson, 2002; Coard, Wallace, Stevenson, &
+Brotman, 2004; Hughes, 2003; Hughes & Chen, 1997; Hughes &                  Although few parents mention preparation for bias spontane-
+Johnson, 2001; Phinney & Chavira, 1995). About 66% of Japanese           ously, studies using in-depth interviews and binary survey ques-
+parents (Phinney & Chavira, 1995) and 85% or more of Domini-             tions have found that parents do discuss issues related to discrim-
+can, Mexican, and Puerto Rican parents (Hughes, 2003; Phinney &          ination with their children, although the prevalence varies across
+Chavira, 1995) report cultural socialization. In several studies,        ethnic­racial groups. For instance, in qualitative studies, themes
+parents have been more likely to report cultural socialization than      emphasizing the existence of discrimination and teaching children
+preparation for bias and to engage in it more frequently (Caughy et      to cope with it have emerged consistently (Hamm, 2001; Hughes
+al., 2002; Hughes & Chen, 1999; Phinney & Chavira, 1995).                & DuMont, 1993; Peters & Massey, 1983; Tatum, 1987; Ward,
+                                                                         1991). In Frabutt, Walker, and MacKinnon-Lewis (2002), only 5%
+   The importance to parents of transmitting their cultural heritage     of African American parents indicated that discrimination had
+to their children has also been documented through observations          never come up in conversations with their children. Estimates of
+and ethnographies. In Caughy et al.'s (2002) observational coding        the percentage of African American parents reporting preparation
+of objects in African American families' homes, 96% had multiple         for bias in other studies range from 67% to 90% (Caughy et al.,
+Afrocentric artifacts. Ethnographic research with immigrant and          2002; Coard et al., 2004; Hughes, 2003; Hughes & Chen, 1997,
+U.S.-born Asian and Latino families, as well as with Native              1999). However, preparation for bias is more prevalent among
+American families, has documented that families transmit their           African American parents in studies comparing them with parents
+native cultural values, beliefs, and practices to their children in the  from other ethnic and racial backgrounds, including Japanese
+course of daily routines in which the native language is spoken,         American, Mexican/Mexican American, Dominican, Puerto Rican,
+native foods are served, and native traditions are observed (Pessar,     White, Haitian, and Caribbean parents (Biafora, Warheit, Zimmer-
+1995; Rodriguez & Sa´nchez Korrol, 1996; Sua´rez-Orozco &                man, & Gil, 1993; Hughes, 2003; Hughes & Chen, 1999; Phinney
+Sua´rez-Orozco, 1995, 2001; Urciuoli, 1996; Waters, 1990; Zim-           & Chavira, 1995), although many parents in these ethnic groups
+merman, Ramirez-Valles, Washienko, Walter, & Dyer, 1996).                also report it. As Ward (1991) observed, preparation for bias
+                                                                         among African American families may be part of a set of indige-
+Preparation for Bias                                                     nous child-rearing strategies, transmitted intergenerationally, that
+                                                                         emanate from shared knowledge regarding historical experiences
+   Parents' efforts to promote their children's awareness of dis-        of oppression.
+crimination and prepare them to cope with it have also been
+emphasized as a critical component of ethnic­racial socialization           Although it seems likely that preparation for bias would be
+(Hughes et al., 2006; Hughes & Chen, 1999). As can be seen in            especially common among groups who have historically been
+Table 1, most studies of ethnic­racial socialization among African       marginalized and oppressed, several studies have found that Jap-
+American families--and a few studies of ethnic­racial socializa-         anese Americans, who experienced pervasive discrimination dur-
+tion among Latino, Asian, and immigrant Black families-- have            ing World War II, rarely discuss these issues with their children. In
+ETHNIC­RACIAL SOCIALIZATION                                            757
+
+Nagata's (1990, 1993; cf. Nagata & Cheng, 2003) studies, adult         1994, 1999). This type of promotion of mistrust--aimed at pro-
+children of Japanese internees reported that their parents rarely, if  tecting children from affiliations with groups who are negatively
+ever, discussed the internment experience with them. Although          stereotyped--may be substantively different from cautions about
+95% of the subsequent generation discussed the internment with         closeness to Whites, which have been described among African
+their own children, discussions were infrequent and of limited         Americans. Thus, an interesting empirical question concerns
+duration. In Chen's (1998) dissertation study of immigrant Chinese     whether these phenomena are conceptually distinct and have dif-
+families with children ages 4 ­9 years old, only 10% of parents        ferent consequences for youths.
+discussed racial prejudice or discrimination against Chinese people
+with their children. As Nagata suggested, silence around experi-       Egalitarianism and Silence About Race
+ences of discrimination among Asian-origin groups may reflect
+cultural values that emphasize suppression of emotion, self-              Many parents either explicitly encourage their children to value
+restraint, and maintenance of harmony.                                 individual qualities over racial group membership or avoid any
+                                                                       mention of race in discussions with their children (Spencer, 1983).
+Promotion of Mistrust                                                  Boykin and Toms (1985) coined the term mainstream socialization
+                                                                       to refer to these sorts of strategies, because rather than orienting
+   We propose that the term promotion of mistrust be used to refer     youths toward their native culture or toward their minority status,
+to practices that emphasize the need for wariness and distrust in      they orient youths toward developing skills and characteristics
+interracial interactions (Hughes et al., 2006; Hughes & Chen,          needed to thrive in settings that are part of the mainstream, or
+1999). Mistrust may be communicated in parents' cautions or            dominant, culture. We refer to these types of ethnic­racial social-
+warnings to children about other racial groups or in their cautions    ization strategies as egalitarianism and silence about race, respec-
+about barriers to success. Hughes and colleagues have argued that,     tively, to distinguish them more clearly from one another.
+conceptually and empirically, messages that promote caution and
+wariness about other groups can be differentiated from preparation        Studies suggest that egalitarianism is salient to parents and
+for bias messages in that they contain no advice for coping with or    prevalent across multiple ethnic groups. In individual and focus-
+managing discrimination (Hughes & Chen, 1997; Hughes & John-           group interviews, many African American parents have said that
+son, 2001).                                                            emphasizing hard work, virtue, self-acceptance, and equality is the
+                                                                       primary ethnic­racial socialization strategy that they use (Demo &
+   Themes related to promotion of mistrust rarely emerge in re-        Hughes, 1990; Hughes & DuMont, 1993; Marshall, 1995; Thorn-
+sponse to open-ended questions, and parents rarely endorse items       ton et al., 1990). Promoting color-blind perspectives, in which
+assessing promotion of mistrust in survey-based studies. For in-       children are taught that they should not notice race, emerged as
+stance, fewer than 3% of NSBA participants mentioned that they         prominent among White parents in Hamm's (2001) qualitative
+instructed their children to maintain social distance from Whites as   study, although it was less prominent in African American parents'
+a strategy for ethnic­racial socialization (Thornton et al., 1990).    narratives. Many White parents stated that their children should
+The percentages of parents who have reported ever conveying            not choose friends on the basis of their racial or ethnic background
+cautions or warnings about other groups in survey-based studies        or try to initiate cross-race friendships simply for the purpose of
+are similarly low, ranging from 6% to 18% across multiple ethnic       diversity. In quantitative studies using binary survey questions to
+groups (Biafora, Taylor, Warheit, & Zimmerman, 1993; Biafora,          assess egalitarianism, two-thirds or more of parents from multiple
+Warheit, et al., 1993; Hughes & Chen, 1997, 1999; Hughes &             ethnic groups (including African American, White, and Latino)
+Johnson, 2001). Only one study (Caughy et al., 2002) found that a      report egalitarianism (Hughes & Chen, 1999; Phinney & Chavira,
+majority of parents (65%) reported promotion of mistrust, but the      1995). An exception is that only 22% of Japanese American
+wording of items, which focused on discrimination rather than on       parents in Phinney and Chavira's (1995) study reported
+cautions and warnings, may account for the high level of endorse-      egalitarianism.
+ment in this study.
+                                                                          Silence about race has not typically been examined as an ex-
+   Despite general patterns suggesting that promotion of mistrust is   plicit dimension of ethnic­racial socialization, although failure to
+not salient or prevalent, themes related to mistrust have emerged in   mention racial issues also communicates race-related values and
+several qualitative studies, suggesting that a subset of parents       perspectives to children. As a result, estimating silence about race
+transmit these sorts of messages to their children. In Coard et al.'s  is somewhat tricky. When estimates of such are based on the
+(2004) intensive interviews with African American parents, mes-        inverse of the percentage of parents who report other ethnic­racial
+sages that taught defensive racial protocols and emphasized social     socialization strategies, the percentage is small (e.g., Caughy et al.,
+distance and mistrust emerged for about one-third of the sample. In    2002; Frabutt et al., 2002; Hughes & Chen, 1999). However, when
+Hughes and DuMont's (1993) focus groups with African Ameri-            parents are asked open-ended questions about the strategies they
+can parents, discussions about encouraging children's vigilance in     use, a substantial minority report doing nothing, with estimates
+interactions with White peers and adults, and about the need to        ranging from 20% to 50% (Bowman & Howard, 1985; Parham &
+maintain social distance and skepticism in relationships with them,    Williams, 1993; Sanders Thompson, 1994; Thornton et al., 1990).
+emerged in every group. Ethnographic studies have also found that      We suspect that inconsistency in the conclusions that might be
+immigrant West Indian, Caribbean, and Dominican parents ex-            drawn from these different estimates is methodological. For ex-
+press strong convictions that their children should distinguish        ample, Brega and Coleman (1999) observed that field-workers
+themselves from native-born African Americans because of Afri-         who were better skilled at probing answers indicating "no racial
+can Americans' low social status. These convictions are typically      socialization" were much more likely to obtain information about
+accompanied by cautions and warnings to children about African         how and when racial issues where discussed than were less skilled
+Americans' undesirable characteristics (Pessar, 1995; Waters,          field-workers.
+758 HUGHES ET AL.
+
+Summary                                                                Setting-level characteristics and processes constitute proximal in-
+                                                                       fluences on parents' ethnic­racial socialization goals and behav-
+   Many studies have sought to examine basic questions about           iors, because it is through experiences across settings that parents
+whether parents socialize children about ethnicity and race and to     develop ideas about the skills and characteristics children need for
+categorize the nature of the messages parents transmit. Four di-       effective functioning.
+mensions of ethnic­racial socialization have been investigated
+most often: cultural socialization, preparation for bias, promotion    Children's Age
+of mistrust, and egalitarianism. Across studies, parents most com-
+monly mention cultural socialization and egalitarianism in re-            Studies suggest that parents' ethnic­racial socialization mes-
+sponse to open-ended questions, suggesting that messages about         sages are not static or constant throughout childhood but, rather,
+ethnic pride and appreciating diversity are most salient or central    shift according to children's cognitive abilities and their experi-
+to parents' child-rearing agendas. However, studies that have di-      ences (Hughes & Chen, 1997; Hughes & Johnson, 2001; Uman~a-
+rectly asked parents whether they engage in specific behaviors         Taylor & Fine, 2004). As children get older, they move from a
+have found that a majority of ethnic minority parents report prep-     rudimentary to an adult-like understanding of race (Aboud, 1988;
+aration for bias as well. Although only a few studies have exam-       Quintana, 1998). Thus, parents with young children, who lack the
+ined ethnic­racial socialization across multiple ethnic groups,        cognitive maturity to understand race as a social category, may be
+these studies have found that African American parents are more        less likely than parents of older children to discuss racial or ethnic
+likely than are other parents to report preparation for bias. How-     issues with them, especially discrimination. Moreover, adoles-
+ever, cautions or warnings about other groups are uncommon,            cents' identity-seeking processes, their ability to reflect on their
+regardless of the ethnic group examined or the assessment method       experiences, and the greater likelihood that they will encounter
+used. Asian-origin parents, both Japanese and Chinese, may be          racial bias may prompt them to initiate discussions about race with
+least likely to report conversations about discrimination or equality  their parents (Hughes & Johnson, 2001). Accordingly, the fre-
+among groups.                                                          quency of some aspects of ethnic­racial socialization may increase
+                                                                       as children get older. In particular, whereas cultural socialization
+   In future studies, it will be important for researchers to distin-  or egalitarian messages may be transmitted when children are quite
+guish different types of ethnic­racial socialization and to provide    young, discussion of more complex social processes, such as
+a clear rationale for specific aspects chosen for examination.         discrimination or wariness of other groups, may not emerge until
+Although we propose that four dominant dimensions be distin-           children reach middle childhood or adolescence.
+guished, future researchers may find it important to distinguish
+these dimensions even further (e.g., emphasizing cultural pride vs.       A comparison of findings across studies of younger and older
+teaching about history and heritage). Moreover, other types of         children is consistent with the idea that parents shift their ethnic­
+ethnic­racial socialization that researchers have not yet elaborated   racial socialization strategies to align with children's developmen-
+may also emerge as important (e.g., those containing messages          tal competencies and experiences. Studies involving preschoolers
+about in-group or out-group stereotypes). For now, if researchers      typically find a lower incidence of ethnic­racial socialization,
+are more consistent about distinguishing different types of ethnic­    especially discussions about discrimination, than do studies in-
+racial socialization messages, they will be in a better position to    volving adolescents or adults.2 In Spencer (1983), 50% of African
+understand these messages' antecedents and consequences.               American parents reported that children knew "some" or "a lot" of
+                                                                       Black history, 51% taught that all people are equal, but only 33%
+          Predictors of Ethnic­Racial Socialization                    discussed civil rights with their children. Peters and Massey (1983)
+                                                                       and Richardson (1981) found that although many African Amer-
+   Parental practices regarding ethnic­racial socialization are        ican parents of preschoolers recognized the importance of prepar-
+shaped by individual and group characteristics and by character-       ing children for discrimination, few articulated specific strategies
+istics of the contexts in which parents and children operate. In this  that they used to do so. However, studies of adolescents (Bowman
+section, we focus on five demographic and two contextual factors       & Howard, 1985; Hughes & Chen, 1997; Marshall, 1995) and
+that have been investigated most commonly: children's age and          studies involving adults' retrospective reports about received so-
+gender; parents' socioeconomic status, immigration status, and         cialization (Thomas & Speight, 1999) have found that ethnic­
+ethnic­racial identity; and, as contextual variables, region/neigh-    racial socialization includes discussions about discrimination.
+borhood and discrimination experiences. Children's age and gen-
+der constitute developmental contexts that shape parents' views           Studies that have examined children from different age groups
+about the types of experiences youths are likely to have and about     have also found age-related differences in the frequency of par-
+youths' capacity to understand their messages (Hughes & Chen,          ents' discussions with children about discrimination (Fatimilehin,
+1997; Marshall, 1995; Peters & Massey, 1983). Socioeconomic            1999; Hughes & Chen, 1997; McHale et al., in press), and some
+and immigration status constitute the sorts of social stratification   suggest differences in cultural socialization as well (Fatimilehin,
+factors that Garc´ia Coll et al. (1996) described in their model of    1999). For instance, McHale et al. (in press), using within-family
+developmental contexts for ethnic minority youth. That is, these
+factors operate primarily by shaping parents' worldviews (e.g.,           2 Caughy et al. (2002) found high levels of ethnic­racial socialization in
+ethnic identity, views about discrimination) and by determining the    their sample of African American parents with preschool children, includ-
+settings and activities in which parents and children participate.     ing ethnic pride (89%), preparation for bias (67%), and promotion of
+Although race and ethnicity are also social stratification variables   mistrust (65%). Here, however, items did not ask specifically about the
+(Garc´ia Coll et al., 1996), we have already described available       target children, and thus, it is unclear that parents were answering questions
+findings regarding ethnic­racial differences in socialization.         about 3­ 4-year-old children (M. O. Caughy, personal communication,
+                                                                       March 16, 2004).
+ETHNIC­RACIAL SOCIALIZATION                                             759
+
+analyses, found that mothers engaged in more preparation for bias       processes, including acculturation. For recent immigrants, social-
+with their older than with their younger children. Among the            ization about ethnicity occurs naturally as families participate in
+studies that have reported nonsignificant differences in parents'       the routines and practices of their home country. Among later
+ethnic­racial socialization across different age groups (Caughy et      generations, parents may need to make deliberate efforts to pro-
+al., 2002; Hughes & Johnson, 2001; Quintana & Vera, 1999), two          mote children's identification with their ethnic group (Waters,
+were based on samples with too limited an age range (approxi-           1990). Immigrants' understanding of U.S. systems of racial strat-
+mately 8 ­12 years) for age differences in ethnic­racial socializa-     ification may also shift across immigrant generations (Kasinitz,
+tion to emerge (Hughes & Johnson, 2001; Quintana & Vera, 1999),         Mollenkopf, & Waters, 2004), influencing messages about ethnic-
+and one (Quintana & Vera, 1999) combined items about cultural           ity and race.
+pride with those about discrimination, precluding analysis of age
+differences by message type.                                               Not surprisingly, studies have shown that parents' immigration
+                                                                        status is associated with the type and frequency of ethnic­racial
+   In sum, findings suggest that ethnic­racial socialization in-        socialization messages parents transmit to children. Recent immi-
+creases as children age, probably reflecting parents' sensitivity to    grants are more likely to socialize youths regarding their ethnic
+children's developmental competencies and experiences. How-             origin, native language, and traditions (cultural socialization) than
+ever, the literature does not permit firm conclusions in this regard.   are their same-ethnicity counterparts who have been in the United
+Only a handful of studies have examined age differences, and even       States longer (Alba, 1990; Cheng & Kuo, 2000; Knight, Bernal,
+fewer have included an age span that is sufficient for detecting        Garza, et al., 1993; Quintana, Casten~ada-English, & Ybarra, 1999;
+relationships. Longitudinal studies that both distinguish the range     Rumbaut, 1994; Uman~a-Taylor & Fine, 2004; Waters, 1990) and
+of messages parents transmit and assess change in these messages        as compared with successive generations (Portes & Zhou, 1993;
+over time are sorely needed.                                            Rumbaut, 1994). In Knight, Bernal, Garza, et al.'s (1993) study,
+                                                                        more recent immigrants were also more likely to discuss discrim-
+Children's Gender                                                       ination with their children.
+
+   Boys and girls have different experiences related to their eth-         Less is known about other correlates of changes in ethnic­racial
+nicity and race. Compared with ethnic minority girls, ethnic mi-        socialization among immigrants to the United States. For instance,
+nority boys are more likely to be viewed by others as threatening       shifts over time in the nature or frequency of preparation for bias
+(Sampson & Laub, 1993; Stevenson, Herrero-Taylor, et al., 2002),        may vary according to a group's country of origin, phenotypic
+and, indeed, they report more discrimination (Fischer & Shaw,           characteristics, and patterns of assimilation. Likewise, socializa-
+1999). Thus, one might expect ethnic­racial socialization mes-          tion practices among successive generations may shift as families
+sages to differ for boys versus girls because of the possibility that   move from ethnic enclaves to ethnically heterogeneous neighbor-
+parents anticipate their differential experiences in external contexts  hoods. These sorts of issues represent important areas for future
+such as neighborhoods and schools.                                      investigation.
+
+   Studies that have examined gender differences in parents'            Parents' Socioeconomic Status
+ethnic­racial socialization have yielded mixed findings (Bowman
+& Howard, 1985; Sanders Thompson, 1994; Stevenson, Cameron,                Parents from different socioeconomic backgrounds and with
+Herrero-Taylor, & Davis, 2002; Thomas & Speight, 1999). Several         different occupational and educational histories may have different
+studies, all based on African American samples, have found that         ideas about ethnicity and race and about experiences related to
+boys are more likely to receive messages regarding racial barriers,     them. For instance, higher income and better educated Blacks
+whereas girls are more likely to receive messages regarding racial      perceive more prejudice and discrimination than do their lower
+pride. For example, Bowman and Howard (1985) found that girls           income and less well-educated counterparts (Williams, 1999), as
+were more likely to report that parents taught nothing about racial     do socioeconomically advantaged immigrants (Portes, Parker, &
+status or emphasized racial pride, whereas boys were more likely        Cobas, 1980). Thus, one might expect that socioeconomic status
+to report that parents emphasized egalitarianism and racial barriers.   (SES) differences in experiences vis-a`-vis ethnicity and race would
+In Thomas and Speight (1999), parents' descriptions of socializa-       be reflected in differences in ethnic­racial socialization.
+tion themes for boys emphasized negative stereotypes and strate-
+gies for coping with racism, whereas those for girls emphasized            Consistent with this, several studies have found that higher SES
+achievement and racial pride. However, other studies have re-           parents report more ethnic­racial socialization than do their lower
+ported no significant gender differences in ethnic­racial socializa-    SES counterparts. Cultural socialization and preparation for bias
+tion (Caughy et al., 2002; Frabutt et al., 2002; Hughes & Chen,         are each higher among parents in professional and managerial jobs
+1997; Phinney & Chavira, 1995; Scott, 2003; Stevenson, Reed, &          than among parents in clerical or sales jobs or in service, machine
+Bodison, 1996; Thompson, Anderson, & Bakeman, 2000). These              trades, or bench-work occupations (Hughes & Chen, 1997). Cul-
+findings do not appear to vary according to method of assessment,       tural socialization and preparation for bias are also more frequent
+source of information, parents' ethnicity, or child's age.              among parents with higher incomes and more years of schooling
+                                                                        (Caughy et al., 2002; McHale et al., in press). In Caughy et al.
+Parents' Immigration Status                                             (2002), higher income parents were also more likely to provide an
+                                                                        Afrocentric home environment than were their lower income coun-
+   Among immigrant groups, perspectives on what it means to be          terparts. Although several studies have not found SES differences
+an ethnic group member and on the types of cultural knowledge           in ethnic­racial socialization, these studies are characterized by
+that children need for effective functioning are likely to shift with   smaller samples (e.g., N  66) and limited variability in SES (e.g.,
+the length of time in the United States and according to other social   Frabutt et al., 2002; Knight, Bernal, Cota, et al., 1993; Phinney &
+760 HUGHES ET AL.
+
+Chavira, 1995), reducing statistical power to detect significant        race and ethnicity are more salient may have stronger convictions
+effects.                                                                regarding the particular types of racial, cultural, and ethnic knowl-
+                                                                        edge they want their children to develop. Dimensions of ethnic
+   Several studies have found curvilinear associations between          identity such as centrality, ideology, and regard (Sellers, Rowley,
+SES and ethnic­racial socialization. Specifically, in studies using     Chavous, Shelton, & Smith, 1997) should be especially important.
+both income and education as socioeconomic indicators, middle-          For instance, parents for whom race is a central social identity (i.e.,
+SES respondents have been more likely to focus on discrimination        high centrality) and those who believe their group is negatively
+and mistrust, and less likely to focus on egalitarian messages, than    valued by others (i.e., low public regard) may be especially likely
+respondents in lower or higher groups, suggesting that race and         to discuss discrimination with their children. Those with high
+ethnicity are more relevant to them (Caughy et al., 2002; Thornton,     centrality and favorable views of their ethnic­racial group (i.e.,
+1997)                                                                   high private regard) may be especially likely to transmit messages
+                                                                        about group pride to their children. Surprisingly, few studies have
+Region/Neighborhood                                                     examined the extent to which parents' identities shape their
+                                                                        ethnic­racial socialization practices. Virtually no studies have
+   Regions of the country vary in their racial histories, racial        taken the sort of nuanced look at these relationships that seems
+composition, and patterns of intergroup relations, and these differ-    warranted.
+ences may shape the nature of parents' ethnic­racial socialization
+messages. Only the NSBA has examined regional differences in               Nevertheless, in the few studies that have investigated the extent
+ethnic­racial socialization; other samples have tended to be within     to which parents' identities are associated with their socialization
+small geographic areas. Using NSBA data, Thornton et al. (1990)         practices, significant relationships have been found. For instance,
+found that men in the Northeast were more likely to report ethnic­      in studies of African American (Thomas & Speight, 1999), Do-
+racial socialization than were men in the South, although no            minican and Puerto Rican (Hughes, 2003), and Mexican/Mexican
+regional differences were evident among women. In a separate            American (Knight, Bernal, Cota, et al., 1993; Romero, Cuellar, &
+analysis combining men and women, respondents in the West were          Roberts, 2000) parents, those with greater attachment to their
+less likely than those in the South to report socialization as related  ethnic group have been more likely than their counterparts to
+to being a member of a minority group (Thornton, 1997).                 emphasize cultural socialization. In Hughes's (2003) study, rela-
+                                                                        tionships between parents' ethnic identity and cultural socializa-
+   Neighborhoods, like regions, vary in their racial composition        tion were more pronounced among parents of older (10 ­17-year-
+and in patterns of intergroup relations. Thus, one might expect         old) than among parents of younger (6 ­9-year-old) children.
+ethnic­racial socialization to vary according to aggregate charac-      Stronger ethnic identity has also been found to predict more
+teristics of neighborhoods, especially ethnic composition. For in-      frequent preparation for bias among Latino parents (Hughes, 2003;
+stance, preparation for bias and promotion of mistrust may not be       Knight, Bernal, Cota, et al., 1993; Knight, Bernal, Garza, et al.,
+very common among parents rearing children in neighborhoods in          2003).
+which intergroup relations and discrimination are not salient. In
+contrast, egalitarian messages may be especially functional among       Parents' and Youths' Discrimination Experiences
+parents living in neighborhoods in which children need to relate
+across groups, such as when children are in a numerical minority.          Studies of parenting have documented that parents try to incul-
+                                                                        cate in their children the skills that they themselves have needed to
+   Studies have only recently begun to examine neighborhood             function effectively across contexts (Kohn & Schooler, 1978).
+context as an important determinant of, or moderator of, ethnic­        Accordingly, one might expect that parents who experience dis-
+racial socialization. The few studies that exist have found greater     crimination will be more likely than others to anticipate that their
+preparation for bias in integrated neighborhoods (e.g., Caughy,         children will also experience it and to provide their children with
+Nettles, O'Campo, & Lohrfink, 2005; Stevenson, Herrero-Taylor,          tools for coping with it (Hughes, 2003; Hughes & Chen, 1997;
+et al., 2002; Stevenson, McNeil, Herrero-Taylor, & Davis, 2005;         Uman~a-Taylor & Fine, 2004). Findings from several studies are
+Thornton et al., 1990) as compared with predominantly Black             consistent with this expectation. Hughes and Chen (1997) found
+(Stevenson, Herrero-Taylor, et al., 2002) or predominantly White        that African American parents' messages regarding discrimination
+(Caughy et al., 2005) neighborhoods. However, neighborhood              (preparation for bias) were significantly associated with their per-
+racial composition is, in part, a proxy indicator of other neighbor-    ceptions of interpersonal prejudice at work. Parents' cautions and
+hood social processes such as intergroup conflict, neighborhood         warnings about Whites (promotion of mistrust) were associated
+violence, availability of resources, and social capital, which are      with their perceptions of institutional-level discrimination at work.
+also likely to influence ethnic­racial socialization. For instance,     These relationships were evident among parents of children 9 ­12
+one might expect different types of messages about race in neigh-       years of age but not among parents of children 4 ­ 8 years of age.
+borhoods that differed in the extent of animosity, competition, and     In Hughes (2003), parents' community-based discrimination ex-
+closeness between groups. In Caughy et al. (2005), parents in           periences predicted preparation for bias, although these relation-
+neighborhoods characterized by a negative social climate were           ships were only evident among African American and Dominican
+more likely to report preparation for bias and promotion of mis-        parents of children 10 ­14 years of age (as compared with parents
+trust than were other parents. Stevenson (2004) found that African      of children ages 6 ­9 or Puerto Rican parents). In Stevenson,
+American girls reported the most preparation for bias when neigh-       Cameron, et al. (2002), adolescents who reported that a family
+borhood danger was high and neighborhood support was minimal.           member had experienced discrimination reported receiving higher
+                                                                        levels of cultural socialization than did adolescents who reported
+Parents' Racial Identity                                                no discrimination experiences.
+
+   Parents' ethnic­racial identity shapes the frequency and content
+of ethnic­racial socialization messages, because parents for whom
+ETHNIC­RACIAL SOCIALIZATION                                             761
+
+   Children's experiences of discrimination also prompt parents to         Studies of how neighborhood context and discrimination expe-
+discuss discrimination with them. For instance, adolescent girls        riences shape parents' ethnic­racial socialization underscore the
+and boys report more frequent ethnic­racial socialization overall       importance of understanding aspects of parents' and youths' eco-
+when they have experienced discrimination (Miller & MacIntosh,          logical experiences in relation to messages that children receive. In
+1999), and adolescent girls report fewer mainstream messages if         particular, when features of settings make race highly salient, as
+they have experienced discrimination (Stevenson, Cameron, et al.,       when settings are ethnically integrated or highly discriminatory,
+2002). In Stevenson et al. (2005), relationships between discrim-       parents are more likely to communicate messages about ethnicity
+ination and preparation for bias were especially strong among boys      and race to their children. However, it is unclear whether more
+living in diverse neighborhoods. In Hughes and Johnson (2001),          frequent messages stem from parents' expectations for their chil-
+parents reported more preparation for bias when they believed           dren's experiences or are reactions to experiences children have
+their early adolescent children had experienced discrimination by       already had.
+adults and more promotion of mistrust when they and their chil-
+dren believed that the children had been discriminated against by            Ethnic­Racial Socialization and Youth Outcomes
+peers.
+                                                                           We turn now to a consideration of the research literature regard-
+Summary                                                                 ing relationships between ethnic­racial socialization and youth
+                                                                        outcomes. Notably, this literature is still small and underdevel-
+   Parents' ethnic­racial socialization practices vary according to     oped. Although a range of youth outcomes have been examined,
+children's and parents' characteristics and according to character-     only a handful of studies have examined any particular one of
+istics of their contexts. Children's gender and age are two such        them. Moreover, the literature lacks a theoretical rationale that
+characteristics. Preparation for bias and promotion of mistrust         specifies how ethnic­racial socialization might operate vis-a`-vis
+appear to increase in frequency as children get older, perhaps          particular youth outcomes. We begin by describing studies that
+reflecting shifts in children's cognitions about race and their prior   have examined relationships to youths' ethnic identity and self-
+experiences with discrimination. Some studies have found that           esteem. These aspects of youths' self-system seem most proximal
+cultural socialization increases with children's age as well, al-       to parents' socialization efforts and may mediate relationships to
+though findings have been mixed. Children's gender also plays an        cognitive, behavioral, and achievement outcomes. We then de-
+important role in shaping parents' ethnic­racial socialization.         scribe studies that have examined relationships to coping with
+Where mean-level gender differences in ethnic­racial socialization      discrimination, academic achievement, and other psychosocial
+have been found, boys are more likely to receive messages regard-       outcomes. Where the literature is precise enough to permit distinc-
+ing racial barriers, whereas girls are more likely to receive mes-      tions between types of messages, we discuss the dimensions that
+sages regarding racial pride. However, the work of Stevenson and        have emerged as most important. Further, we discuss studies of
+colleagues suggests that these gender differences interact in com-      early and middle childhood separately from those of adolescents
+plex ways with youths' discrimination experiences and neighbor-         and young adults because of our view that ethnic­racial socializa-
+hood contexts (Stevenson, 2004; Stevenson, Cameron, et al., 2002;       tion processes may have different consequences across these age
+Stevenson et al., 2005). Future studies should be designed to more      groups.
+thoroughly examine these relationships. As the literature develops,
+studies should also examine a broader set of child characteristics      Ethnic Identity
+than have been examined thus far. Among those that are likely to
+be important are a child's temperament and skin color, which may           Youths' ethnic identity has been the most commonly investi-
+directly influence or moderate parents' ethnic­racial socialization     gated outcome of parents' ethnic­racial socialization. This is likely
+(Garc´ia Coll et al., 1996).                                            attributable to the fact that many ethnic­racial socialization prac-
+                                                                        tices are targeted directly toward instilling a sense of pride and
+   Parents' demographic characteristics serve as a critical backdrop    group knowledge in children. Aspects of cultural socialization--
+for ethnic­racial socialization, underscoring the fact that parents     including an emphasis on ethnic pride and language use, exposing
+bring to the process a set of prior experiences and worldviews that     children to positive aspects of their history and heritage, embed-
+shape their socialization practices and determine the proximal          ding children in cultural settings and events, and having ethnic
+contexts in which families and children operate (Garc´ia Coll et al.,   objects in the home-- have been examined most often. A few
+1996). Generally, higher SES parents are more likely to engage in       studies have also examined other dimensions of ethnic­racial
+cultural socialization and preparation for bias than are their coun-    socialization, or unidimensional measures, in relation to youths'
+terparts. In some studies, these relations are curvilinear, with        identity outcomes.
+middle-SES respondents reporting more socialization about eth-
+nicity and race than their lower or higher SES counterparts. Al-           Early and middle childhood. Most studies have found that
+though the literature on immigration status is small, it suggests that  cultural socialization facilitates children's knowledge about their
+some aspects of ethnic­racial socialization, especially cultural        ethnic­racial group and their favorable in-group attitudes. In early
+socialization, are shaped by the length of time that immigrant          studies conducted among African American families, a plurality of
+parents have been in the United States and by the nature of parents'    factors--parents' own racial attitudes (Branch & Newcombe,
+ties to their country of origin, which tend to be closer among more     1986); the value they place on teaching children about history,
+recent immigrants. Parents who identify more strongly with their        civil rights, and discrimination (Spencer, 1983); and worldviews
+ethnic group also value ethnic­racial socialization more and report     combining a system-blame orientation, support for collective ac-
+using certain strategies more often.                                    tion, and involvement in the community (Barnes, 1980)-- have
+                                                                        been associated with children's more Afrocentric and less Euro-
+762 HUGHES ET AL.
+
+centric racial attitudes as assessed via projective techniques. In    al., 1999). When such socialization enhances youths' positive
+more recent work, Marshall (1995) found that African American         views of their ethnic­racial group or allows them to attribute
+parents who reported more ethnic­racial socialization had children    unfavorable outcomes to an external source (Crocker & Major,
+who were more likely to express racial identity views character-      1989), one might expect it to be associated with higher self-esteem
+istic of W. E. Cross's (1991) encounter stage, characterized by       (Smith, Walker, Fields, Brookins, & Seay, 1999). Among the
+questioning allegiance to the dominant culture's worldview. In two    handful of studies that have explicitly examined relationships
+studies among Mexican American families, parental teachings           between ethnic­racial socialization and youths' self-esteem, we
+about ethnic pride and cultural knowledge (cultural socialization)    did not identify any that included younger (early and middle
+and about discrimination against Mexican Americans (preparation       childhood) samples. Below, we describe the few studies that have
+for bias) were significantly associated with elementary school        examined adolescents.
+children's knowledge about Mexican traditions and with their
+reports about preference for Mexican behaviors (Knight, Bernal,          Studies of ethnic­racial socialization in relation to adolescents'
+Garza, et al., 1993; Quintana & Vera, 1999). In the Knight, Bernal,   self-esteem have produced conflicting results, possibly because of
+Garza, et al. (1993) study, the presence of Mexican objects was       differences in foci, methodology, and measurement (Constantine
+also associated with children's ethnic knowledge and preferences.     & Blackmon, 2002; Fatimilehin, 1999; Stevenson et al., 1997). For
+                                                                      instance, whereas Constantine and Blackmon (2002) examined
+   Adolescents and adults. Similar to studies of young children,      domain-specific self-esteem, others have examined global self-
+studies among adolescents and adults have found that parents'         esteem (Fatimilehin, 1999; Stevenson et al., 1997). Similarly,
+ethnic­racial socialization is associated with indicators of ethnic   whereas Stevenson et al. (1997) conducted separate analyses for
+identity. This general pattern has emerged in studies using unidi-    boys and girls and examined a unidimensional indicator of ethnic­
+mensional (Quintana et al., 1999; Sanders Thompson, 1994;             racial socialization, neither Fatimilehin (1999) nor Constantine and
+Stevenson, 1995; Thompson et al., 2000) and multidimensional          Blackmon (2002) conducted analyses by gender, and both distin-
+(O'Connor et al., 2000) measures and in studies across multiple       guished multiple dimensions of ethnic­racial socialization. Thus,
+ethnic groups (Lee & Quintana, 2005; Uman~a-Taylor & Fine,            findings across these studies are not readily comparable. Never-
+2004). For instance, cultural socialization has been associated with  theless, the findings suggest that youths' self-esteem may be
+identity exploration, more advanced stages of identity develop-       sensitive to ethnic­racial socialization messages from parents. For
+ment, more positive group attitudes, and more group-oriented          instance, in Constantine and Blackmon (2002), preparation for bias
+ethnic behaviors among African American and Mexican adoles-           and cultural socialization were associated with higher family self-
+cents and adults (Demo & Hughes, 1990; O'Connor et al., 2000;         esteem, cultural socialization was associated with higher peer
+Stevenson, 1995; Uman~a-Taylor & Fine, 2004) and among cross-         self-esteem, and mainstream socialization was associated with
+racially adopted Korean and African American youths (DeBerry,         lower school self-esteem. Although this specific pattern may have
+Scarr, & Weinberg, 1990; Lee & Quintana, 2005; Yoon, 2001,            been difficult to predict a priori, several plausible explanations
+2004). Preparation for bias has also been associated with youths'     come to mind that could be pursued in future studies. The positive
+identity development. For instance, adolescents who believe more      association between cultural socialization and peer esteem sug-
+strongly in the importance of teaching about racism are more likely   gests that cultural socialization may facilitate student's compe-
+than their counterparts to evidence more advanced stages of           tence and confidence in interacting with their age-mates. Con-
+ethnic­racial identity development (Stevenson, 1995). African         versely, mainstream messages may lead to expectancies for equal
+American adolescent girls whose mothers engage in greater prep-       treatment at school that are unrealized, consistent with Spencer's
+aration for bias are more likely to have Black over mixed-race or     (1983) view that color-blind approaches leave children unprepared
+White music preferences (O'Connor et al., 2000). In the NSBA,         for racial realities. Stevenson et al. (1997) also documented that
+however, there were no significant differences in ethnic identity     adolescents' beliefs in the importance of ethnic­racial socializa-
+among adults who received messages about discrimination, those        tion, assessed globally, are associated with self-esteem. In this
+who received messages about egalitarianism, and those who re-         study, relationships were positive among girls and negative among
+ceived no ethnic­racial socialization messages (Demo & Hughes,        boys. Notably, given the use of a global scale score, girls and boys
+1990).                                                                with similar mean global scale scores may have been differentially
+                                                                      endorsing discrete dimensions of ethnic­racial socialization (e.g.,
+Self-Esteem                                                           spirituality vs. extended family caring vs. coping with antago-
+                                                                      nism), which may in turn have been differentially associated with
+   Self-esteem is commonly conceived of as the central evaluative     self-esteem.
+dimension of youths' self-concept (Harter, 1999; Rosenberg,
+1986), and it is associated with varied psychological and behav-      Coping With Prejudice and Discrimination
+ioral outcomes (Greene & Way, 2005). It is highly sensitive to
+parenting (Jacobvitz & Bush, 1996; Laible, Gustavo, & Scott,             One of the primary functions of ethnic­racial socialization may
+2004), to individuals' awareness of their membership in devalued      be to enable youths to recognize and cope with societal discrimi-
+groups (Crocker, Luhtanen, Blaine, & Broadnax, 1994), and to          nation (Barnes, 1980; Spencer, 1983). Among the dimensions of
+expectations that one is likely to experience discrimination          ethnic­racial socialization that we have proposed, one might ex-
+(Branscombe, Schmitt, & Harvey, 1999). Thus, it seems likely that     pect preparation for bias to be especially influential in this regard,
+ethnic­racial socialization would be associated with youths' self-    because it presumably includes proscriptions for coping with dis-
+esteem. For instance, when ethnic­racial socialization leads youths   crimination. However, other aspects of ethnic­racial socialization
+to expect persistent discrimination and unfair treatment, one might   may influence coping as well. For instance, cultural socialization
+expect it to be associated with lower self-esteem (Branscombe et      may bolster youths' resilience in the face of discrimination through
+ETHNIC­RACIAL SOCIALIZATION                                             763
+
+its influences on self-esteem and ethnic identity (Barnes, 1980;        perspective). In addition, certain types of messages, such as prep-
+Branch & Newcombe, 1986; Spencer, 1983). Messages about                 aration for bias, may lessen adolescents' vulnerability to stereo-
+appreciation of all groups and equality, however, may leave youths      types about their groups' intellectual capabilities, which in turn
+ill-prepared to cope with discrimination by socializing them to         influence performance and achievement (Mendoza-Denton,
+expect equal treatment (Spencer, 1983).                                 Downy, Purdie, Davis, & Pietrzak, 2002; Steele & Aronson,
+                                                                        1998). And, finally, ethnic­racial socialization messages may
+   Early and middle childhood. Only a few studies have exam-            shape how youths construct their achievement goals vis-a`-vis their
+ined ethnic­racial socialization vis-a`-vis coping with discrimina-     ethnic­racial group. For instance, in a recent school-based inter-
+tion among young children, perhaps because issues of discrimina-        vention study, Oyserman et al. (2001) found that African Ameri-
+tion are less salient during this stage. In Szalacha, Erkut, Garc´ia    can students who were exposed to a curriculum that encouraged
+Coll, Alarco´n, et. al (2003), only 12% of Puerto Rican children in     them to view academic achievement as an important component of
+Grades 1­3 reported having been discriminated against, whereas          their identity had fewer absences and higher grades than did their
+almost half of Puerto Rican adolescents reported discrimination.        nonexposed counterparts.
+
+   Nevertheless, in the two studies that have examined whether             Early and middle childhood. Two studies have examined
+ethnic­racial socialization is associated with young children's cop-    ethnic­racial socialization in relation to academic achievement or
+ing with discrimination, significant relationships were reported. In    cognitive functioning among younger children (Caughy et al.,
+Quintana and Vera (1999), Mexican American children whose               2002; Marshall, 1995). In Marshall (1995), children who reported
+parents discussed discrimination with them evidenced greater            that their mothers socialized them about a broad range of racial
+knowledge about Mexican Americans and, in turn, greater under-          issues had lower grades on their school report cards. However,
+standing of prejudice. In Johnson's (1994) study of 41 parent­          mothers' own reports about their ethnic­racial socialization prac-
+child dyads in middle-class African American families, parents'         tices were unrelated to children's grades. In Caughy et al. (2002),
+preferences for how children should cope with discrimination were       an observational measure of the number of Afrocentric items in the
+associated with children's actual coping behaviors. For instance,       home was associated with children's greater factual knowledge
+children whose parents believed children should respond proac-          and better problem-solving skills, as indicated by the Kaufman
+tively to racial situations (engaging the person, asserting oneself,    Assessment Battery for Children. As in Marshall (1995), however,
+or getting parents help) were least likely to use passive coping        mothers' self-reported ethnic­racial socialization was unrelated to
+strategies or strategies that indicated internalized racism.            their children's cognitive outcomes. This pattern suggests that
+                                                                        children receive messages independent of parent's perceptions of
+   Adolescents and adults. Adolescents whose parents commu-             them and that such messages may be most important for their
+nicate with them about discrimination (preparation for bias) have       academic behaviors. Smith et al. (2003) reported that children's
+also been found to demonstrate more effective strategies for cop-       perceived racial barriers were inversely associated with their
+ing with it. For instance, when asked about ways they would cope        achievement, whereas children's cultural pride was positively as-
+with hypothetical situations involving discrimination, these ado-       sociated with their achievement.
+lescents are more likely to describe proactive strategies such as
+seeking support and using direct problem-solving strategies (Phin-         Adolescents and adults. Similar to studies of early and middle
+ney & Chavira, 1995; Scott, 2003), and they are less likely to          childhood, studies that have examined ethnic­racial socialization
+describe ineffective coping strategies such as engaging in verbal       in relation to academic outcomes among adolescents and adults
+banter (Phinney & Chavira, 1995). Fischer and Shaw (1999) also          have produced mixed results. In the three-generation NSBA study,
+found that youths' reports about their actual exposure to discrim-      youths who were taught about racial barriers reported higher
+ination were significantly associated with poorer mental health         grades in school than did youths who were taught nothing about
+outcomes only among youths who reported that they received no           race (Bowman & Howard, 1985). Miller and MacIntosh (1999),
+ethnic­racial socialization from their parents. However, not all        however, found no significant relationships between adolescents'
+studies have found that preparation for bias is adaptive. In Brega      views about ethnic­racial socialization and their grades when
+and Coleman (1999), African American youths who received more           zero-order relations were examined or in models controlling for
+ethnic­racial socialization from their parents reported feeling more    other demographic, risk, or protective factors.
+stigmatized than did their counterparts who received less. This was
+especially true among youths who received conflicting messages.         Psychosocial Outcomes
+
+Academic Outcomes                                                          In keeping with the view that ethnic­racial socialization serves
+                                                                        a variety of protective functions for ethnic minority youth, scholars
+   The possibility that parents' ethnic­racial socialization practices  have predicted that such socialization is associated with more
+are associated with their children's cognitive abilities, academic      favorable psychosocial outcomes. Among the psychosocial out-
+orientations, and success in school has been of critical concern to     comes that have been examined are internalizing symptoms, de-
+social scientists. A positive ethnic identity and high self-esteem are  pression, externalizing symptoms, anger management, and physi-
+positively associated with youths' academic orientations and out-       cal fighting.
+comes (Chavous et al., 2003; Wigfield & Eccles, 1994), and thus,
+one might expect indirect influences of ethnic­racial socialization        Early and middle childhood. To date, only one study of
+by way of these components of youths' self-systems. In addition,        ethnic­racial socialization in relation to youths' psychosocial out-
+ethnic­racial socialization can contain messages about opportu-         comes has included children in early or middle childhood (Caughy
+nity, which in turn influence youths' own perceptions of opportu-       et al., 2002). In this study, parents' cultural socialization was
+nity and their subsequent investment in the academic domain             associated with fewer total behavior problems and fewer internal-
+(Fordham & Ogbu, 1986; see W. J. Cross, 2003, for a contrasting         izing and externalizing behavior problems among boys. Among
+764 HUGHES ET AL.
+
+girls, cultural socialization was marginally associated with fewer    parents incorporate cultural socialization practices into their par-
+internalizing problems and unrelated to externalizing behaviors.      enting repertoire. Cultural socialization has also been associated
+All analyses controlled for general level of parental involvement,    with other youth outcomes, including fewer externalizing behav-
+suggesting that relationships were not attributable simply to         iors, lower fighting frequency and better anger management (es-
+greater parental activity.                                            pecially among boys), higher self-esteem with peers, fewer inter-
+                                                                      nalizing problems, and better cognitive outcomes. Fewer studies
+   Adolescents. In studies concerning the consequences of             have examined the consequences of preparation for bias for youth
+ethnic­racial socialization for adolescents' psychosocial outcomes,   outcomes. In studies that have examined these consequences vis-
+findings often differ for boys and girls and depend on the dimen-     a`-vis ethnic identity, findings have been mixed. Studies of children
+sions of ethnic­racial socialization examined. No studies have        and adolescents have also found that preparation for bias provides
+examined the consequences of ethnic­racial socialization for psy-     youths with skills for understanding and coping with discrimina-
+chosocial functioning among adults.                                   tion, although these relationships tend to be weak. At least one
+                                                                      study found that preparation for bias is associated with higher
+   Many of the studies documenting gender differences in the          grades in school among older adolescents.
+consequences of ethnic­racial socialization for youth psychosocial
+outcomes come from Stevenson's extensive program of research             Findings regarding the potential protective properties of prepa-
+with urban African American adolescents. In one study, boys with      ration for bias are tempered by findings that less favorable out-
+higher global ethnic­racial socialization scores reported more fre-   comes are evident when youths develop expectations for discrim-
+quent sad mood and greater hopelessness than did their counter-       ination and mistrust of other groups. This pattern has emerged in
+parts, whereas comparable girls reported less frequent sad mood       Stevenson's work on anger management and fighting frequency
+and less hopelessness (Stevenson, 1997; Stevenson et al., 1997). In   (e.g., Stevenson, 1997; see also Bowman & Howard, 1985) as well
+a second study, boys who believed in the importance of empha-         as in Biafora, Taylor, et al. (1993), Biafora, Warheit, et al. (1993),
+sizing cultural pride and heritage (cultural socialization) reported  and Rumbaut's (1994) large-sample survey studies of ethnic mi-
+higher levels of anger control than did those who endorsed a focus    nority youths. As we discuss below, a challenge for future studies
+on discrimination against Blacks (preparation for bias; Stevenson,    will be to determine the conditions under which preparation for
+1997; Stevenson et al., 1997). In Stevenson, Herrero-Taylor, et al.   bias is protective, possibly by distinguishing it more clearly from
+(2002), those who received messages regarding coping with an-         promotion of mistrust.
+tagonism (preparation for bias) together with messages regarding
+cultural pride and legacy appreciation (cultural socialization) re-      More studies are also needed that examine the consequences for
+ported lower levels of fighting frequency and initiation. Thus,       youths of parents' emphasis on egalitarian views. Constantine and
+findings from this program of research suggest that cultural so-      Blackmon's (2002) findings regarding negative relations between
+cialization is largely protective, but they also hint at potentially  egalitarianism and school self-esteem, together with Bowman and
+maladaptive consequences of parents' exclusive focus on discrim-      Howard's (1985) finding that no discussion of race is associated
+ination, especially for boys.                                         with lower grades, serves as a reminder of the fine line between
+                                                                      strategies that undermine youths' competence and goals and strat-
+   There is other evidence as well that an overemphasis on dis-       egies that leave them unprepared for the racial realities they may
+crimination may yield unfavorable outcomes among youths, espe-        encounter.
+cially when it leads youths to expect discrimination or to mistrust
+others. In one study, Asian and Black (immigrant and U.S.-born)          Finally, although we differentiated studies examining children
+adolescents who expected that others would discriminate against       during early and middle childhood from those examining adoles-
+them reported more depressive symptoms and greater conflict with      cents and adults, findings to date have been fairly similar across
+their parents than did those who did not express such expectations    these age ranges. However, differential findings have been re-
+(Rumbaut, 1994). In a study among African American, Haitian,          ported for boys and girls. Thus, extant studies underscore the
+and Caribbean adolescents, racial mistrust was a significant pre-     importance of considering youths' gender when examining
+dictor of deviant behavior, both minor and major, with SES, peer      relationships.
+values, family cohesion, and religiosity controlled for (Biafora,
+Warheit, et al., 1993).                                                       Conceptual Gaps and Methodological Issues
+
+Summary                                                                  In the remaining paragraphs, we underscore thorny conceptual
+                                                                      and methodological issues that cut across studies of ethnic­racial
+   Studies suggest that ethnic­racial socialization has potentially   socialization with the goal of shaping the way that researchers
+important consequences for youth outcomes, but relationships vary     think about and study this process in future work.
+according to types of measures used and the type of ethnic­racial
+socialization assessed. When studies have used unidimensional         The Need for Research Across Multiple Ethnic Groups
+measures, findings have been mixed, with favorable, unfavorable,
+and null relationships reported in relation to self-esteem, stigma-      The facts that only a few studies have examined ethnic­racial
+tization, academic achievement, and psychosocial functioning.         socialization across multiple ethnic­racial groups (Hughes, 2003;
+This mixed pattern of findings underscores the need for research-     Phinney & Chavira, 1995) and that, to date, studies have focused
+ers to move beyond global measures if they are to fully understand    primarily on African American families limits empirical knowl-
+the consequences of ethnic­racial socialization for youths. Studies   edge. In our view, comparative information would not only be
+that have examined cultural socialization consistently suggest that   descriptively interesting, it would also enrich understanding of
+it is associated with favorable outcomes. Not surprisingly, youths    these processes in a number of ways. For instance, it is likely that
+have reported stronger and more positive ethnic identities when       some aspects of ethnic­racial socialization are rooted in a group's
+ETHNIC­RACIAL SOCIALIZATION                                             765
+
+historical experiences and in family practices that are passed down     ization and its effects are embedded in other aspects of parenting,
+through successive generations (Hughes & Chen, 1997; Ward,              but more information is needed regarding how.
+1991), whereas other types of messages are reactive to contempo-
+rary constraints, opportunities, and social processes, including        Synergy and Bidirectionality
+discrimination. Examination of groups with similar historical ex-
+periences but different current opportunities and constraints, or          Ethnic­racial socialization is clearly a bidirectional process
+groups with different historical experiences but similar current        shaped by parents and children, but studies have not yet sought to
+opportunities and constraints, could help to unpack these origins       understand the dynamic ways in which it unfolds. For example,
+(Hughes, 2003).                                                         children's experiences and questions may prompt parents to share
+                                                                        values and information regarding race, ethnicity and intergroup
+   Moreover, comparative studies are needed because specific            relations, regardless of parents' predetermined racial socialization
+ethnic­racial socialization behaviors may have different meanings       agendas (Hughes & Chen, 1999). Children can also disagree with,
+across groups and, therefore, different correlates and conse-           miss, misinterpret, or ignore parents' socialization messages (Mar-
+quences. For instance, Kofkin, Katz, and Downey (1995) found            shall, 1995). Thus, it is important to conceptually distinguish the
+that White parents' avoidance of discussions about race emanated        messages parents intend to impart from those that children per-
+from their views that race does not matter, whereas African Amer-       ceive by studying both. Marshall (1995) found that many children
+ican parents' avoidance of such discussions emanated from their         whose parents had described a range of ethnic­racial socialization
+views that their children were too young to understand. Here,           strategies reported that their parents did not teach them anything
+differing beliefs systems underlay similar patterns of behavior,        about ethnicity or race. Hughes et al. (2006) reported that children
+underscoring the need to understand these processes both within         perceive more preparation for bias messages than their parents
+and across groups.                                                      report sending, whereas they perceive fewer messages about cul-
+                                                                        tural socialization and egalitarianism. Thus, distinguishing situa-
+   Additional within-group studies of ethnic­racial socialization       tions in which ethnic­racial socialization is child-initiated from
+among families from diverse groups would also contribute to             those in which it is parent-initiated, elaborating the synergistic
+researchers' understanding of the process. To date, studies of          qualities of the process, and exploring correspondence between
+African American families have dominated the literature, followed       parents' and youths' perceptions are each essential for a complete
+by studies of Mexican/Mexican American and Korean families.             understanding of the process.
+For other ethnic­racial groups--including White, Puerto Rican,
+Chinese, Japanese, and Native American families-- either no em-         The Need for a Greater Range of Assessment Tools
+pirical information is available or available data come from only
+one or two studies. Investigation of ethnic­racial socialization           Most studies of ethnic­racial socialization rely on self-report
+within cultural communities that vary in the salience of ethnic­        measures. The limitations of such methods are of special concern
+racial issues, in their social status and history, in the ways inter-   in this literature, because parents are frequently unaware of the
+group relations are constructed, and in their beliefs about how race    many types of messages they transmit or are unable or unwilling to
+and ethnicity should be represented and communicated to children        report them. Caughy et al.'s (2002) finding that observational
+may illuminate additional features of ethnic­racial socialization       measures of an Afrocentric home environment predicted cognitive
+processes and of the mechanisms through which they operate. In          outcomes, whereas parents' self-reports about ethnic­racial social-
+particular, more studies are needed that include White parents and      ization did not, serves as a reminder that parents may not consider
+youths, not only because they have largely been ignored in the          all relevant aspects of ethnic­racial socialization when responding
+ethnic­racial socialization literature but because they represent the   to self-report measures. Lewis's (1999) description of hair comb-
+largest contrast to groups that have most commonly been studied         ing as a culturally relevant context for ethnic­racial socialization
+on factors that shape ethnic­racial socialization (e.g., distinctive-   in African American families is also a reminder that self-report
+ness of cultural rituals and routines, salience of ethnic identity,     measures may not capture the many subtle but relevant messages
+prior discrimination experiences, exposure to negative group            that are embedded in families' cultural practices and daily routines.
+stereotypes).                                                           Thus, to fully understand the range of messages that parent trans-
+                                                                        mit, self-report methods need to be complemented by more holistic
+Conceptualizing Ethnic­Racial Socialization in the                      and culturally anchored methods. Experimental methods, which
+Broader Context of Parenting                                            have not been used to our knowledge, could also be extremely
+                                                                        useful for identifying the mechanisms through which different
+   Parent­ child relationship quality, disciplinary practices,          types of socialization exert their effects. For instance, one might
+autonomy-granting behaviors, and monitoring are powerful deter-         examine whether youths' beliefs and feelings following experi-
+minants of outcomes among youths. Thus, one cannot reasonably           mentally induced encounters with unfair treatment vary according
+understand parents' ethnic­racial socialization in isolation from       to messages they report having received.
+these factors. In a recent study using the Racial Stories Task,
+processes of negotiating, scaffolding, and turn-taking with children    Reliance on Single Informants and Correlational Designs
+were as important to the children's racial coping as were parents'
+spoken messages (Johnson, 2005). Greater maternal warmth                   As is common in any emergent literature, most studies of
+(Caldwell, Zimmerman, Bernat, Sellers, & Notaro, 2002), positive        ethnic­racial socialization and its consequences have obtained
+and involved parenting (Frabutt et al., 2002), and academic in-         information from a single source. Thus, respondent bias and un-
+volvement at home and at school (McKay, Atkins, Hawkins,                measured third variables remain as plausible alternative explana-
+Brown, & Lynn, 2003) have also been associated with ethnic­
+racial socialization. Thus, studies suggest that ethnic­racial social-
+766 HUGHES ET AL.
+
+tions for many documented relationships. Studies are needed that            In studies examining the consequences of different types of
+obtain information at the family level, including relevant caregiv-      ethnic­racial socialization for youth outcomes, the literature is
+ers and youths. Most studies have also relied on correlational data,     uneven in terms of the types of questions that have been asked.
+which do not allow researchers to establish the causal nature of         Cultural socialization has been examined most often, across sam-
+relationships. As in other areas in developmental psychology,            ples that were diverse in terms of children's age and ethnicity, and
+longitudinal studies that track changes in ethnic­racial socializa-      studies have consistently spoken to its benefits for youths. How-
+tion and its correlates over time are needed.                            ever, there is not as yet a sufficient literature base from which to
+                                                                         draw conclusions about other aspects of ethnic­racial socializa-
+Sampling                                                                 tion, most notably preparation for bias and egalitarianism. Find-
+                                                                         ings regarding the consequences of these messages have been
+   Most studies in this area have also relied on self-selected ad hoc    mixed, such that among the foremost challenges for future studies
+and nonrandom samples, recruited from a single or small number           will be to disentangle the conditions under which each type of
+of settings (e.g., Miller & MacIntosh, 1999; Stevenson, 1994,            message leads to positive versus unintended negative conse-
+1995; Stevenson et al., 1996, 1997) or from a single or small            quences for youths. Thus, researchers need to generate empirically
+number of cities (e.g., Caughy et al., 2002; Hughes, 2003; Hughes        based knowledge that scholars, practitioners, and parents can use
+& Chen, 1997). Only the NSBA used a nationally representative            about how to effectively prepare youths to deal with discrimination
+probability sample, enabling greater confidence in the findings          without undermining their sense of competence and possibility and
+(Bowman & Howard, 1985; Demo & Hughes, 1990; Thornton et                 about how to encourage youths to value diversity without setting
+al., 1990). Limited statistical power and restricted range are always    false expectations about societal structures and relationships.
+issues of concern when samples are small and drawn from single
+settings, and effect sizes have not been reported in most studies.          Finally, because interest in ethnic­racial socialization is a rela-
+Moreover, recruiting respondents from a single or small number of        tively recent phenomenon, the existing literature has not kept pace
+settings limits variability in both ethnic­racial socialization and its  with methodological and statistical advances that characterize
+correlates, because respondents are more similar to those who            other areas of inquiry in developmental psychology. At a basic
+share a setting than they are to the population as a whole. Thus,        level, studies need to use larger and more representative samples,
+studies using larger and more representative samples are critical to     longitudinal or experimental designs that permit examination of
+the development of knowledge in the area.                                causal mechanisms, and data from multiple informants. Ulti-
+                                                                         mately, however, the literature on ethnic­racial socialization will
+ Implications for Policy and Positive Youth Development                  need to include mixed-method studies to understand the process's
+                                                                         depth and texture, multilevel nested models to understand the
+   Ethnic­racial socialization is a complex multidimensional con-        influence of context, and interventions to understand mechanisms
+struct. Our review suggests that most parents engage in such             for change.
+socialization, and thus it is critical that future studies focus on
+building a theoretically grounded base of knowledge about its                                         References
+nature, antecedents, and consequences for youths. Conceptually
+and operationally differentiating the multiple dimensions of             Aboud, F. E. (1988). Children and prejudice. New York: Blackwell.
+ethnic­racial socialization that we propose (cultural socialization,     Alba, R. D. (1990). Ethnic identity: The transformation of White America.
+preparation for bias, egalitarianism, and promotion of mistrust) is
+especially important, because studies have indicated that messages          New Haven, CT: Yale University Press.
+differ in their salience to parents and in their prevalence and          American Civil Liberties Union. (1998). Police practices in the United
+frequency.
+                                                                            States District Court for the Eastern District of Pennsylvania. Retrieved
+   We reviewed a range of distal and proximal factors that are              May 11, 2004, from http://archive.aclu.org/community/pennsyl/
+likely to shape parents' ethnic­racial socialization. Characteristics       dwbreport.html
+of parents, their children, and the settings in which they operate are   Barnes, E. J. (1980). The Black community as a source of positive self-
+each associated with the types and frequency of messages that               concept for Black children: A theoretical perspective. In R. L. Jones
+parents transmit. As this literature expands in quantity and sophis-        (Ed.), Black Psychology (pp. 667­ 692). New York: Harper & Row.
+tication, researchers will need to examine individual and contex-        Biafora, F. A., Taylor, D. L., Warheit, G. J., & Zimmerman, R. S. (1993).
+tual factors in more complex ways--for example, as moderators of            Cultural mistrust and racial awareness among ethnically diverse Black
+ethnic­racial socialization rather than as predictors. Children's age       adolescent boys. Journal of Black Psychology, 19, 266 ­281.
+and gender both predicted ethnic­racial socialization in many            Biafora, F. A., Warheit, G. J., Zimmerman, R. S., & Gil, A. G. (1993).
+studies. Gender also moderated its antecedents and consequences             Racial mistrust and deviant behaviors among ethnically diverse Black
+across many studies. Although we did not identify studies that              adolescent boys. Journal of Applied Social Psychology, 23, 891­910.
+examined children's age as a statistical moderator vis-a`-vis youth      Bowman, P. J., & Howard, C. (1985). Race-related socialization, motiva-
+outcomes, and patterns of findings were quite similar across the            tion, and academic achievement: A study of Black youths in three-
+age groups we examined, the literature base is too small to support         generation families. Journal of the American Academy of Child Psychi-
+conclusions in this regard. Thus, in generating future research,            atry, 24, 134 ­141.
+studies that include boys and girls across a wide swath of the           Boykin, A. W., & Toms, F. D. (1985). Black child socialization: A
+developmental spectrum are needed to test hypotheses about                  conceptual framework. In H. P. McAdoo & J. L. McAdoo (Eds.), Black
+whether processes are similar or different across gender and de-            children: Social, educational, and parental environments (pp. 33­51).
+velopmental stage.                                                          Newbury Park, CA: Sage.
+                                                                         Branch, C. W., & Newcombe, N. (1986). Racial attitude development
+                                                                            among young Black children as a function of parental attitudes: A
+                                                                            longitudinal and cross-sectional study. Child Development, 57, 712­721.
+                                                                         Branscombe, N. R., Schmitt, M. T., & Harvey, R. D. (1999). Perceiving
+ETHNIC­RACIAL SOCIALIZATION                                                     767
+
+   pervasive discrimination among African Americans: Implications for              African-American transracial adoptees. Child Development, 67, 2375­
+   group identification and well-being. Journal of Personality and Social          2399.
+   Psychology, 77, 135­149.                                                     Demo, D. H., & Hughes, M. (1990). Socialization and racial identity
+Brega, A. G., & Coleman, L. M. (1999). Effects of religiosity and racial           among Black Americans. Social Psychology Quarterly, 53, 364 ­374.
+   socialization on subjective stigmatization in African-American adoles-       Fatimilehin, I. A. (1999). Of jewel heritage: Racial socialization and racial
+   cents. Journal of Adolescence, 22, 223­242.                                     identity attitudes amongst adolescents of mixed African-Caribbean/
+Caldwell, C. H., Zimmerman, M. A., Bernat, D. H., Sellers, R. M., &                White parentage. Journal of Adolescence, 22, 303­318.
+   Notaro, P. C. (2002). Racial identity, maternal support, and psycholog-      Fischer, A. R., & Shaw, C. M. (1999). African Americans' mental health
+   ical distress among African American adolescents. Child Development,            and perceptions of racist discrimination: The moderating effects of racial
+   73, 1322­1336.                                                                  socialization experiences and self-esteem. Journal of Counseling Psy-
+Caughy, M. O., Nettles, S. M., O'Campo, P. J., & Lohrfink, K. F. (2005,            chology, 46, 395­ 407.
+   April). Racial socialization and African American child development:         Fisher, C. B., Jackson, F., & Villarruel, A. (1998). The study of African
+   The importance of neighborhood context. Paper presented at the biennial         American and Latin American children and youth. In W. Damon &
+   meeting of the Society for Research in Child Development, Atlanta, GA.          R. M. Lerner (Eds.), Handbook of child psychology, Vol. 1: Theoretical
+Caughy, M. O., O'Campo, P. J., Randolph, S. M., & Nickerson, K. (2002).            models of human development (5th ed., pp. 1145­1208). New York:
+   The influence of racial socialization practices on the cognitive and            Wiley.
+   behavioral competence of African American preschoolers. Child Devel-         Fordham, S., & Ogbu, J. U. (1986). Black students' school success: Coping
+   opment, 73, 1611­1625.                                                          with the "burden of acting White." Urban Review, 18, 176 ­206.
+Charles, C. Z., Dinwiddie, G., & Massey, D. S. (2004). The continuing           Frabutt, J. A., Walker, A. M., & MacKinnon-Lewis, C. (2002). Racial
+   consequences of segregation: Family stress and college academic per-            socialization messages and the quality of mother/child interactions in
+   formance. Social Science Quarterly, 85, 1353­1373.                              African American families. Journal of Early Adolescence, 22, 200 ­217.
+Chatman, C. M., Eccles, J. S., & Malanchuk, O. (2005). Identity negotia-        Garc´ia Coll, C. T., Crnic, K., Lamberty, G., & Wasik, B. H. (1996). An
+   tion in everyday settings. In G. Downey, J. S. Eccles, & C. M. Chatman          integrative model for the study of developmental competencies in mi-
+   (Eds.), Navigating the future: Social identity, coping, and life tasks (pp.     nority children. Child Development, 67, 1891­1914.
+   116 ­140). New York: Russell Sage Foundation.                                Garc´ia Coll, C. T., Meyer, E. C., & Brillon, L. (1995). Ethnic and minority
+Chavous, T. M., Bernat, D. H., Schmeelk-Cone, K., Caldwell, C. H.,                 parenting. In M. H. Bornstein (Ed.), Handbook of parenting, Vol. 2:
+   Kohn-Wood, L., & Zimmerman, M. A. (2003). Racial identity and                   Biology and ecology of parenting (pp. 189 ­209). Mahwah, NJ: Erlbaum.
+   academic attainment among African American adolescent. Child Devel-          Garc´ia Coll, C. T., & Va´zquez Garc´ia, H. (1995). Hispanic children and
+   opment, 74, 1076 ­1090.                                                         their families: On a different track from the very beginning. In H. E.
+Chen, L. A. (1998). From the boat to the melting pot: A contextual                 Fitzgerald, B. M. Lerner, & B. Zuckerman (Eds.), Children of poverty:
+   examination of parental ethnic socialization and children's ethnic atti-        Research, health, and policy issues (pp. 57­ 83). New York: Garland.
+   tudes and knowledge among immigrant Chinese families. Unpublished            Greene, M. L., & Way, N. (2005). Self-esteem trajectories among ethnic
+   doctoral dissertation, New York University.                                     minority adolescents: A growth curve analysis of the patterns and
+Cheng, S. H., & Kuo, W. H. (2000). Family socialization of ethnic identity         predictors of change. Journal of Research on Adolescence, 15, 151­178.
+   among Chinese American pre-adolescents. Journal of Comparative               Hamm, J. V. (2001). Barriers and bridges to positive cross-ethnic relations:
+   Family Studies, 31, 463­ 484.                                                   African American and White parent socialization beliefs and practices.
+Coard, S. J., Wallace, S. A., Stevenson, H. C., & Brotman, L. M. (2004).           Youth and Society, 33, 62­98.
+   Towards culturally relevant preventive interventions: The consideration      Harrison, A. O., Wilson, M. N., Pine, C. J., Chan, S. Q., & Buriel, R.
+   of racial socialization in parent training with African American families.      (1990). Family ecologies of ethnic minority children. Child Develop-
+   American Journal of Child and Family Studies, 13, 277­293.                      ment, 61, 347­362.
+Constantine, M. G., & Blackmon, S. K. (2002). Black adolescents' racial         Harter, S. (1999). The construction of the self: A developmental perspec-
+   socialization experiences: Their relations to home, school, and peer            tive. New York: Guilford Press.
+   self-esteem. Journal of Black Studies, 32, 322­335.                          Hughes, D. (2003). Correlates of African American and Latino parents'
+Cooper, C. R., Garc´ia Coll, C. T., Bartko, W. T., Davis, H., & Chatman, C.        messages to children about ethnicity and race: A comparative study of
+   (2005). Developmental pathways through middle childhood: Rethinking             racial socialization. American Journal of Community Psychology, 31,
+   contexts and diversity as resources. Mahwah, NJ: Erlbaum.                       15­33.
+Crocker, J., Luhtanen, R., Blaine, B., & Broadnax, S. (1994). Collective        Hughes, D., Bachman, M. Ruble, D., & Fuligni, A. (2006). Tuned in or
+   self-esteem and psychological well-being among White, Black, and                tuned out: Children's interpretations of parents' racial socialization
+   Asian college students. Personality and Social Psychology Bulletin, 20,         messages. In L. Balter & C. Tamis-Lemonda (Eds.), Child psychology:
+   503­513.                                                                        A handbook of contemporary issues (2nd ed., pp. 591­ 610). Philadel-
+Crocker, J., & Major, B. (1989). Social stigma and self-esteem: The                phia: Psychology Press.
+   self-protective properties of stigma. Psychological Review, 96, 608 ­        Hughes, D., & Chen, L. (1997). When and what parents tell children about
+   630.                                                                            race: An examination of race-related socialization among African Amer-
+Cross, W. E., Jr. (1991). Shades of black: Diversity in African-American           ican families. Applied Developmental Science, 1, 200 ­214.
+   identity. Philadelphia: Temple University Press.                             Hughes, D., & Chen, L. (1999). The nature of parents' race-related com-
+Cross, W. J. (2003). Tracing the historical origins of youth delinquency and       munications to children: A developmental perspective. In L. Balter &
+   violence: Myths and realities about Black culture. Journal of Social            C. S. Tamis-Lemonda (Eds.), Child psychology: A handbook of contem-
+   Issues, 59, 67­ 82.                                                             porary issues (pp. 467­ 490). Philadelphia: Psychology Press.
+Cunningham, M., Swanson, D. P., Spencer, M., & Dupree, D. (2003). The           Hughes, D., & DuMont, K. (1993). Using focus groups to facilitate
+   association of physical maturation with family hassles among African            culturally anchored research. American Journal of Community Psychol-
+   American adolescent males. Cultural Diversity and Ethnic Minority               ogy, 21, 775­ 806.
+   Psychology, 9, 276 ­288.                                                     Hughes, D., & Johnson, D. J. (2001). Correlates in children's experiences
+DeBerry, K. M., Scarr, S., & Weinberg, R. (1996). Family racial social-            of parents' racial socialization behaviors. Journal of Marriage and the
+   ization and ecological competence: Longitudinal assessments of                  Family, 63, 981­995.
+                                                                                Jackson, J. S., & Gurin, G. (1997). National Survey of Black Americans,
+768 HUGHES ET AL.
+
+   Waves 1­ 4, 1979 ­1980, 1987­1988, 1988 ­1989, 1992 [Data file]. Ann        McLoyd, V. C., Cauce, A. M., Takeuchi, D., & Wilson, L. (2000). Marital
+   Arbor, MI: Inter-University Consortium for Political and Social Re-            processes and parental socialization in families of color: A decade
+   search.                                                                        review of research. Journal of Marriage and Family, 62, 1070 ­1093.
+Jacobvitz, D. B., & Bush, N. F. (1996). Reconstruction of family relation-
+   ships: Parent­ child alliances, personal distress, and self-esteem. Devel-  Mendoza-Denton, R., Downey, G., Purdie, V. J., Davis, A., & Pietrzak, J.
+   opmental Psychology, 32, 732­743.                                              (2002). Sensitivity to status-based rejection: Implications for African
+Johnson, D. J. (1988). Identity formation and racial coping strategies of         American students' college experience. Journal of Personality and So-
+   Black children and their parents: A stress and coping paradigm. Un-            cial Psychology, 83, 896 ­918.
+   published doctoral dissertation, Northwestern University.
+Johnson, D. J. (1994). Parental racial socialization and racial coping among   Miller, D. B., & MacIntosh, R. (1999). Promoting resilience in urban
+   middle class Black children. In J. McAdoo (Ed.), XIII Empirical Con-           African American adolescents: Racial socialization and identity as pro-
+   ference in Black Psychology (pp. 17­38). East Lansing: Michigan State          tective factors. Social Work Research, 23, 159 ­169.
+   University.
+Johnson, D. J. (2001). Parental characteristics, racial stress, and racial     Nagata, D. K. (1990). The Japanese American internment: Exploring the
+   socialization processes as predictors of racial coping in middle child-        transgenerational consequences of traumatic stress. Journal of Trau-
+   hood. In Neal-Barnett (Ed.), Forging links: African American children          matic Stress, 3, 47­ 69.
+   clinical development perspectives (pp. 57­74). Westport, CT: Praeger.
+Johnson, D. J. (2005). The ecology of children's racial coping: Family,        Nagata, D. K. (1993). Legacy of injustice: Exploring the cross-generational
+   school and community influences. In T. Weisner (Ed.), Discovering              impact of the Japanese American internment. New York: Plenum Press.
+   successful pathways in children's development: Mixed methods in the
+   study of childhood and family life (pp. 87­110). Chicago: University of     Nagata, D. K., & Cheng, W. J. Y. (2003). Intergenerational communication
+   Chicago Press.                                                                 of race-related trauma by Japanese American former internees. Ameri-
+Kasinitz, P., Mollenkopf, J. H., & Waters, M. C. (Eds.). (2004). Becoming         can Journal of Orthopsychiatry, 73, 266 ­278.
+   New Yorkers: Ethnographies of the new second generation. New York:
+   Russell Sage Foundation.                                                    O'Connor, L. A., Brooks-Gunn, J., & Graber, J. (2000). Black and White
+Kessler, R. C., Mickelson, K. A., & Williams, D. R. (1999). The preva-            girls' racial preference in media and peer choices and the role of
+   lence, distribution, and mental health correlates of perceived discrimi-       socialization for Black girls. Journal of Family Psychology, 14, 510 ­
+   nation in the United States. Journal of Health and Social Behavior, 40,        521.
+   208 ­230.
+Knight, G. P., Bernal, M. E., Cota, M. K., Garza, C. A., & Ocampo, K. A.       Ou, Y.-s., & McAdoo, H. P. (1993). Socialization of Chinese American
+   (1993). Family socialization and Mexican American identity and behav-          children. In H. P. McAdoo (Ed.), Family ethnicity: Strength in diversity
+   ior. In M. E. Bernal & G. P. Knight (Eds.), Ethnic identity: Formation         (pp. 245­270). Thousand Oaks, CA: Sage.
+   and transmission among Hispanics and other minorities (pp. 105­129).
+   Albany: State University of New York Press.                                 Oyserman, D., Harrison, K., & Bybee, D. (2001). Can racial identity be
+Knight, G. P., Bernal, M. E., Garza, C. A., Cota, M. K., & Ocampo, K. A.          promotive of academic efficacy? International Journal of Behavioral
+   (1993). Family socialization and the ethnic identity of Mexican-               Development, 25, 379 ­385.
+   American children. Journal of Cross-Cultural Psychology, 24, 99 ­114.
+Kofkin, J. A., Katz, P. A., & Downey, E. P. (1995, March­April). Family        Parham, T. A., & Williams, P. T. (1993). The relationship of demographic
+   discourse about race and the development of children's racial attitudes.       and background factors to racial identity attitudes. Journal of Black
+   Paper presented at the Society for Research in Child Development,              Psychology, 19, 7­24.
+   Indianapolis, IN.
+Kohn, M. L., & Schooler, C. (1978). The reciprocal effects of the substan-     Pessar, P. (1995). The elusive enclave: Ethnicity, class, and nationality
+   tive complexity of work and intellectual flexibility: A longitudinal           among Latino entrepreneurs in Greater Washington, DC. Human Orga-
+   assessment. American Journal of Sociology, 84, 24 ­52.                         nization, 54, 383­392.
+Laible, D. J., Gustavo, C., & Scott, R. C. (2004). Pathways to self-esteem
+   in late adolescence: The role of parent and peer attachment, empathy,       Peters, M. F. (1985). Racial socialization of young Black children. In H. P.
+   and social behaviors. Journal of Adolescence, 27, 703­716.                     McAdoo & J. L. McAdoo (Eds.), Black children: Social, educational,
+Lee, D. C., & Quintana, S. M. (2005). Benefits of cultural exposure and           and parental environments (pp. 159 ­173). Beverly Hills, CA: Sage.
+   development of Korean perspective-taking ability for transracially
+   adopted Korean children. Cultural Diversity and Ethnic Minority Psy-        Peters, M. F. (2002). Racial socialization of young Black children. In H. P.
+   chology, 11, 130 ­143.                                                         McAdoo (Ed.), Black children: Social, educational, and parental envi-
+Lewis, M. L. (1999). Hair combing interactions: A new paradigm for                ronments (2nd ed., pp. 57­72). Thousand Oaks, CA: Sage.
+   research with African American mothers. American Journal of Ortho-
+   psychiatry, 69, 504 ­514.                                                   Peters, M. F., & Massey, G. (1983). Mundane extreme environmental
+Marshall, S. (1995). Ethnic socialization of African American children:           stress in family stress theories: The case of Black families in White
+   Implications for parenting, identity development, and academic achieve-        America. Marriage and Family Review, 6, 193­218.
+   ment. Journal of Youth and Adolescence, 24, 377­396.
+McHale, S., Crouter, A. C., Kim, J., Burton, L., Davis, K. D., Dotterer,       Phinney, J. S., & Chavira, V. (1995). Parental ethnic socialization and
+   A. M., & Swanson, D. (in press). Mothers' and fathers' racial social-          adolescent coping with problems related to ethnicity. Journal of Re-
+   ization in African American families: Implications for youth. Child            search on Adolescence, 5, 31­54.
+   Development.
+McKay, M. M., Atkins, M. S., Hawkins, T., Brown, C., & Lynn, C. (2003).        Portes, A., Parker, R. N., & Cobas, J. A. (1980). Assimilation or con-
+   Inner-city African American parental involvement in children's school-         sciousness: Perceptions of U.S. society among recent Latin American
+   ing: Racial socialization and support from the family. American Journal        immigrants to the United States. Social Forces, 59, 200 ­224.
+   of Community Psychology, 32, 107­114.
+                                                                               Portes, A., & Zhou, M. (1993). The new second generation: Segmented
+                                                                                  assimilation and its variants. Annals of the American Academy of Polit-
+                                                                                  ical and Social Sciences, 530, 74 ­96.
+
+                                                                               Quintana, S. M. (1998). Children's developmental understanding of eth-
+                                                                                  nicity and race. Applied and Preventive Psychology, 7, 27­ 45.
+
+                                                                               Quintana, S. M., Casten~ada-English, P., & Ybarra, V. C. (1999). Role of
+                                                                                  perspective-taking abilities and ethnic socialization in development of
+                                                                                  adolescent ethnic identity. Journal of Research on Adolescence, 9,
+                                                                                  161­184.
+
+                                                                               Quintana, S. M., & Vera, E. M. (1999). Mexican American children's
+                                                                                  ethnic identity, understanding of ethnic prejudice, and parental ethnic
+                                                                                  socialization. Hispanic Journal of Behavioral Sciences, 21, 387­ 404.
+
+                                                                               Richardson, B. (1981). Racism and child-rearing: A study of Black moth-
+                                                                                  ers. Unpublished doctoral dissertation, Claremont Graduate School.
+
+                                                                               Rodriguez, C., & Sa´nchez Korrol, V. (Eds.). (1996). Historical perspec-
+ETHNIC­RACIAL SOCIALIZATION                                                     769
+
+   tives on Puerto Rican survival in the United States. Princeton, NJ:             Correlates of race-related socialization frequency from the perspective
+   Markus Wiener.                                                                  of Black youth. Journal of Black Psychology, 28, 84 ­106.
+Romero, A. J., Cuellar, I., & Roberts, R. E. (2000). Ethnocultural variables    Stevenson, H. C., Herrero-Taylor, T., Cameron, R., & Davis, G. Y. (2002).
+   and attitudes toward cultural socialization of children. Journal of Com-        "Mitigating instigation": Cultural phenomenological influences of anger
+   munity Psychology, 28, 79 ­ 89.                                                 and fighting among "big-boned" and "baby-faced" African American
+Rosenberg, M. (1986). Self concept from middle childhood through ado-              youth. Journal of Youth and Adolescence, 31, 473­ 485.
+   lescence. In J. Sius & A. G. Greenwald (Eds.), Psychological perspec-        Stevenson, H. C., McNeil, J. D., Herrero-Taylor, T., & Davis, G. Y. (2005).
+   tives on the self (pp. 107­136). Hillsdale, NJ: Erlbaum.                        Influence of perceived neighborhood diversity and racism experience on
+Rumbaut, R. (1994). The crucible within: Ethnic identity, self-esteem, and         the racial socialization of Black youth. Journal of Black Psychology, 31,
+   segmented assimilation among children of immigrants. International              273­290.
+   Migration Review, 28, 748 ­794.                                              Stevenson, H. C., Reed, J., & Bodison, P. (1996). Kinship social support
+Sampson, R. J., & Laub, J. H. (1993). Structural variations in juvenile court      and adolescent racial socialization beliefs: Extending the self to family.
+   proceedings: Inequality, the underclass, and social control. Law and            Journal of Black Psychology, 22, 498 ­508.
+   Society, 27, 285­311.                                                        Stevenson, H. C., Reed, J., Bodison, P., & Bishop, A. (1997). Racism stress
+Sanders Thompson, V. L. (1994). Socialization to race and its relationship         management: Racial social beliefs and the experience of depression and
+   to racial identification among African Americans. Journal of Black              anger in African American youth. Youth and Society, 29, 197­222.
+   Psychology, 20, 175­188.                                                     Sua´rez-Orozco, C., & Sua´rez-Orozco, M. M. (1995). Transformations:
+Sanders Thompson, V. L. (1999). Variables affecting racial-identity sa-            Immigration, family life, and achievement motivation among Latino
+   lience among African Americans. Journal of Social Psychology, 139,              adolescents. Stanford, CA: Stanford University Press.
+   748 ­761.                                                                    Sua´rez-Orozco, C., & Sua´rez-Orozco, M. M. (2001). Children of immigra-
+Scott, L. D. (2003). The relation of racial identity and racial socialization      tion. Cambridge, MA: Harvard University Press.
+   to coping with discrimination among African Americans. Journal of            Swanson, D. P., Cunningham, M., & Spencer, M. B. (2003). Black males'
+   Black Studies, 33, 520 ­538.                                                    structural conditions, achievement patterns, normative needs, and "op-
+Sellers, R. M., Rowley, S. A. J., Chavous, T. M., Shelton, J. N., & Smith,         portunities." Urban Education, 38, 608 ­ 633.
+   M. A. (1997). Multidimensional Inventory of Black Identity: A prelim-        Swanson, D. P., Spencer, M. B., Harpalani, V., Dupree, D., Noll, E.,
+   inary investigation of reliability and construct validity. Journal of Per-      Ginzburg, S., & Seaton, G. (2003). Psychosocial development in racially
+   sonality and Social Psychology, 73, 805­ 815.                                   and ethnically diverse youth: Conceptual and methodological challenges
+Shelton, J. N., Yip, T., Eccles, J. S., Chatman, C. M., Fuligni, A., & Wong,       in the 21st century. Development and Psychopathology, 15, 743­771.
+   C. (2005). Ethnic identity as a buffer of psychological adjustment to        Szalacha, L. A., Erkut, S., Garc´ia Coll, C., Alarco´n, O., Fields, J. P., &
+   stress. In G. Downey, J. S. Eccles, & C. M. Chatman (Eds.), Navigating          Ceder, I. (2003). Discrimination and Puerto Rican children's and ado-
+   the future: Social identity, coping, and life tasks (pp. 96 ­115). New          lescents' mental health. Cultural Diversity and Ethnic Minority Psychol-
+   York: Russell Sage Foundation.                                                  ogy, 9, 141­155.
+Smith, E. P., Atkins, J., & Connell, C. M. (2003). Family, school, and          Szalacha, L. A., Erkut, S., Garc´ia Coll, C., Fields, J. P., Alarco´n, O., &
+   community factors and relationships to racial­ ethnic attitudes and aca-        Ceder, I. (2003). Perceived discrimination and resilience. In S. S. Luthar
+   demic achievement. American Journal of Community Psychology, 32,                (Ed.), Resilience and vulnerability: Adaptation in the context of child-
+   159 ­173.                                                                       hood adversities (pp. 414 ­ 435). New York: Cambridge University
+Smith, E. P., Walker, K., Fields, L., Brookins, C. C., & Seay, R. C. (1999).       Press.
+   Ethnic identity and its relationship to self-esteem, perceived efficacy and  Tatum, B. D. (1987). Assimilation blues: Black families in a White com-
+   prosocial attitudes in early adolescence. Journal of Adolescence, 22,           munity. Westport, CT: Greenwood Press.
+   867­ 880.                                                                    Thomas, A. J., & Speight, S. L. (1999). Racial identity and racial social-
+Spencer, M. B. (1983). Children's cultural values and parental child rearing       ization attitudes of African American parents. Journal of Black Psychol-
+   strategies. Developmental Review, 3, 351­370.                                   ogy, 25, 152­170.
+Spencer, M. B., & Markstrom-Adams, C. (1990). Identity processes among          Thompson, C. P., Anderson, L. P., & Bakeman, R. A. (2000). Effects of
+   racial and ethnic minority children in America. Child Development, 61,          racial socialization and racial identity on acculturative stress in African
+   290 ­310.                                                                       American college students. Cultural Diversity and Ethnic Minority Psy-
+Steele, C. M., & Aronson, J. (1998). Stereotype threat and the test perfor-        chology, 6, 196 ­210.
+   mance of academically successful African Americans. In C. Jencks & M.        Thornton, M. C. (1997). Strategies of racial socialization among Black
+   Phillips (Eds.), The Black­White test score gap (pp. 401­ 427). Wash-           parents: Mainstream, minority, and cultural messages. In R. J. Taylor,
+   ington, DC: Brookings Institution.                                              J. S. Jackson, & L. M. Chatters (Eds.), Family life in Black America (pp.
+Stevenson, H. C. (1994). Validation of the Scale of Racial Socialization for       201­215). Thousand Oaks, CA: Sage.
+   African American adolescents: Steps toward multidimensionality. Jour-        Thornton, M. C. (1998). Indigenous resources and strategies of resistance:
+   nal of Black Psychology, 20, 445­ 468.                                          Informal caregiving and racial socialization in Black communities. In
+Stevenson, H. C. (1995). Relationship of adolescent perceptions of racial          H. I. McCubbin, E. A. Thompson, A. I. Thompson, & J. A. Futrell
+   socialization to racial identity. Journal of Black Psychology, 21, 49 ­70.      (Eds.), Resiliency in African-American families (pp. 49 ­ 66). Thousand
+Stevenson, H. C. (1997). Managing anger: Protective, proactive, or adap-           Oaks, CA: Sage.
+   tive racial socialization identity profiles and African-American manhood     Thornton, M. C., Chatters, L. M., Taylor, R. J., & Allen, W. R. (1990).
+   development. Journal of Prevention and Intervention in the Community,           Sociodemographic and environmental correlates of racial socialization
+   16, 35­ 61.                                                                     by Black parents. Child Development, 61, 401­ 409.
+Stevenson, H. C. (2004). Boys in men's clothing: Racial socialization and       U.S. Census Bureau. (2004, May 11). U.S. interim projections by age, sex,
+   neighborhood safety as buffers to hypervulnerability in African Amer-           race, and Hispanic origin. Retrieved May 11, 2004, from U.S. Census
+   ican adolescent males. In N. Way & J. Y. Chu (Eds.), Adolescent boys:           Bureau Web site: http://www.census.gov/ipc/www/usinterimproj/
+   Exploring diverse cultures of boyhood (pp. 59 ­77). New York: New            Uman~a-Taylor, A. J., & Fine, M. A. (2004). Examining ethnic identity
+   York University Press.                                                          among Mexican-origin adolescents living in the United States. Hispanic
+Stevenson, H. C., Cameron, R., Herrero-Taylor, T., & Davis, G. Y. (2002).          Journal of Behavioral Sciences, 26, 36 ­59.
+   Development of the Teenager Experience of Racial Socialization Scale:
+770 HUGHES ET AL.
+
+Urciuoli, B. (1996). Exposing prejudice: Puerto Rican experiences of        Williams, D. R., Neighbors, H. W., & Jackson, J. S. (2003). Ethnic­racial
+   language, race, and class. Boulder, CO: Westview Press.                     discrimination and health: Findings from community studies. American
+                                                                               Journal of Public Health, 93, 200 ­208.
+Ward, J. (1991). Eyes in the back of your head: Moral themes in African
+   American narratives of racial conflict. Journal of Moral Education, 20,  Yoon, D. P. (2001). Causal modeling predicting psychological adjustment
+   267­281.                                                                    of Korean-born adolescent adoptees. Journal of Human Behavior in the
+                                                                               Social Environment, 3, 65­ 82.
+Waters, M. C. (1990). Ethnic options: Choosing identities in America.
+   Berkeley: University of California Press.                                Yoon, D. P. (2004). Intercountry adoption: The importance of ethnic
+                                                                               socialization and subjective well-being for Korean-born adopted chil-
+Waters, M. C. (1994). Ethnic and racial identities of second-generation        dren. Journal of Ethnic and Cultural Diversity in Social Work, 13,
+   Black immigrants in New York City. International Migration Review,          71­ 89.
+   28, 795­ 820.
+                                                                            Zimmerman, M. A., Ramirez-Valles, J., Washienko, K. M., Walter, B., &
+Waters, M. C. (1999). Black identities: West Indian immigrant dreams and       Dyer, S. (1996). The development of a measure of enculturation for
+   American realities. New York: Russell Sage Foundation.                      Native American youth. American Journal of Community Psychology,
+                                                                               24, 295­310.
+Wigfield, A., & Eccles, J. S. (1994). Children's competence beliefs,
+   achievement values, and general self-esteem: Change across elementary                                                   Received May 18, 2004
+   and middle school. Journal of Early Adolescence, 14, 107­138.                                                Revision received June 21, 2006
+
+Williams, D. R. (1999). Race, socioeconomic status, and health: The added                                                  Accepted June 26, 2006 
+   effects of racism and discrimination. In N. Adler & M. Marmot (Eds.),
+   Socioeconomic status and health in industrial nations: Social, psycho-
+   logical, and biological pathways: Annals of the New York Academy of
+   Sciences (Vol. 896, pp. 173­188). New York: New York Academy of
+   Sciences.
+

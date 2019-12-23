@@ -1,0 +1,1425 @@
+arXiv:astro-ph/0304051v1 2 Apr 2003            LISA observations of rapidly spinning massive black hole binary systems
+
+                                                                                                       Alberto Vecchio
+                                                 School of Physics and Astronomy, The University of Birmingham, Edgbaston, Birmingham B15 2TT, UK
+
+                                                                                                        (Dated: February 2, 2008)
+
+                                                          Binary systems of massive black holes will be detectable by the Laser Interferometer Space An-
+                                                       tenna (LISA) throughout the entire Universe. Observations of gravitational waves from this class of
+                                                       sources will have important repercussions on our understanding of the behaviour of gravity in the
+                                                       highly non-linear relativistic regime, the distribution and interaction of massive black holes at high
+                                                       redshift and the formation and evolution of cosmic structures. It is therefore important to address
+                                                       how accurately LISA can measure the source parameters and explore the implications for astronomy
+                                                       and cosmology.
+
+                                                          Present observations and theoretical models suggest that massive black holes could be spinning,
+                                                       possibly rapidly in some cases. In binary systems, the relativistic spin-orbit interaction causes the
+                                                       orbital plane to precess in space producing a characteristic signature on the emitted gravitational
+                                                       waves. In this paper we investigate the effect of spins on the gravitational wave signal registered at
+                                                       the LISA output ­ we provide ready-to-use analytical expressions of the measured signal ­ and the
+                                                       implications for parameter estimation. We consider the in-spiral phase of binary systems in circular
+                                                       orbit undergoing the so-called "simple precession" and we approximate the gravitational radiation
+                                                       at the restricted post1.5-Newtonian order. We show that the presence of spins changes dramatically
+                                                       the signature of the signal recorded by LISA. As a consequence, the mean square errors associated
+                                                       to the parameter measurements are significantly smaller than the ones obtained when the effect of
+                                                       spins is neglected. For a binary system of two 106 M black holes, the angular resolution and the
+                                                       relative error on the luminosity distance improve by a factor  3-to-10; the fractional errors on the
+                                                       chirp mass and the reduced mass decrease by a factor  10 and  103, respectively.
+
+                                                                                                         I. INTRODUCTION
+
+                                        Binary systems of massive black holes in the mass range 107 M - 105 M are among the most spectacular sources
+                                     that will be observed by the Laser Interferometer Space Antenna (LISA), an ESA/NASA space-borne laser interfer-
+                                     ometer aimed at observations of gravitational waves (GW's) in the low-frequency region of the spectrum  10-5 Hz -
+                                     0.1 Hz, and expected to be launched in 2011 [1]. The interest in the detection of gravitational radiation from massive
+                                     black holes (MBH's) is two-fold [2]: (i) for fundamental physics, because it will provide a thorough understanding
+                                     of the behaviour of strong gravity in the highly non-linear relativistic regime, and (ii) for astronomy and cosmology
+                                     because GW's provide an "orthogonal" and complementary mean, with respect to conventional astronomy, of inves-
+                                     tigating the high-redshift formation and evolution of cosmic structures, such as galaxy interactions and mergers, and
+                                     exploring the demography of massive black holes.
+
+                                        Massive black holes (MBH's) are considered to be essentially ubiquitous in the centre of galaxies in the local and
+                                     low-redshift Universe [3, 4]. Our Galaxy [5] and NGC 4258 [6] provide probably the most solid observational evidence
+                                     for the existence of such black holes [7]. The evidence for the presence of black holes in galaxies at high redshift is
+                                     more circumstantial, but the fact that galaxies, at some stage of their life, harbour AGN's, and we observe quasars
+                                     at z > 6 [8] strongly favour the hypothesis that black holes are fairly common also at high redshift. This conclusion
+                                     is supported by recent results [9] that show that the high-redshift quasar distribution and the present day density
+                                     of black holes can be reconciled by invoking galaxy mergers where the relation between host velocity dispersion and
+                                     black hole mass is consistent with the one observed locally [10]. The present day population of MBH's is therefore
+                                     likely to be the dormant remnant of those earlier activities. Two black holes are brought together at the centre of a
+                                     merger remnant by dynamical friction from the stars of the common host. The further evolution of a binary must
+                                     then take place on a time scale short enough for the system to coalesce within an Hubble time due to radiation
+                                     reaction. Two are the main mechanisms that could make the binary hard enough to satisfy this condition: dynamical
+                                     friction from stars in the core [11, 12, 13, 14, 15] and gas dynamical effects [16, 17]. However, despite all these
+                                     circumstantial evidences, the rate of coalescence of massive black hole binaries in the Universe is still controversial:
+                                     present astrophysical estimations vary widely from  0.1 yr-1 to  100 yr-1 [11, 18, 19, 20, 21, 22, 23, 24], depending
+                                     on model assumptions and BH mass range. At present there are no direct observational evidences for the presence of
+                                     massive black holes binary systems, with the possible exception of OJ287 [25].
+
+                                        LISA will be able to detect MBH binaries at a moderate-to-high signal-to-noise ratio throughout the entire Universe
+                                     (redshift z  10 and beyond, if black holes are already present). During the whole LISA observational campaign ­
+                                     the nominal duration of the mission is 3 years, but the instrument is expected to operate for about 10 years, if no
+                                     catastrophic failure occurs on the spacecraft ­ one can therefore expect from a handful to a very large number of
+                                                                                                                                                         2
+
+detections.
+   LISA is an all-sky monitor. At any one time, the instrument maps the whole sky, although with a different
+
+sensitivity depending on the location of the source and the polarisation of the waves. By coherently tracking the
+phase and amplitude evolution of GW's, one can extract precise information about a source. In observations of binary
+systems, the number of parameters on which the waveform depends, and that one needs to extract from the data, is
+large, in the most general case 17. Clearly correlations among parameters are inevitable, degrading the precision of
+the measurements.
+
+   A few studies have been carried out so far to address how accurately LISA can measure the source parameters and
+the implications for astronomy and cosmology. Because of the complexity of the problem and open theoretical issues
+in the modelling of the gravitational waveform in the most general case, assumptions, possibly ad-hoc, have been
+introduced on the waveform model. Cutler [26] has considered the in-spiral phase of binary systems approximating
+the waveform at the restricted post1.5-Newtonian order. Sintes and collaborators [27, 28] and Moore and Hellings [29]
+have investigated the parameter estimation including post2-Newtonian corrections to the amplitude and the phase.
+Hughes [30] has considered restricted post2-Newtonian waveforms for the in-spiral phase and has included the ring-
+down portion of the signal; more recently Seto has included the effect of the finite length of the LISA arms using
+restricted post1.5-Newtonian waveforms [31]. All these analysis have a priori assumed that black holes have no spins, or
+the spins are parallel to each other and the orbital angular momentum. However, present astrophysical observations
+and theoretical models suggest that massive black holes are likely to be rotating, possibly rapidly in some cases.
+Observations of AGN's and quasars are highly consistent with rapidly rotating black holes; observations of black holes
+in quiescence are in agreement with a slow, if any, rotation and some theoretical models suggest small-to-moderate
+spins (see, e.g., [32]). If there is little doubt that black holes are, in general, rotating, how strong spins are is to a
+large extent unknown. Quite likely, gravitational wave observations shall provide the most effective tool in addressing
+this issue. Spins are likely to add vast complexity to the signal recorded at the detector output, and require more
+parameters to describe the waveform [33, 34, 35, 36]. In this paper we show that spins do change dramatically the
+structure of the signal observed by LISA and, as a consequence, affect significantly (even by orders of magnitudes for
+some selected parameters) the errors with which LISA can measure the source parameters.
+
+   In this paper we restrict our attention to the in-spiral phase of massive binary systems of comparable mass. We
+consider circular orbits, model the waveform at the restricted post1.5-Newtonian order and assume that binary systems
+undergo the so-called simple precession [33], which is the relevant scenario from an astrophysical viewpoint. The goal
+of the paper is two fold: (i) to provide ready to use analytical expressions for the LISA detector output when binary
+systems undergo spin-orbit precession, and (ii) to show the dramatic change in parameter estimation that occurs when
+spin-orbit modulation in phase and amplitude is taken into account. The actual parameter space is so vast ­ the
+waveform is described by 12 parameters ­ that here we concentrate on typical systems of two 106 M black holes. A
+thorough exploration of the whole parameter space requires large-scale, CPU-intensive Monte-Carlo simulations and
+is beyond the scope of this paper; such analysis is currently in progress and will be reported in a separate paper [37].
+
+   The organisation of the paper is as follows. In section II we review the main features of the LISA mission, in
+particular its orbital configuration which is central for the topic discussed in this paper. In Section III we review the
+main properties and key equations regarding the emission of GW's from in-spiralling binary systems, with emphasis
+on the role plaid by spins, and we stress the differences with respect to the non-spinning, i.e. non-precessing, case.
+Section IV and V contain the key results of the paper. In Section IV we derive explicit ready-to-use analytical
+expressions for the signal measured at the LISA detector output for binary systems in circular orbit that undergo
+simple precession; the waveform is computed within the restricted post1.5-Newtonian approximation. In section V we
+explore the errors with which the twelve parameters of the signal can be determined and compare the results with
+the case where spins are neglected. In Section VI we summarise our conclusions and present pointers to future work.
+
+                                                                 II. THE LISA MISSION
+
+   In this section we review the main properties of the LISA mission. We refer the reader to [1] for more details.
+
+                                                                      A. The LISA orbit
+
+   LISA is an all-sky monitor with a quadrupolar antenna pattern. Its orbital configuration is conceived in order to
+keep the geometry of the interferometer as stable as possible during the mission, which in turn provides a thorough
+coverage of the whole sky: a constellation of three drag-free spacecraft (containing the "free-falling test masses") is
+placed at the vertexes of an ideal equilateral triangle with sides  5 × 106 km; it forms a three-arms interferometer,
+with a 60 angle between two adjacent laser beams. The LISA orbital motion is as follows: the barycentre of the
+                                                                                                                                                   3
+
+instrument follows an essentially circular heliocentric orbit, 20 behind the Earth; the detector plane is tilted by 60
+with respect to the Ecliptic and the instrument counter-rotates around the normal to the detector plane with the
+same period 1 yr.
+
+   Following [26] we introduce two Cartesian reference frames [38]: (i) a fixed "barycentric" frame (x, y, z) tied to the
+Ecliptic and centred in the Solar System Barycentre, with ^z perpendicular to the Ecliptic, and the plane (x, y) in
+the Ecliptic itself; (ii) a detector reference frame (x, y, z), centred in the LISA centre of mass and attached to the
+detector, with ^z perpendicular to the plane defined by the three arms and the x and y axis defined so that the unit
+vectors ^lj (j = 1, 2, 3) along each arm read
+
+                                      ^lj = cos          +     (j  -   1)  x^ + sin          +      (j  -  1)  y^ .                                (1)
+                                                 12         3                            12     3
+
+In the Ecliptic frame the motion of LISA's centre-of-mass is described by the polar angles
+
+                                                                       =        ,
+                                                                             2
+
+                                                               (t) = 0 + nt ,                                                                      (2)
+
+where
+
+                                                                    n        2     ,                                                               (3)
+                                                                             1 yr
+
+and 0 sets the position of the detector at same arbitrary reference time. The normal to the detector plane ^z precesses
+around ^z according to
+
+                                                                  
+                                                         1          3
+                                                 ^z   =  2 ^z  -   2   [cos  (t)x^    +  sin (t)y^]     .                                          (4)
+
+    The time evolution of the unit vectors ^lj (j = 1, 2, 3) along each arm is described by the following expression [26]:
+
+                            ^lj =     1    sin j(t)   cos (t) -        cos j(t)    sin (t)      x^
+                                   +  2
+                                                                                                           
+                                      1                                                                     3
+                                      2    sin j(t)   sin (t) +        cos j(t)    cos (t)      y^ +       2   sin j(t)      ^z ,                  (5)
+
+where j(t) increases linearly with time, according to                                                                                              (6)
+                                                        j(t) = nt - (j - 1)/3 + 0 ,
+
+and 0 is just a constant specifying the orientation of the arms at the arbitrary reference time t = 0.
+
+                                                      B. The LISA detector output
+
+    The strain h(t) produced at the output of the LISA Michelson interferometer by a GW signal characterised by the
+
+two independent polarisation states h+(t) and h×(t) [42] is
+
+                                                         
+                                                             3
+                                           h()(t) =         2      F+()(t)h+(t) + F×()(t)h×(t)             .                                       (7)
+
+In  Eq.  (7)  F+()(t)  and  F×()(t)   are  the  time  dependent       antenna      patters   and   the     factor         =  sin(/3)  comes  from  the
+                                                                                                                     3/2
+
+60 opening angle of the LISA arms. F+ and F× vary with time because during the observation the interferometer
+
+changes orientation with respect to the source; in fact, in-spiral binaries are long-lived sources in the low frequency
+
+band. The index  = I, II labels the two independent Michelson outputs that can be constructed from the readouts
+
+of the three arms if the noise is uncorrelated and "totally symmetric" [26]. They are equivalent to the outputs of two
+
+identical interferometers in the same location, rotated by 45 one with respect to the other.
+   The functions describing the interferometer beam pattern depend on the source location in the sky N^ (GW's
+
+propagate in the -N^ direction) and wave polarisation, which is related to the orientation of the orbital plane, and
+
+therefore the orbital angular momentum L^, with respect to the detector. With respect to the frame tied to the Solar
+                                                                                                                 4
+
+system barycentre, N^ and L^ are described by the polar angles (N , N ) and (L , L). Equivalently, in the frame
+attached to the detector, N^ and L^ are identified by the angles (N , N ) and (L , L). In the reference frame attached
+to LISA, the antenna beam patters read
+
+       F+  (N  , N  N )   =   1   (1  +  cos N2 ) cos 2N           cos 2N     -     cos N  sin 2N     sin 2N  ,  (8a)
+                              2
+
+       F×  (N  , N  N )   =   1   (1  +  cos N2 ) cos 2N           sin 2N     +     cos N  sin 2N     cos 2N  ,  (8b)
+                              2
+
+where N describes the "polarisation angle" of the waveform in the detector frame. The antenna patterns (8a)
+and (8b) for the two outputs  = I and  = II are therefore
+
+           F+(,)×(t)              F+,×   (N      , N   N )                                 ( = I)
+                                                                                                       .
+
+                       =                                                                   ( = II)               (9)
+
+                            F+,× (N , (N - /4) , N )
+
+Note that because of the detector change of orientation, the angles N , N and N are time dependent. As a function
+of the angles measured in the Solar System Barycentre they read
+
+                                         
+                       1                      3
+       cos N (t)    =  2   cos    N   -      2   sin   N    cos((t)       -   N  )  ,                            (10)
+                                                                                                                 (11)
+                                                          
+                                                           3              1
+           N (t)    =  1      +       +  tan-1            2   cos  N   +  2   sin   N     sin((t)  -  N )  ,
+                                  12
+                                                                   sin N sin((t) - N )
+
+           tan N    =  L^  ·  ^z  -   (L^ ·  N^ ) (^z  ·  N^ )  ,                                                (12)
+                                  N^  · (L^  × ^z)
+
+where
+
+                                  j   =  nt      -          -      (j  -  1)  +  0     ,                         (13)
+                                                       12       3
+
+and 0 sets the orientation of ^lj at t = 0. We are not yet ready to derive the explicit expression for N , Eq.(12),
+because for spinning black holes, the source at the centre of this paper, L^ is not a constant of motion. We derive the
+necessary equations in the following section.
+
+           III. GRAVITATIONAL WAVES FROM BINARY SYSTEMS
+
+   In this section we briefly review, partly to fix notation, the basic concepts and formulae regarding the emission of
+gravitational waves by binary systems, with emphasis on the effects produced by spins. We refer the reader to [33, 34]
+for details and to [39] and references therein for a thorough review regarding post-Newtonian gravitational waveforms.
+
+   The whole coalescence of a binary system is usually divided in three distinct phases [40]: (i) the adiabatic in-spiral,
+during which the BH orbital evolution occurs on the time-scale of the gravitational radiation reaction, which is much
+longer than the orbital period; (ii) the merger, which takes place at the end of the in-spiral when the binary orbit
+becomes relativistically unstable and the black holes enter a free fall plunge; and (iii) the ring-down, when the resulting
+BH settles down in its final stationary Kerr state, oscillating according to its normal modes. In this paper we consider
+only the in-spiral phase. In fact the time to coalescence for a system radiating at frequency f is:
+
+             1.2 × 107                f -8/3                    M (1 + z) -5/3                  -1               (14)
+                                  10-4 Hz                        106 M                    0.25
+                                                                                                    sec ,
+
+where M and  are the total mass and the symmetric mass ratio, respectively, defined in Eqs. (16b)-(16e),  is the
+
+observed life-time of a binary system as recorded in the solar system for a source at redshift z with intrinsic total mass
+M that enters the detector window at the observed frequency f = 10-4 Hz. Binary systems are therefore long-lived in
+
+the LISA band, and one critically relies on long integration times to disentangle the sources parameters, in particular
+
+to resolve the source position in the sky and measure its luminosity distance [26].
+                                                                                  5
+
+   As we consider only the in-spiral phase of the coalescence, in the frequency domain we shut-off the signal at
+frequency
+
+                fisco   =             1
+                              63/2M (1 + z)
+
+                         4.4 × 10-3             M (1 + z)  -1                     (15)
+                                                 106 M
+                                                               Hz ,
+
+which corresponds to the innermost stable circular orbit of a particle orbiting a Schwarzichild black hole (ISCO). The
+real transition from in-spiral to merger will occur at a frequency somewhat (by a factor < 2) different from fisco, but
+due to the difficulty of defining the ISCO we will adopt the value (15). The results presented in this paper are anyway
+essentially unaffected by changing the cut-off frequency by a small factor.
+
+   We also assume the orbit to be circular. This is completely reasonable from an astrophysical point of view, as
+a massive binary system of roughly equal mass black holes has enough time ­ regardless of the initial eccentricity
+
+at which it forms ­ to circularise before it enters the observational window, due to dynamical friction and radiation
+reaction [12, 41].
+
+                A. The amplitude and phase evolution
+
+   We consider two massive black holes of mass m1 and m2, and spins S1 and S2, respectively. Several mass parameters
+are actually useful:
+
+                        M = m1 + m2 ,                                             (16a)
+                                                                                  (16b)
+                         µ    =    m1 m2     ,
+                                     M                                            (16c)
+                                                                                  (16d)
+                        M = µ3/5 M 2/5 = M 3/5 ,                                  (16e)
+
+                              =    =  µ   ;
+                                      M
+
+they represent, respectively, the total mass, the reduced mass, the chirp mass and the symmetric mass ratio.
+   The system evolves by loosing energy and angular momentum through emission of gravitational waves of increasing
+
+frequency and amplitude. The emitted radiation is given by the superposition of harmonics at multiples of the orbital
+period, and the two independent polarisation amplitudes h+ and h× [42] can be schematically represented as [43]
+
+                  h+,×(t) =               H+(k,)×(t) ei k orb(t)  ,               (17)
+
+                                       k
+
+where H+(k,)× are time dependent functions of the source parameters and orb(t) is the binary orbital phase. The
+strongest harmonic is associated to the quadrupole moment of the source, and therefore corresponds to k = 2. In
+this paper we consider the so-called restricted post-Newtonian approximation to the radiation (17): we retain only
+the leading order contribution to the amplitude, therefore only H+(2,)× at the Newtonian order, and take into account
+post-Newtonian corrections only to the phase of the signal (t) = 2 orb(t). In this approximation Eq. (17) reads:
+
+           h+     =  2  M5/3     1 + L^ · N^ 2 ( f )2/3 cos (t) ,                 (18a)
+                         DL                                                       (18b)
+
+           h×     =  -4  M5/3      L^ · N^ ( f )2/3 sin (t) ,
+                          DL
+
+where DL is the source luminosity distance [44], N^ the unit vector pointing toward the binary centre of mass (in our
+convention the GW propagation direction is -N^ ) and L^ the orbital angular momentum unit vector.
+
+   We review now the expression for the GW phase (t). The signal frequency f , twice the orbital one, evolves
+
+according to [45]
+
+df  =  96  8/3  M5/3  f 11/3  1-       743   +    11    (M f )2/3 + (4 - )(M f )
+dt     5                               336        4
+
+       +   34103  +  13661      +  59  2  +       (M f )4/3 ,                     (19)
+           18144     2016          18
+                                                                                                                  6
+
+where Eq. (19) is valid through the post2-Newtonian order and
+
+                       1   2          mi      2                        Si
+                       12             M                                m2i
+                    =           113             + 75           L^  ·           ,                                  (20)
+                                                                                                                  (21)
+                           i=1
+
+                    =        -247     S1   ·  S2   + 721           L^  ·  S1      L^  ·  S1
+                       48             m21     m22                         m12            m12
+
+are the so called spin-orbit and spin-spin parameters, respectively [45]. From Eq. (19) and d/dt = 2f , one can
+derive the time and phase evolution of the gravitational radiation:
+
+t(f )  =  tc - 5 (8f )-8/3 M-5/3      1  +    4    743  +      11         (M f )2/3      -    8  (4  -  ) (M f )
+                                              3    336         4                              5
+
+             +2     3058673  +  5429     +    617  2    -      (M f )4/3 ,                                        (22)
+                    1016064     1008          144                                                                 (23)
+
+(f )   =  c  -  1   (f M)-5/3   1  +  5       743  +    11         (M f )2/3      -      5  (4   -  )  (M f )
+                16                    3       336       4                                2
+
+             +5     3058673  +  5429     +    617  2    -      (M f )4/3 ;
+                    1016064     1008          144
+
+tc and c, the time and phase at coalescence, are constants of integration, defined as the value of t and  at (formally)
+f = . As we mentioned, massive black holes spend months-to-years in the LISA observational window, depending
+on the mass. For future reference, if we assume that LISA observes the final year of in-spiral of a binary, then the
+
+signal sweeps the frequency band between
+
+                                           Tobs    -3/8        M (1 + z)          -5/8
+                                           1 yr                 106 M
+                    fa  4.2 × 10-5                                                      ,                         (24)
+
+which we call "arrival" (or "initial") frequency, and fisco. An interesting quantity to consider is the total number of
+gravitational wave cycles recorded by the detector:
+
+                                   N (t) = 1            t                                                         (25)
+                                              2 ta
+                                                         (t) dt .
+
+From Eq. (23) and (24), it is easy to compute the number of cycles in the final year of in-spiral:
+
+                    N  4.8 × 102              fa -5/3 M (1 + z) -5/3
+                         2.1 × 103
+                                         10-4 Hz                       106 M
+
+                                         Tobs      5/8     M (1 + z)           -5/8
+                                         1 yr               106 M
+                                                                                     .                            (26)
+
+Table I contains reference values for fa, fisco and N for a number of choices of masses and observation times.
+
+                                                               B. Spin induced precession
+
+   Present observations and theoretical prejudices suggest that massive black holes could be rapidly rotating. As we
+have mentioned in the previous section, if black holes are spinning then the GW phase (23) contains two additional
+terms, one at the 1.5PN order, which is proportional to , and the other at the 2PN order, which is proportional
+to . However spins introduce a much more dramatic effect in the structure of the waveform, which is qualitatively
+different from the ones just mentioned: the orbital angular momentum L and the spins S1 and S2 change orientation
+due to spin-orbit interaction (1.5PN effect), so that the radiation detected has a time varying polarisation. L, S1 and
+S2 precess, over a time scale longer than the orbital period (2/f  30 min) but shorter than the observation time
+( 1 yr), around the (almost) fixed direction of the total angular momentum L + S1 + S2. This effect is actually quite
+dramatic and drastically changes the signature of the detected signal, as the orientation of the orbital plane changes
+                                                                    7
+
+TABLE I: Summary of the frequency band swept by massive black hole binary systems and the number of wave cycles recorded
+
+at the detector output in LISA observations for selected masses and integration times. The table shows the initial and final
+
+frequency of the GW's, fa and fisco respectively, the corresponding time of observation Tobs, and the number of waves cycles
+
+recored at the output of the detector, coming from the various contributions of the terms in Eq. (23): Newtonian: the first
+term; post1-Newtonian (1PN): the second term, proportional to ( M f )2/3; tail: -10  ( M f ); spin-orbit: (5/2)  ( M f );
+post2-Newtonian (2PN): the last term, proportional to ( M f )4/3 with  = 0; spin-spin: the -5  ( M f )4/3 term. The
+sources are selected with masses in the range 107 M - 105 M; for each mass choice, three different fa's are considered: the
+
+first corresponds to Tobs =1 yr, which does depend on m1 and m2, whereas the other two are the same for all m1 and m2, and
+correspond to fa = 5 × 10-5 Hz , and 10-4 Hz, respectively. Notice that depending on fa, m1 and m2, systems are observable
+
+for different times. The fiducial source is at z = 1.
+
+                                    number of wave cycles
+
+m1 m2    fa     fisco Tobs Newt. 1PN tail spin-orbit 2PN spin-spin
+
+(M) (M) (×10-4 Hz) (×10-4 Hz) (yr)         (×)             (×)
+
+107 107  0.070  1.099 1.000 342 42 -40     3    3 -1
+107 107  0.500
+107 106  0.153  1.099 0.004 10 3 -5 0 1 0
+107 106  0.500
+107 106  1.000  1.999 1.000 761 87 -103    8    7 -2
+107 105  0.350
+107 105  0.500  1.999 0.038 96 22 -34      3    3 -1
+107 105  1.000
+107 104  0.776  1.999 0.005 23 7 -13       1    1          0
+107 104  0.500
+107 104  1.000  2.177 1.000 1792 290 -455 36    32 -10
+106 106  0.295
+106 106  0.500  2.177 0.366 949 187 -319 25 24 -8
+106 106  1.000
+106 105  0.647  2.177 0.045 238 65 -130 10 11 -4
+106 105  0.500
+106 105  1.000  2.196 1.000 4102 990 -1881 150 153 -51
+106 104  1.508
+106 104  0.500  2.196 3.649 9477 1834 -3160 252 235 -78
+106 104  1.000
+105 105  1.242  2.196 0.447 2383 647 -1296 103 110 -37
+105 105  0.500
+105 105  1.000  10.993 1.000 1453 102 -76  6    5 -1
+105 104  2.729
+105 104  0.500  10.993 0.246 602 59 -51    4    4 -1
+105 104  1.000
+                10.993 0.038 187 28 -30    2    3 -1
+
+                19.987 1.000 3216 215 -201 16 11 -3
+
+                19.987 1.991 4950 280 -243 19 12 -4
+
+                19.987 0.312 1552 137 -144 11 9 -3
+
+                21.768 1.000 7571 748 -943 75   55 -18
+
+                21.768 19.285 48121 2366 -2176 173 96 -31
+
+                21.768 3.019 15096 1155 -1300 103 68 -22
+
+                109.929 1.000 6161 247 -141 11 8 -2
+
+                109.929 11.261 28097 618 -266 21 11 -2
+
+                109.929 1.781 8848 308 -165 13 9 -2
+
+                199.872 1.000 13594 519 -374 30 16 -5
+
+                199.872 91.802 230221 2867 -1208 96 33 -9
+
+                199.872 14.494 72508 1430 -753 60 25 -7
+
+during the year long observation time, and the angular momenta complete several precession cycles around the fixed
+
+detection.
+
+   The spin-orbit induced precession is the key new physical effect which is introduced in this paper. Here we review
+
+the main concepts and expressions and refer the reader to [33, 34] for more details. In this paper we restrict our
+attention to the so-called simple precession [33], which takes place when (i) the BH masses are equal (m1  m2),
+or (ii) one of the BH's has negligible spin (for convention, in this paper we shall assume S2 = 0). Furthermore,
+one needs to impose the condition that the angular momenta are oriented so that L = -(S1 + S2). Under this
+
+assumptions the equations that describe the evolution of the angular momenta simplify considerably, and one can
+
+construct explicit analytical solutions for the relevant quantities. Moreover the regime that we consider is well justified
+
+form an astrophysical point of view.
+   For circular orbits through the post1.5-Newtonian order the equations describing the evolution of L, S1 and S2 read
+                                                                                          8
+
+                                           L^ =  1    2 + 3m2        J × L^ ,             (27)
+                                                 r3        2m1                            (28)
+                                                                                          (29)
+                                           S^ =  1    2  +   3m2     J × S^ ,
+                                                 a3          2m1
+
+                                                 d   (S1  ·  S2)  =  0  ,
+                                                 dt
+
+                                                      S = 0 ,                             (30)
+
+where
+
+                                           J = L + S (S = S1 + S2)                        (31)
+
+is the conserved total angular momentum [46, 47] (indeed L = -S ).
+
+   Following [33], we highlight the main features of simple precession and provide, in a ready-to-use form, the relevant
+quantities needed for the computation of the LISA detector output. We will neglect the post2-Newtonian corrections,
+while retaining the post1.5-Newtonian terms (spin-orbit), which are dominant, for the m1 = m2 case; they vanish
+anyway for S2 = 0 [33, 34].
+
+   One can summarise the main features of the simple precession as follows. J^, L^ and S^ precess with the same angular
+
+velocity
+
+                                                 p =  2   +  3m2        J                 (32)
+                                                             2m1        r3
+
+around the fixed direction
+
+                                                 ^J0 = J^ - J^ × L^ ,                     (33)
+
+where                                                 L    L       1.                     (34)
+The quantities S1 · S2, S = |S1 + S2| and             J   Lp                              (35)
+
+                                                        S^ · L^
+
+are constant during the in-spiral. The phase of the gravitational signal contains an additional contribution, the
+so-called "Thomas precession phase", given by [33]
+
+                                                                    tc                    (36)
+                                                                                          (37)
+                                           p(t) = - p(t) dt ,
+
+                                                                  t
+
+where
+
+                            p  (t)         =     1    L^ · N^      (L^ ×    N^ ) ·  L^ .
+                                                    - (L^ · N^ )2
+
+   In analogy with the number of wave cycles, we can introduce here the number of precession cycles Np that L^ and
+S^ undergo around J^ from some initial frequency fa, at time ta, to the final coalescence at tc:
+
+                                           Np    =    1       tc                          (38)
+                                                     2
+                                                                 p(t) dt .
+
+                                                             ta
+                                                                             9
+
+TABLE II: The total number of precession cycles Np and the precession angular frequency p at the beginning and end of
+LISA observations, for the final year of in-spiral of a binary system at redshift z = 1 with  = S^ · L^ = 0.9 for selected values of
+
+the masses and spin magnitude.
+
+     m1 m2 S/M 2 p at fa p at fisco Number of precession cycles
+
+     (M) (M)           (×10-4 Hz) (×10-4 Hz)
+
+     107 107 0.95 0.009                1.254     11
+
+     107 107 0.50 0.007                0.892     9
+
+     107 107 0.10 0.005                0.579     7
+
+     107 106 0.95 0.008                1.043     11
+
+     107 106 0.50 0.005                0.632     7
+
+     107 106 0.10 0.003                0.272     4
+
+     107 105 0.95 0.026                0.911     34
+
+     107 105 0.50 0.014                0.489     19
+
+     107 105 0.10 0.003                0.114     5
+
+     107 104 0.95 0.133                0.895     127
+
+     107 104 0.50 0.064                0.472     71
+
+     107 104 0.10 0.012                0.096     15
+
+     106 106 0.95 0.018                12.540    25
+
+     106 106 0.50 0.015                8.919     20
+
+     106 106 0.10 0.013                5.788     16
+
+     106 105 0.95 0.015                10.432    23
+
+     106 105 0.50 0.011                6.319     16
+
+     106 105 0.10 0.007                2.716     9
+
+     106 104 0.95 0.047                9.110     74
+
+     106 104 0.50 0.025                4.892     40
+
+     106 104 0.10 0.007                1.144     11
+
+     105 105 0.95 0.038                125.396   54
+
+     105 105 0.50 0.034                89.194    46
+
+     105 105 0.10 0.030                57.877    39
+
+     105 104 0.95 0.030                104.315   48
+
+     105 104 0.50 0.023                63.186    34
+
+     105 104 0.10 0.016                27.159    22
+
+Depending on the mass ratio of a binary system, whether m1  m2 (L  S) or m1  m2 (L  S), Np is well
+approximated by the following expressions:
+
+                             m -1      fa -1
+                         106 M     10-4 Hz
+       10  1  +  3 m2  m1 S                                   (L  S)
+                 4 m1  m2 m21          m -2/3                             .
+                                   106 M
+Np               3 m2                                fa -2/3  (L  S)         (39)
+                 4 m1                            10-4 Hz
+       2   1  +
+     
+
+Notice that the precession cycles accumulate at low frequency, and, for L  S, Np does not depend on S; if L  S,
+Np  (m1/m2)  1 which could therefore generate a very large number of precessions. In Table II we show the
+number of precession cycles Np and the value of the precession frequency p at fa and fisco for a number of choices
+of the mass of a binary system.
+
+   Using Eq. (32) we define now the precession angle  as
+
+                                   d   =  p   ,                              (40)
+                                   dt
+
+From Eqs. (31), (33) and (35) it is straightforward to derive the relevant equations for the evolution of the total and
+                                                                                                                       10
+
+orbital angular momentum:
+
+       J^                  =  (1   +   L^  +  S^           ,                                                           (41a)
+                                      2       + 2)1/2                                                                  (41b)
+                                                                                                                       (41c)
+       J = L 1 + 2  + 2 1/2 ,                                                                                          (41d)
+                                                                                                                       (41e)
+       J^                  =     S^(1 + ) - L^( - )                ,
+                                   (1 + 2  + 2)3/2                                                                      (42)
+
+       L^ = p J^0 × L^ + (J^0 × L^) × L^ ,
+
+       L^                  =  J^0  cos  L    +  ^z  - J^0  cos  J  sin   L  cos      +   (J^0  ×  ^z)  sin L sin    .
+                                                      sin  J                                              sin J
+
+In the previous equation J and J are the polar coordinates of J^0 in the fixed frame and
+
+                                                           L       arcsin   |L^ |
+                                                                            p
+
+is the angle between L^ and J^ (at the first order in , the approximation in which we are working, L coincides with
+the angle between L^ and J^0) and
+
+                                                              (t)      S    .                                          (43)
+                                                                      L(t)
+
+From Eqs. (32) and (34) one can write explicitly:
+
+                                                     p =        2  +  3m2      L   G  ,                                (44)
+                                                                      2m1      r3
+
+                                             =   16     m 3/2         1  +  3m2              -1                        (45)
+                                                 5      r                   4m1                                        (46)
+                                                                                      G2 ,
+
+where
+
+                                                     G2(f )  1 + 2 + 2 .
+
+Eqs. (43), (44), (45) and (46) can be used to integrate Eq. (40):
+
+                              =  c    -      96         1  +  3m2        2 (G L)3 - 3 S (L +  S) G L
+                                           5µ3m3              4m1
+
+                                 -3  S3 1 - 2 arcsinh                       L+S                   .                    (47)
+                                                                         S (1 - 2)1/2
+
+In Eq. (47) the angle c is a constant of integration that essentially identifies the position of L^ and S^ on the precession
+cone at the reference time tc. Finally, the frequency evolution of L ­ the angle between L^ and J^ changes with time
+
+­ is given by:
+
+                                                         1 - 2 1/2                 S 1 - 2 1/2
+                                   sin L = (1 + 2  + 2)1/2 = L(f )G(f ) ,                                              (48a)
+                                                                                                                       (48b)
+                                   cos L      =     (1      1+              =      L(f ) +  S          .
+                                                        + 2  + 2)1/2               L(f )G(f )
+
+   Notice that at the 1.5PN order, which corresponds to the the post-Newtonian order at which we model the waveform
+in this paper, the contribution of the spins to the GW phase (23) depends only on the parameter . However, if
+one takes into account the change of orientation of the angular momenta, then the spin-orbit coupling is described
+by three parameters, say c,  and S, on which  depends. In the implementation of the computation of the Fisher
+information matrix, cf Sec. V, we found convenient to use as independent parameters ,  and c.
+                                                                                                                                                       11
+
+                                                           IV. THE OBSERVED SIGNAL
+
+   We can now derive ready-to-use analytical expressions for the signal measured by LISA at the Michelson detector
+output, Eq. (7), when the source is an in-spiralling binary system of spinning massive black holes. In this case, due
+to the relativistic spin-orbit coupling, the binary angular momenta, L, S1 and S2, precess, following the equations
+described in Sec.III B. It is worth spelling out the assumption under which the signal is derived: (i) the binary is
+in circular orbit; (ii) the waveform is modelled using the restricted post1.5-Newtonian approximation (amplitude at
+the lowest quadrupole Newtonian contribution, and GW phase at the 1.5PN order); (iii) the masses and/or spins are
+such that the system undergoes "simple precession".
+
+   In the most general case the signal depends on 17 parameters: 2 mass parameters, 6 parameters related to the BH
+spins ­ the magnitude and orientation of each spin ­ the orbital eccentricity, the luminosity distance (which is a direct
+observable in GW astronomy), 2 angles identifying the location of the source in the sky, two angles that describe the
+orientation of the orbital plane, one angle that describes the orientation of the ellipse in the orbital plane, an arbitrary
+reference time, say the time at coalescence, and the signal phase at that time. In the approximation that we consider
+here the signal depends on 12 unknown parameters (cf the next section for more details). The key new qualitative
+feature that we introduce here and that is not present in any of the previous analysis [26, 27, 29, 30] is the change
+of orientation of the orbital angular momentum during the observation. Unlike the model considered in [27, 29], here
+we consider only the waves emitted at twice the orbital frequency.
+
+   Before providing the explicit expression for h(t), it is worth summarising the key motions and the associated time
+scales that affect the detector output:
+
+    · LISA orbits around the Sun, so that the barycentre of the instrument changes position over the timescale of
+       one sidereal year: this motion Doppler-shifts the incoming gravitational waves, and depends only on the source
+       position in the sky;
+
+    · The orientation of the LISA arms changes over the same time scale because the detector precesses around the
+       normal to the Ecliptic: this introduces a phase and amplitude modulation which is due to the time-dependent
+       response of the detector to the two orthogonal polarisations h+ and h×; this effect depends on both the position
+       and orientation of the source in the sky.
+
+    · The binary orbital plane changes orientation in the sky with L and S that precess around the total angular
+       momentum J, whose direction is essentially constant. The time scale of precession is longer than the orbital
+       period but much shorter than the LISA rotation time-scale and depends on both the source-detector relative
+       orientation and the binary physical parameters (masses and spins): the incoming GW's are therefore intrinsically
+       modulated in amplitude and phase.
+
+   We consider first the representation of detector output in the time domain h()(t); we will then turn to the frequency
+domain representation h~()(f ).
+
+                               A. The measured signal in the time domain
+
+   In the amplitude-and-phase representation, the signal h()(t), cf Eq. (7), measured by the -th Michelson LISA
+interferometer and produced by the polarisation amplitudes (18a) and (18b) reads
+
+                            h()(t) = A(t) A(p)(t) cos (t) + p(t) + p()(t) + D(t) .                  (49)
+
+In the previous expression
+
+                                                  2    2                 L^ · N^ 2 F×()(t)2  1/2
+                                3
+Ap()(t) =                      2   1+    L^ · N^        F+()(t)2 + 4                             ,  (50)
+                                                                                                    (51)
+                                   
+
+p()(t)                                     2  L^ · N^  F×()(t)     
+                                         1+   L^ · N^              
+                                                                   
+                               tan-1
+                            =                          2
+                                       
+                                                          F+()(t)  
+                                                                   
+                                                                   
+
+are the polarisation amplitude and phase, respectively;                  (R = 1 AU)                 (52)
+                                        D(t) = 2R f sin N cos((t) - N )
+                                                   12
+
+1.5
+
+1                            2
+                             0
+0.5                         -2
+
+0         -2 -1.5       -1        -2.5 -2 -1.5 -1
+    -2.5
+                             2
+1.5                          0
+                            -2
+1
+                                  -2.5 -2 -1.5 -1
+0.5
+
+0         -2 -1.5       -1
+    -2.5
+
+FIG. 1: The evolution of the polarisation amplitude (left panels) and phase (right panels), computed according to Eqs. (50)
+
+and (51), for the final year of in-spiral of a binary system as a function of time. The bold solid-line refers to black holes with no
+spin, the dotted-line (for the phase) and thin solid-line (for the amplitude) to spinning objects. The relevant source parameters
+are chosen as follows: m1 = 107 M, m2 = 105 M, S/m2 = 0.95 and S^ · L^ = 0.5 (top panels), and m1 = m2 = 106 M,
+S/m2 = 0.3, and S^ · L^ = 0.9 (bottom panels). The location and initial orientation of the source have been chosen randomly.
+See the text for further details.
+
+is the Doppler phase modulation induced by the motion of the LISA detector around the Sun; p(t) is the so-called
+Thomas precession phase, Eq. (36), which vanishes for spin-less binary systems; the amplitude of the gravitational
+
+wave signal is
+
+          A[t(f  )]  =  2   M5/3  [ f (t)]2/3  ,   (53)
+                              D
+
+and the GW phase (t) is given by Eq.(23), where at the 1.5PN order one neglects the term proportional to (M f )4/3.
+   The structure of h()(t) clearly shows that the signal measured at the detector output is phase and amplitude
+
+modulated because of the three effects that we have mentioned above: (ii) the orbital motion of the instrument
+
+around the Sun which Doppler-modulates, through D, the phase of the incoming gravitational wave signal; this
+effect is the same for h(I) and h(II); (ii) the change of orientation of the detector during the time of observation
+that through F+()(t) and F×()(t) affects A(p) and p(), in different ways depending on ; (iii) the change of L^ due to
+spin-orbit interaction which affects A(p) and (p) through (N^ · L^) and N , cf. Eqs. (8a), (8b), (12), (50) and (51); the
+impinging signal is intrinsically modulated. Furthermore p adds to the phase of the signal.
+
+   In order to complete the analysis of the detector output, we need to provide explicit expressions for (L^ · N^ ), which
+
+enters Eq. (50) and (51), and (L^ · ^z) and [N^ · (L^ × ^z)] that are needed to compute N , Eq. (12), and therefore the
+                                                                                                                           13
+
+antenna beam patters. Using Eqs. (4) and (41e) we obtain:
+
+     L^ · N^    =  (J^0   ·  N^ )  cos     L   +    cos N      - (J^0 · N^ ) cos J         sin L cos 
+                                                                 sin J
+
+                   +   (J^0 × ^z) ·        N^  sin  L   sin       ,                                                        (54)
+                           sin J
+                                                                                                                           (55)
+     L^ · ^z    =  (J^0   · ^z) cos L          +  1   - 2 (J^0 · ^z) cos J           sin L cos 
+                                                           2 sin J                                                         (56)
+                                                                                                                           (57)
+                   +   (J^0 ×      ^z)  ·  ^z  sin L    sin       ,
+                          sin      J
+
+N^ · (L^ × ^z)  =  N^  ·  (J^0     × ^z) cos L        +    N^  ·  (^z ×   ^z)   - N^ · (J^0   ×  ^z) cos J  sin L    cos 
+                                                                                  sin J
+
+                   + N^      ·  (J^0 × ^z)     ×  ^z  sin  L      sin     .
+                                  sin J
+
+In the previous expressions sin L, cos L and are  are given by Eqs. (48a), (48b) and (47), respectively, and the
+remaining quantities describing the orientation of the source with respect of the detector read:
+
+                                                  
+                                1                    3
+     J^0 · ^z          =        2  cos  J      -    2   sin  J    cos((t)       -    J  )  ,                               (58)
+                                                                                                                           (59)
+     J^0 · N^ = cos J cos N + sin J sin N cos(J - N ) ,
+                                                                                                                           (60)
+N^ · J^0 × ^z          =        1  sin  N      sin J    sin(J        -  N )                                                (61)
+                                2                                                                                          (62)
+                                                                                                                           (63)
+                                -    3  cos (t) (cos J               sin N      sin N   -     cos N  sin J  sin J )        (64)
+                                   2
+                                    3
+                                -  2    sin    (t)    (cos   N       sin  J     cos  J  - cos J sin N cos N )        ,
+
+     N^ · (J^0 × ^z) = sin N sin J sin(J - N ) ,
+                                  3
+     N^ · (^z × ^z)    =        2     sin N sin [(t) - N ]                   ,
+
+     ^J · (^z × ^z) =            3    sin J       sin [(t) - J ]          ,
+                                2
+                                                  
+N^ · (J^0 × ^z) × ^z   =        -  1  sin  J        3 cos N cos [(t) - J ] + sin N cos(J - N )                          .
+                                   2
+
+   Lastly, we need to compute the scalar and vector products necessary to derive the Thomas precession phase p(t),
+Eqs. (36) and (37):
+
+     (L^ × N^ ) · L^ = p cos L (N^ · L^) - (N^ · J^0) -  J^0 · (L^ × N^ ) ,                                                (65)
+
+^J0  · (L^ × N^ )  =  N^ · (J^0 × ^z)          sin L    cos       +     cos J (N^ · ^J0) - cos N     sin L sin  ;          (66)
+                          sin J                                                    sin J
+
+p(t) can be therefore computed using Eqs. (47), (48a), (48b), (54), (58), (59) and (60).
+   An example of the LISA output when black holes rapidly spin is shown in Figure 1, where we plot the amplitude
+
+and phase modulation, Eqs (50) and (51), during the final year of in-spiral. Two cases are actually presented: a
+binary system with m1 = 107 M, m2 = 105 M, S/m2 = 0.95 and S^ · L^ = 0.5 and an equal mass binary where the
+parameters correspond to m1 = m2 = 106 M, S/m2 = 0.3, and S^ · L^ = 0.9. The evolution of Ap(t) and p(t) for
+the two sets of physical parameters is compared to the spin-less case. A simple eye inspection shows how dramatic is
+
+the effect induced by spins, and it should therefore not come as a surprise the fact that the errors associated to the
+
+measurements of the source parameters are strongly affected.
+                                                                                                           14
+
+                         B. The measured signal in the frequency domain
+
+   For several applications in data analysis, it is often more useful to work in the frequency domain, and we will derive
+now an approximation to the Fourier representation of the signal h()(t), Eq.(49). Our convention for the Fourier
+
+transform g~(f ) of any real function g(t) is:
+
+                                                        e2ift g(t) dt .
+
+                                           g~(f ) =                                                        (67)
+
+                                                     -
+
+   The Fourier transform (67) of the signal h()(t) can be computed in an rather straightforward way using the
+stationary phase approximation, see [52], and considering the gravitational waveform A(t) cos (t) in Eq. (49) as the
+carrier signal modulated by the motion of the detector and the source's orbital plane [26, 33]. Under this assumption,
+the Fourier transform of the detector output (49) reads:
+
+       h~()(f )   A A(p)[t(f )] f -7/6 e{i [(f )-(p)[t(f )]-D[t(f )]-p[t(f )]]}            0 < f  fisco ,  (68)
+                  0                                                                        f > fisco
+
+where
+
+                     5      1/2         M5/6
+                     96                   D
+       A=                        -2/3                                                                      (69)
+                                                                                                           (70)
+       (f )       =  2f tc  -  c  -     +  3  (8Mf )-5/3      1  +  20  743   +  11      (mf )2/3
+                                     4     4                        9   336      4
+
+                     -4 (4 - ) (mf ) + 10            3058673  +  5429     +   617  2  -    (mf )4/3 .
+                                                     1016064     1008         144
+
+Notice that in Eq. (70) the term proportional to (mf )4/3 correspond to the post2-Newtonian order, and will not be
+considered in this work.
+
+                                                          V. PARAMETER ESTIMATION
+
+   In this section we discuss the errors associated to the parameter measurement when LISA monitors binary systems
+of rapidly rotating massive black holes in circular orbit. We start by briefly recalling the general concepts and formulae
+regarding parameter estimation ­ we refer the reader to [48, 49, 50, 51, 52] and references therein for more details ­
+and then present the results of our analysis applied to LISA data.
+
+                     A. Review of signal analysis and parameter estimation
+
+The signal s(t) registered at the detector output is the superposition of noise n(t) and gravitational waves h(t; ):
+
+                                              s(t) = h(t; ) + n(t) ;                                       (71)
+
+ represents the vector of the unknown parameters (location, masses, spins, etc.) that characterise the actual wave-
+form and that one wishes to estimate from the data stream. We assume the noise to be stationary and Gaussian,
+characterised by a noise spectral density Sn(f ). In the geometrical approach to signal processing it is useful to consider
+s(t) as a vector in the signal vector space, and to introduce the following inner product between two signals v and
+w [52]:
+
+                                 (v|w) = 2        v~(f )w~(f ) + v~(f )w~(f )  df .                        (72)
+
+                                              0           Sn(f )
+
+According to the definition (72), the optimal signal-to-noise ratio (SNR) at which h can be detected is
+
+                                        S/N   =     (h|h)     =  (h|h)1/2  .                               (73)
+                                                 rms[(h|n)]
+                                                                                                 15
+
+In this paper we discuss the errors associated to the measurement of the unknown parameter vector  that characterises
+the signal h(t; ). In the limit of large SNR, which is clearly the case for LISA observations of massive black hole
+binary systems, the errors  follow a Gaussian probability distribution:
+
+       det()     1/2  1   jk j k
+         2            2
+p() =                 e .-                                                                       (74)
+
+In Eq.(74) the matrix jk is known as the Fisher information matrix, and reads
+
+       j(k)      h() h()  .                                                                      (75)
+                 j k
+
+The variance-covariance matrix is simply given by the inverse of the Fisher information matrix:
+
+jk = j k =            ()  -1  jk                                                                 (76)
+
+                                 .
+
+The matrix  contains full information about the parameter errors and their correlations, and is what we need to
+compute (cf next Section) in order to investigate the LISA parameter estimation. In fact the diagonal elements of 
+represent the expected mean squared errors
+
+       (j )2 = jj ,                                                                              (77)
+
+and its off-diagonal elements provide information about the correlations among different parameters through the
+correlation coefficients cjk:
+
+cjk =  jk        (-1  cjk  +1) .                                                                 (78)
+          jj kk
+
+In the limit of high signal-to-noise ratio, jj provides a tight lower bound to the minimum mean-squared error
+ (j )2 the so-called Cramer-Rao bound [49, 50]. It is important to notice that the errors (77) and the correlation
+
+coefficients (78) depend both on the actual value of the signal parameter vector . For the case of observations with
+two or more detectors with uncorrelated noise, the Fisher information matrix is simply: jk =  (jk).
+
+   One of the properties that we are interested in is the angular resolution of the instrument, which we define as:
+
+N = 2   cos N2   N2   -  cos N N 2                                             1/2               (79)
+
+                                                                                   ;
+
+The physical meaning of N is the following: the probability of the source to lie outside an (appropriately shaped)
+error ellipse enclosing a solid angle  is simply e-/N .
+
+                                                                   B. LISA observations
+
+   We discuss now how accurately LISA can measure the source parameters in the case of rapidly spinning black holes.
+The goal of this section is to investigate whether spins, which have been neglected in studies carried out so far, can
+significantly affect the estimation of the source parameters. A thorough exploration of this effect requires to probe a
+very large multi-dimensional parameter space, and it is well outside of the scope of this paper. Here we concentrate
+on a fiducial source of two 106 M black holes at redshift z = 1 ­ a rather typical LISA source ­ and we compare the
+errors associated to the parameter measurements in the case in which spins are present ­ for large spins, S/M 2 = 0.95,
+and moderate spins S/M 2 = 0.3; in both cases  = 0.9 ­ and the case where spins are neglected (the black holes are
+considered, a priory, to be not spinning).
+
+   Before presenting the results we spell out the assumptions under which we compute the errors (77):
+
+    · The orbit is circular; we regard such hypothesis as realistic, as we are dealing with massive systems of black holes
+       of comparable mass. As the orbit shrinks due to dynamical friction the eccentricity is likely to decrease [11, 12, 13]
+       and radiation reaction completes the circularisation process before GW's enter the observational window of LISA;
+       in fact the eccentricity e evolves according to e  f -19/18 [41].
+                                     16
+
+· The black holes are spinning, so that the binary orbit precesses in space. However, in oder to simplify the
+  description of the precession motion, still addressing a realistic astrophysical scenario, we assume that either
+  m1 = m2 (the case considered in this paper) or S2 = 0 and the spins and angular momentum are not anti-aligned.
+  Under this conditions a binary undergoes the so-called simple precession [33], and the equations describing the
+  evolution of the relevant physical quantities simplify considerably (cf Sec. III B for more details).
+
+· We restrict the analysis only to the in-spiral phase of the whole coalescence. We approximate the waveform
+  ~h()(f ; ) at the restricted 1.5PN order. The GW signal detected at the LISA output is therefore described
+
+  by Eqs. (68), (69), and (70). Because we retain terms up to 1.5PN order in the GW phase, in the expression
+  of (f ), Eq. (70), we neglect the last term proportional to (M f )4/3. We shut-off the in-spiral waveform at
+
+  the frequency fisco, given by Eq. (15). In the computation of the errors (77) we actually neglect the Thomas
+  precession phase p(t), Eq. (36). This simplification is motived by computational reasons, and does not affect in
+  any significant way the final results. In fact, p[t(f )] must be computed numerically at each frequency using the
+  past history of the binary; p[t(f )] needs then to be included in the integrand of the scalar product( 72) that
+  leads to determination of the elements of the Fisher information matrix. This double numerical integration,
+
+  which needs to be carried out to high accuracy in order to keep under control numerical instabilities that
+
+  occur otherwise in the numerical inversion of jk, makes the computational time very long, due to our limited
+  computational resources. We have checked for a few (random) choices of the source parameters that including
+
+  p[t(f )] does not change in any appreciable way the result. This is to be expected. For the physical parameters
+  considered in this paper the Thomas precession phase contribute to  1 wave cycle, out of a total  1500. It
+
+  also represents a secular increase in the phase of the GW signal, qualitatively not different from the one given
+
+  by (f ).
+
+· We consider the fiducial sources to be at redshift z = 1 [55]. As the systems are at cosmological distance,
+  the values of all the physical parameters entering the GW signal presented in the previous sections must be
+  considered as the observed ones; they differ from the values of the parameters as measured in the source rest
+  frame by a factor (1 + z); the parameters are "Doppler-shifted" according to:
+
+f    (1  f  z)  ,
+         +
+
+t  (1 + z) t ,
+
+M  (1 + z) M ,
+
+m  (1 + z) m ,
+
+µ  (1 + z) µ .                       (80)
+
+· We assume that the instrument observes the whole final year of in-spiral; the GW's sweep therefore the frequency
+
+  band between the arrival frequency fa and the final cut-off frequency fisco; fa is determined so that after 1 yr,
+  as measured by an observer in our solar system, the GW instantaneous frequency reaches fisco:
+
+Tobs = t(fisco) - t(fa)              (81)
+       = 1 yr = 3.1556926 × 107 sec
+
+The range fa  f  fisco determines the integration domain in (75); values of fa and fisco for selected choices
+of the source parameters are given in Table I. Note that we do not impose a low-frequency cut-off to LISA; this
+
+choice is based on the fact that the real low frequency noise wall of space-based instruments is not very well
+understood at the moment, placed somewhere in the range 10-5 Hz - 10-4 Hz.
+
+· The total noise that affects the observations is given by the superposition of instrumental sources and astro-
+  physical foregrounds of unresolved radiation due to (mainly) galactic white dwarf binary systems [53, 54], the
+  so-called "confusion noise". The total noise spectral density Sn(f ) is therefore the sum of these two components,
+  and we use the analytical approximations given in [26, 55] .
+
+· Out of the 17 parameters on which the most general waveform depends, the signal h~()(f ; ) that we consider
+  here depends on 12 independent parameters. In our analysis we adopt the following choice of independent
+  parameters: ln M and ln µ (mass parameters), cos N , N , cos J , J , and c (geometry of the binary with
+  respect to the detector),  and  (spin parameters), ln DL (distance of the source) and finally tc and c.
+
+· We compute the expected mean square errors j2 1/2 and the angular resolution N for the case of
+  observations carried out with one detector and with combined observations of both detectors I and II. The
+                                                                                                                          17
+
+                              0.25    0.00010.001 0.01 0.1  0.25            0.1       1
+                               0.2                           0.2                      1
+
+                              0.15                          0.15
+                               0.1                           0.1
+
+                              0.05                          0.05
+                                   0                             0
+                                                                0.001 0.01
+                              0.25
+                               0.2                          0.25
+                                                             0.2
+                              0.15
+                               0.1                          0.15
+                                                             0.1
+                              0.05
+                                   0                        0.05
+                                                                 0
+                                      0.00010.001 0.01 0.1      0.001 0.01  0.1
+
+FIG. 2: The probability distribution of N (left) and DL/DL (right), for observations of the final year of in-spiral of a
+binary system with m1 = m2 = 106 M at z = 1. The histograms show the result of a Monte-Carlo simulation, where 1000
+
+sources have been randomly located and oriented in the sky. The bottom panels refer to measurements carried out with only
+
+one detector, whereas the top panels describe the results obtained by combining the two independent data streams. The plots
+compare the errors for different values of the BH spins: S/m2 = 0.9 (solid line), 0.3 (dotted line), and 0 (dotted-dashed line).
+
+analysis is done in the the frequency domain: we first compute analytically the derivatives h()/j, where
+j = 1, .., 12, then compute numerically jk and jk, Eqs. (75) and (76); the integration and matrix inversion
+
+are performed using numerical routines of the NAG library.
+
+LISA parameter estimation strongly depends (the results vary by orders of magnitude) on the actual value of the
+
+signal parameters. In particular, one of the key set of parameters that affect the errors is the location and orientation
+
+of a source with respect to the detector. This represents already a large parameter space that one needs to explore
+
+in order to obtain meaningful results. We perform this exploration by means of Monte-Carlo simulations, which
+
+therefore affect the way in which the results are presented, given in terms of probability distributions. For each set
+
+of physical parameters, we select randomly the 5 geometrical parameters (N , N , J , J and c) from a uniform
+distribution in cos N , N , cos J , J and c. The Monte-Carlo simulation is done on 1000 different sets of angles.
+As far as the other 7 parameters are concerned we chose them as follows. We consider a fiducial source at redshift
+
+z = 1, with m1 = m2 = 106 M (which sets the 3 parameters DL, M and µ), with tc = c = 0. We fix the tilt angle
+parameter  = 0.9, and we explore three different values of the size of the spin S: (i) S/M 2 = 0.95, (ii) S/M 2 = 0.3
+
+and (iii) S = 0. Notice that given m1, m2, S and  we can easily derive . It is worth noticing that in this paper we
+do not explore the effect of the tilt angle cos-1 , which is also likely to affect the errors. Such analysis is currently
+
+in progress [37]. We would also like to stress that for the case S = 0 the waveform that we actually consider is the
+
+one corresponding to the non-precessing restricted 2PN approximation (this is the waveform used in [30], very similar
+
+to the one used in [26], which is the non-precessing restricted 1.5PN approximation). This is equivalent to assuming
+
+that we know a priori that spins are zero and the binary system does no precess. Note that this is different from
+
+estimating the source parameters using the waveform (68) where precession is included, and assuming S  1. In the
+
+case S = 0 we need to estimate only 11 parameters, and not 12. The reason of this choice is to compare existing
+
+results in the literature with our new ones that take into account spin-orbit modulations.
+
+Figs 2, 3 and 4 summarise the key results. Figs 2, 3 show the probability distribution of the parameter errors, for
+
+N , DL/DL, M/M and µ/µ. Fig 4 shows the cumulative probability distributions: if we define   j ,
+                           0
+the plots show P ( < 0) =  0  p()d    as  a  function  of   0.  Each  plot  compares  the  non-spinning  case  with  the  cases
+                                           18
+
+0.3 0.3
+
+0.2 0.2
+
+0.1 0.1
+
+00
+
+0.0001 0.001 0.01  0.00010.001 0.01 0.1 1
+
+0.3 0.3
+
+0.2 0.2
+
+0.1 0.1
+
+00
+
+0.0001 0.001 0.01  0.00010.001 0.01 0.1 1
+
+FIG. 3: The probability distribution of M/M (left) and µ/µ (right) for observations carried out with only one interferometer
+(bottom) and the two combined LISA outputs (top). The parameters are the same as in Fig 2.
+
+in which the black holes are spinning with two different value of the spins, S/M 2 = 0.95 and 0.3 .
+   The key result, which is absolutely clear from Figs 2, 3 and 4 is that the errors in the spinning-case are smaller
+
+than in the non-spinning one, even if the number of parameters that one needs to estimate is greater (12 instead of
+11). One can intuitively understand this behaviour by looking at Figure 1, which shows the amplitude and phase
+evolution of the signal recorded at the LISA output: precessing binaries show a much greater richness of features than
+non-spinning sources. These are the features that help in measuring the parameters.
+
+   However, despite all the parameters are estimated with smaller errors with respect to the non-spinning case, there
+is striking difference between the "position parameters" ­ location in the sky and luminosity distance ­ and mass
+parameters. In fact, the errors N and DL/DL are reduced by a factor 2-to-10 depending on the actual value
+of the source parameter. We know that LISA reconstruct the position of the source in the sky by exploiting the
+modulation in the amplitude and phase of the signal, and precession introduces one additional modulation effect
+which can improve the determination of N^ and de-correlates DL from M, which improves the measurement of the
+luminosity distance. Still, the change of position and orientation of LISA is the main effect that allows the source
+to be located. The improvement in N and DL/DL is however significant: the fraction of sources that can be
+located within, say, one square degree is 10% for non-spinning binaries, 35% for binaries with 0.3 and 50% with 0.95
+(for  = 0.9). The systems whose distance is known to better than 1% is about 60% for non-spinning binaries, and
+essentially the totality for spinning binaries.
+
+   The situation is radically different for the masses: in the non-spinning case the instrument reconstructs the value
+of the two mass parameters by staying in phase with the GW phase, whose time evolution is mainly controlled by M
+(the leading Newtonian term) and, to a less extent, by µ, through the post-Newtonian corrections, cf Eqs. (23), (70)
+and Table I. M and µ play no role in the amplitude and phase modulation, Ap(t) and p(t), Eqs (50) and (51). As
+a consequence, M is measured much more accurately, by a factor  100 or more, than µ, see Fig (3) and [26, 30]. If
+spins are present, the masses start to play a role also in Ap(t) and p(t), because they control the rate at which L
+and S precess, and therefore are responsible for the intrinsic amplitude and phase modulation of the signal. This has
+two effects on the parameter estimation: it de-correlates M from µ (at the Newtonian order the two mass parameters
+are even degenerate) and provides new features in the measured signal that improve the parameter estimation. The
+net effect is that the errors in M and µ are now of the same order, with a drastic improvement with respect to the
+non-spinning case, of by a factor  50 and  103 for M/M and µ/µ, respectively; M/M is still  3 times
+smaller than µ/µ, due to the role played by M in the GW phase (t). It also clear that the additional signature
+                                         19
+
+11
+
+0.8 0.8
+
+0.6 0.6
+
+0.4 0.4
+
+0.2 0.2
+
+00
+
+0.00010.001 0.01 0.1  0.001 0.01 0.1  1
+
+11
+
+0.8 0.8
+
+0.6 0.6
+
+0.4 0.4
+
+0.2 0.2
+
+00
+
+0.00010.001 0.01 0.1  0.001 0.01 0.1  1
+
+FIG. 4: Same as Figure 2, but now the cumulative probability distributions as a function of the parameters N and DL/DL
+are shown. See text for more details
+
+produced by the masses on the amplitude and phase modulation helps in removing the correlation between M and
+DL, therefore reducing DL/DL, as we have already mentioned.
+
+   To summarise, the parameters of two 106 M black holes spiralling toward the final merger at z = 1, and rapidly
+rotating, say S/M 2 = 0.95 and  = 0.9, can be measured very accurately: M and µ can be measured to a few
+parts in 105, the luminosity distance to better than 1% (in some cases almost 0.1%), and with an error box in the
+sky 10-6 srad < N  10-3 srad. Notice that the errors scale with the distance roughly as N  1/DL2 and
+M/M  µ/µ  DL/DL  1/DL. This would be strictly true for white noise, which is not the case for LISA.
+In particular going to higher redshift, one can expect a degradation of the measurements more severe than the one
+predicted by this simple scaling, because GW's are red-shifted to lower frequencies where the noise is higher and some
+initial portion of the signal falls out of the observational window.
+
+   For multi-band, electro-magnetic and gravitational, observations of the same event the key parameter is the instru-
+ment's angular resolution. In fact there is some hope that LISA will have enough angular resolution to locate the
+galaxy or galaxy cluster where a coalescence of massive black holes takes place; this would enable other telescopes to
+be pointed at the same area of the sky and to observe the aftermath of such catastrophic event. However, previous
+studies [26, 27, 29, 30] have concluded that this might actually be impossible for sources at z  1 (or beyond),
+because of the poor angular resolution of GW observations. In short, the results of our analysis suggest that in some
+exceptional case LISA might be able to identify the host galaxy cluster of a MBH binary of 106M at z = 1, but in
+general the LISA error box will contain several hundreds of galaxy clusters and > 105 galaxies, all of them potential
+hosts of a LISA detected source. Such conclusion can be easily derived by comparing the LISA angular resolution
+with the one of other telescopes and the angular size of galaxies at high redshift. An optical telescope, such as the
+Keck telescope, has a field of view of about 1 square degree. Chandra has a square field of view of 16 × 16 arcmin with
+a spatial resolution of  1 arcsec, and XMM has a circular field of view with radius 15 arcmin and a spatial resolution
+of a few arcsec. INTEGRAL has an even wider circular field of view ­ the radius is 10 degree ­ with a poorer spatial
+resolution (12 arcmin). There is therefore no doubt that, for a typical LISA source at z = 1, GW observations will
+provide information accurate enough to cover the interesting portion of the sky with a single observation by one of (or
+all) the former instruments. At z = 1, the typical size of a galaxy is  3 arcsec and the typical size of a galaxy cluster
+is  2 arcmin. In a very few lucky occasions LISA will be able to detect a source with N  3 × 10-3 deg2, but more
+typically the angular resolution is N  0.3 deg2, and could be much worse for a few detections (N  5 deg2). It
+is therefore clear that for the "high spatial resolution" GW detections, only  3 galaxy clusters will fall in the LISA
+                                                                                                                                                       20
+
+error box, but more typically the number of clusters will be  300. If there is still a small (but not negligible) chance
+of identifying the galaxy cluster hosting a GW source, the chances of pin-pointing the host galaxy seem to be very
+bleak (the former numbers need to be multiplied by a factor  103 for galaxies).
+
+                                                                     VI. CONCLUSION
+
+   We have considered LISA observations of massive black hole binary systems in the final stage of in-spiral for
+rapidly rotating black holes. We have restricted our analysis to comparable mass objects in circular orbit, modelling
+the radiation at the restricted post1.5-Newtonian order assuming simple precession. We have derived read-to-use
+analytical expressions for the signal registered at the detector output, both in the time and frequency domain, and
+have determined the mean-square-errors associated to the parameter measurements for equal mass 106M binary
+systems at z = 1 for selected spin parameters and a wide range of source locations and orientations. Our analysis
+clearly shows that the presence of spins reduces (by orders of magnitude, for some parameters) the errors with which
+the source parameters are measured. LISA is therefore a more powerful telescope than previously thought if spins
+play a significant role. The main shortcoming of our analysis is the limited region of the parameter space that we
+have been able to explore, which is entirely due to our limited computational resources. Such analysis is currently
+in progress [37]. Of particular interest is the exploration of the parameter space in the case where the masses are
+not comparable, i.e. the mass ratio is  0.1 or smaller. Our present understanding of the relevant astrophysical
+scenarios suggests, in fact, that the formation of unequal mass binaries should be regarded as the rule rather than the
+exception. When the mass ratio increases, the number of precession cycles detected at the LISA output will increase
+as well, cf. Table II and Eq. (39). It is therefore conceivable that precession will be even more effective in breaking
+the degeneracy among the parameters, in particular the two masses. However the amount of intrinsic rotation S shall
+also play a crucial role, as the number of precession cycles is proportional to S. Preliminary results suggest that for
+m2/m1 = 0.1 and rapidly rotating systems (S/M 2  0.9) the estimation of the mass parameters and the angular
+resolution improve by a factor of a few, with respect to the equal mass case, provided that the signal-to-noise ratio is
+not strongly affected. In general, in fact, unequal mass systems will be detected at a lower SNR, so that precession
+compensates for the loss of SNR. The latter eventually dominates the effect of rotation when m2/m1 decreases further
+and compromises the accuracy with which parameters can be measured.
+
+                                                                       Acknowledgments
+
+   We would like to thank C. Cutler and A. Sintes for several discussions about LISA parameter estimation. We would
+also like to thank L. Jones and I. Stevens for discussions about high-redshift surveys of galaxies and clusters.
+
+ [1] P. L. Bender et al., LISA Pre-Phase A Report; Second Edition, MPQ 233 (1998). P. L. Bender et al., LISA ­ System and
+      Technology Study Report, ESA-SCI(2000)11, (2000). http://www.lisa.jpl.gov
+
+ [2] C. Cutler and K. S. Thorne, An Overview of Gravitational-Wave Sources, to appear in Proceedings of GR16 (Durban,
+      South Africa, 2001), gr-qc/0204090.
+
+ [3] J. Magorrian et al, AJ 115, 2285 (1998).
+ [4] D. Richstone et al., Nature 395, A14 (1998).
+ [5] R. Genzel, A. Eckart, T. Ott, and F. Eisenhauer, Mont. Not. Roy. Astron. Soc. 291, 219 (1997).
+ [6] M. Miyoshi, J. Moran, J. Herrnstein, L. Greenhill, N. Nakai, P. Diamond, M. and Inoue, Nature 373, 127 (1995).
+ [7] E. Maoz, Astrophys. J. 494, L181 (1998).
+ [8] X. Fan et al, AJ 122, 2833 (2001).
+ [9] J. S. B. Wyithe and A. Loeb, astro-ph/0206154.
+[10] D. Merritt and L. Ferrarese, ApJ 547, 140 (2001).
+[11] M. C. Begelman, R. D. Blandford, and M. J. Rees, Nature 287, 307 (1980).
+[12] A. Vecchio, M. Colpi and A. Polnarev, ApJ 433, 733 (1994)
+[13] M. Rajagopar and R. W. Romani, ApJ 446, 543 (1995).
+[14] M. Milosavljevic and D. Merritt, ApJ 563, 34 (2001).
+[15] Q. Yu, MNRAS 331, 935 (2002).
+[16] A. Gould and H. Rix, ApJ 532, L29 (2000)
+[17] P. J. Armitage and P. Natarajan, ApJ 567, L9 (2002)
+[18] M. G. Haehnelt, Mont. Not. Roy. Astron. Soc. 269, 199 (1994).
+                                                                                                                                                       21
+
+[19] M. G. Haehnelt, in Laser Interferometer Space Antenna, ed. W. M. Falkner (AIP Conference Proceedings 456), pp. 45-49
+      (1998).
+
+[20] A. Vecchio, Class. Quant. Grav. 14, 1431 (1997).
+[21] K. Menou, Z. Haiman and V. K. Narayanan. ApJ 558, 535 (2001)
+[22] K. Menou 2002, astro-ph/0301397
+[23] A. H. Jaffe and D. C. Backer, astro-ph/0210148 (2002).
+[24] J. S. B. Wyithe and A. Loeb, astro-ph/0211556.
+[25] T. Pursimo et al, Astron. Astrophys. Suppl 146, 141 (2000).
+[26] C. Cutler, Phys. Rev. D 57, 7089 (1998).
+[27] A. M. Sintes and A.Vecchio, in Gravitational Waves ­ Third Amaldi Conference, Ed. S. Meshkov (American Institute of
+
+      Physics), pp. 403-404 (2000).
+[28] A. M. Sintes at al, in preparation
+[29] T. A Moore and R. W. Hellings, R. W., Phys. Rev D. 65, 062001 (2001).
+[30] S. Hughes, MNRAS 331, 805 (2002)
+[31] N. Seto, PRD in press.
+[32] S. A. Hughes and R. D. Blandford, Ap.J. Lett (in press), astro-ph/0208484
+[33] T. A. Apostolatos, C. Cutler, G. S. Sussman and K. S. Thorne Phys. Rev. D 49, 6274 (1994).
+[34] L.E. Kidder, Phys. Rev. D 52, 821 (1995).
+[35] A. Vecchio and C. Cutler, in Laser Interferometer Space Antenna, ed. W. M. Falkner (AIP Conference Proceedings 456),
+
+      pp. 101-109 (1998).
+[36] A. Vecchio, in Gravitational Waves ­ Third Amaldi Conference, Ed. S. Meshkov (American Institute of Physics), pp.
+
+      238-247 (2000).
+[37] A. Vecchio et al, in preparation.
+[38] We would like to caution the reader of the different notation used in this paper with respect to [26]: the reference frames
+
+      (x, y, z) and (x, y, z) of this paper coincide, respectively, with the frames (x¯, y¯, z¯) and (x, y, z) of [26].
+[39] L. Blanchet, Living Review in Relativity 2002-3 http://www.livingreviews.org/Articles/Volume5/2002-3blanchet/index.html
+
+      (2002)
+[40] E. E. Flanagan and S. Hughes, Phys. Rev. D 57, 4535, 1998.
+[41] P. C. Peters, Phys. Rev. 136, B1224 (1964).
+[42] K.S. Thorne, in 300 Years of Gravitation, edited by S. W. Hawking and W. Israel (Cambridge University Press, Cambridge,
+
+      England, 1987), pp. 330-458.
+[43] L. Blanchet, B.R. Iyer, C.M. Will and A.G. Wiseman, Class. Quantum. Gr. 13, 575, (1996).
+[44] S. Weinberg Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity (New York:
+
+      Wiley) (1972)
+[45] L. Blanchet, T. Damour, B.R. Iyer, C.M. Will and A.G. Wiseman, Phys. Rev. Lett. 74, 3515 (1995).
+[46] B. M. Barker and R. F. O'Connell, Phys. Rev. D 12, 329 (1975).
+[47] K.S. Thorne and J. B. Hartle, Phys. Rev. D 31, 1815 (1985).
+[48] L. A. Wainstein and V. D.Zubakov, Extraction of signals from noise, Dover, New York (1962).
+[49] C.W. Helstrom, Statistical Theory of Signal Detection, 2nd edition, Pergamon Press, London (1968).
+[50] D. Nicholson and A. Vecchio, Phys. Rev. D 57, 4588 (1998).
+[51] L. S. Finn, Phys. Rev. D 46, 5236 (1992).
+[52] C. Cutler and E.E. Flanagan, Phys. Rev. D 49, 2658 (1994)
+[53] D. Hils, P. L. Bender, and R. F. Webbink, Ap. J. 360, 75 (1990).
+[54] P. L. Bender and D. Hils, Class. and Quantum Grav. 14, 1439 (1997).
+[55] In this paper we are mainly concerned with a comparison of the errors obtained without considering spins with the ones
+
+      that are given when spins are included in the signal. It is therefore clear that the actual redshift (distance) of the fiducial
+      source and the choice of the expected noise spectral density (instrumetal noise and confusion noise) have little interest, as
+      far as the same values are used in the two cases.
+

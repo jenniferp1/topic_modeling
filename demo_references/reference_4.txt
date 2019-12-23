@@ -1,0 +1,1543 @@
+                                                         reference_4.txt
+Information Security Journal: A Global Perspective, 21:102-114, 2012
+Copyright © Taylor & Francis Group, LLC
+ISSN: 1939-3555 print / 1939-3547 online
+DOI: 10.1080/19393555.2011.647250
+
+How Can We Deter Cyber Terrorism?
+
+Jian Hua1 and Sanjay Bapna2            ABSTRACT In order to deter cyber terrorism, it
+
+is important to identify the
+
+1School of Business and Public         terrorists, since punishment may not deter
+
+them. The identification probability
+
+Administration, University of          relies heavily on tracking cyber terrorists.
+
+However, there are legal and technical
+
+the District of Columbia,              challenges to tracking terrorists. This paper
+
+proposes suggestions and insights
+
+Washington, D.C., USA                  on overcoming these challenges. Three types of
+
+infrastructures must be present
+
+2Morgan State University,              in order to deter cyber terrorism: technical,
+
+policy, and legal. We list some
+
+Baltimore, Maryland, USA               of the key items that academics as well as
+
+practitioners need to focus on to
+
+                                       improve cyber-terrorism deterrence.
+
+                                                             KEYWORDS cyber terrorism, cyber terrorist,
+information security, cyber deterrence, legal
+
+Address correspondence to Jian Hua,             1. INTRODUCTION
+
+School of Business and Public
+
+Administration, University of the       Considerable research and investigative
+
+efforts have been spent studying ter-
+
+District of Columbia, 4200             rorism and terrorists. Prevention of bombing,
+
+kidnapping, and other common
+
+Connecticut Avenue, Washington,        types of terrorism has been among the focal
+
+concerns in the struggle for world
+
+DC 20008. E-mail: jhua@udc.edu         peace. However, terrorists do not restrict
+
+themselves to common and regular
+
+                                       methods. The terrorist's attack of September
+
+11, 2001, is a primary example.
+
+                                       It is common knowledge that information
+
+technology (IT)-based informa-
+
+                                       tion systems are vulnerable. Hence, it is
+
+possible for terrorists to utilize the
+
+                                       vulnerabilities of IT-based information systems
+
+to attack their adversaries and
+
+                                       to launch an information war (Jormakka & Molsa,
+
+2005; Embar-Seddon, 2002).
+
+                                       Currently, terrorism is spreading globally and
+
+being facilitated by information
+
+                                        Page 1
+Meservy, & McDonald, 2005; Chu,  reference_4.txt
+paying more attention to             technology (Gable, 2009; Hansen, Lowry,
+Foltz, 2004; Embar-Seddon).
+                                     Deng, Chao, & Huang, 2009). Many studies urge
+
+                                     cyber terrorism (Gable; Hua & Bapna, 2009;
+
+Committee on Intelligence, the           In a statement before the Senate Select
+that terrorists have intentions      director of the National Intelligence testified
+States (Gable, 2009). Cyber          to deploy cyber attacks against the United
+were expected to increase about      attacks against the U.S. government in 2009
+most of it coming from               60% compared to the number of attacks in 2008,
+(U.S. Government, 2009).             Chinese state and state-sponsored computers
+Acquisition systems (SCADA)          Attacks against Supervisory Control and Data
+infrastructure have risen dra-       computer networks that operate the critical
+164 incidences reported since        matically in 2009 and account for 20% of the
+terrorists cannot launch attacks to  1982 (Aitoro, 2009a). The reason cyber
+terrorists have not gained the       cause significant damage is that these cyber
+
+                                                             102           let alone terrorism.
+ sufficient expertise, which could be available within the               order to deter cyber
+In section 3, we argue that in                                           identify the
+next few years (Aitoro, 2009b).                                          both technical and
+terrorism, it is important to                                            develop a framework
+                                                                         from the literature
+perpetrators of cyber attacks, which pose                                with current solutions.
+    Gable (2009) cites several recent incidences of cyber                that both national and
+                                                                         have tremendous
+legal challenges. In section 4, we
+terrorism:
+based on the aspects learned
+
+review and challenges associated
+· A distributed denial of service (DDOS) attack
+This framework clearly shows
+
+   launched on July 2009, which affected 27 U.S. and
+international governments
+
+   South Korean government agencies including the
+
+                                                                 Page 2
+                                                         reference_4.txt  We provide
+leverage to control cyber terrorism.                                      national bodies in
+                                                                          incidents of cyber
+   Secret Service and the U.S. Pentagon, may have been                    tions of our work in
+recommendations for national and inter-                                   Implications."
+
+   the work of cyber terrorists residing in the United                                    2. LITERATURE
+order to prevent and deter the
+                                                                              The word "terrorism"
+   Kingdom.                                                               Revolution when terror
+terrorism. We discuss the implica-                                        suppress
+                                                                          rorists share two
+the section 5, "Conclusions and                                           civilians, and (2) they
+· Attacks on Estonian government Websites in                              true targets but rather
+                                                                          target audience. The
+   2007 effectively crippled the government transac-                      son who practices
+   tions in that country.                                                 have a strong negative
+REVIEW                                                                    that they cannot be
+                                                                          conventional
+· The information for the stealth fighter jet program                     rely on terrorism and
+came about during the French                                              the enemy's moral and
+                                                                          Mesnita, 2005).
+   was stolen.
+was used by the government to                                                 Victoroff (2005)
+                                                                          ogy to illustrate the
+counter-revolutionary adversaries. Most ter-                              The demographic data
+· The U.S. Air Force's air traffic control systems were
+common aspects: (1) they assault
+
+   intruded.
+target victims that are not their
+
+these victims do influence the
+    Currently, cyber-terrorism research has focused on
+
+term terrorist refers to a per-
+three orientations: technology, legal, and economic.
+terrorism. Terrorism and terrorists
+All of these orientations are receiving increasing atten-
+connotation. Terrorists know
+tion. The technology-oriented research stream focuses
+superior to their adversaries in
+on the technical means to prevent cyber attacks
+resource-intensive warfare. Hence they
+(Hansen et al., 2005; Griffith, 1999). The legal-oriented
+low-intensive conflict to erode
+research stream examines the legal perspectives in order
+physical capacities (Oprea &
+to prosecute cyber terrorists (Trachtman, 2004; Walker,
+2006; Gable, 2009). The economic-oriented research
+stream develops and analyzes economic models to
+proposed a comprehensive typol-
+determine the level of investment necessary to safe-
+dimensions of terrorism (Table 1).
+guard information assets (Hua & Bapna, 2009). In this
+about terrorists have been pre-
+
+                                                                 Page 3
+                                                         reference_4.txt  sented in studies by
+paper, our research specifically focuses on deterrence                    and Weinberg (2003),
+Hassan (2001), Pedahzur, Perliger,
+and prevention from cyber terrorism and thus bor-                             People commonly
+and Sageman (2004).                                                       or psychopathic.
+rows on the technical, legal, and economic orientation                    ailment can be divided
+streams.                                                                  ness and personality
+believe that terrorists are insane                                        illness cannot
+                                                                          person with personality
+Strictly speaking, the psychopathic                                       are rarely psychotic or
+    Because cyber terrorism can result in economically
+                                                                              Contrary to common
+into two conditions: clinical ill-                                        sociopathic. There is
+devastating threats to nations, we need to develop a                      study, that
+disorder. The person with clinical                                        Considerable evidence
+framework to deter cyber terrorism. In this paper, we                     terrorists are regarded
+differentiate right from wrong, but the                                   or local communities.
+develop such a framework, relying on existing inter-
+disorder can. As such, terrorists
+disciplinary literature and cyber-terrorism cases. Three
+insane (Victoroff, 2005).
+types of infrastructures -- technical, policy, and legal --
+must be present in order to craft cyber-terrorism deter-
+beliefs, terrorists are also rarely
+rence policies. This paper is divided into five sections.
+no evidence, from any empirical
+In section 2, a comprehensive literature survey of ter-
+demonstrates that terrorists are antisocial.
+rorism, cyber terrorism, and deterrence is provided.
+supports the observation that
+Since our focus on this paper is on deterrence, we
+as heroes, at least by their groups
+examine the literature in these areas in details. The lit-
+The Middle Eastern students
+erature shows that punishment may not result in an
+adequate deterrence effect even for ordinary crimes,
+
+           How Can We Deter Cyber Terrorism?
+
+103                                                                         to intimidate or
+ TABLE 1 Dimensions of Terrorism (Victoroff, 2005)                        further a political
+coerce a government or people to                                          or severe economic
+
+objective or to cause grave harm
+
+Variable            Classification
+
+damage.
+
+Perpetrator Number  Individual vs. Group                                      We define cyber
+                                                                          mented by computer,
+terrorism as an activity imple-
+
+Sponsorship         State vs. Substate vs. Individual
+
+network, Internet, and IT
+
+                                    Page 4
+                                                         reference_4.txt  intended to interfere
+Relation to authority Anti-state/Anti-establishment/                      nomic functioning of a
+with the political, social, or eco-                                       try; or to induce
+                                                                          by traditional
+group, organization, or coun-                                             includes all the
+                                                                          as shown in Table 1,
+Locale              Separatist vs. Pro-state                              is driven extensively
+                                                                          work architectures. The
+physical violence or fear; motivated                                      attacks is to create
+                                                                          to disrupt or destroy
+Military status     Intrastate vs. Transnational                          (Morgan, 2004). The
+                                                                          attacks are those that
+terrorism ideologies. Cyber terrorism                                     business systems.
+
+Spiritual motivation Civilian vs. Military                                    Cyber terrorists can
+                                                                          hacker groups by their
+dimensions as proposed by Victoroff                                       2002) even though the
+                                                                          targets attacked by
+Financial motivation Secular vs. Religious                                adopted by other hacker
+                                                                          launch DDOS attacks to
+where the terrorism methodology                                           government,
+                                                                          tion communication
+Political Ideology  Idealistic vs. Entrepreneurial                        systems. They can also
+                                                                          tems to spread rumor or
+by computer and computing net-                                            cyber terrorists cannot
+
+Hierarchical role   Leftist vs. Rightist
+
+main goal of cyber-terrorism
+
+Willingness to die  Sponsor vs. Leader
+
+fear and panic among civilians or
+
+Target              Suicidal vs. Nonsuicidal
+
+public and private infrastructures
+
+                    Property vs. Individual vs. Masses
+
+most dangerous cyber-terrorism
+
+Methodology
+
+affect national infrastructure or
+
+                    of people
+
+                    Bombing, Assassination,
+
+be differentiated from the other
+                                         Kidnapping, Mass Poisoning,
+
+attack motives. (Embar-Seddon,
+                                         other
+
+cyber attack methods and the
+
+cyber terrorists are the same as those
+who join an Islamic radical group may enjoy popular
+groups. Cyber terrorists can
+support and believe they are serving their society in
+disrupt public servers within
+a pro-social way. Contrary to common understand-
+telecommunication services, transporta-
+ing, terrorists are altruistic in their groups (Keet, 2003;
+systems, and utility distribution
+Krueger & Maleckova, 2003).
+intrude into public media sys-
+
+alert civilian targets. Although
+    In this section, we define cyber terrorism and delin-
+
+cause death on a large scale,
+
+                                                                 Page 5
+                                                         reference_4.txt  such as physical
+eate the differences and similarities between terrorism                   large monetary losses
+terrorism incidents, they might cause                                     ism or induce fear
+and cyber terrorism. Types of cyber attacks and the                       acts. Thus, preventing
+exceeding that of physical terror-                                        as preventing
+dangers of cyber attacks are provided. We then discuss
+comparable to physical terrorism                                              Foltz (2004) listed
+the literature on deterrence and how it relates to cyber                  cyber terrorism,
+cyber terrorism is as important
+terrorism.                                                                · Access a drug
+terrorism.                                                                   medication formulas
+
+                   2.1. Cyber Terrorism                                   · Access hospital
+some of the potential threats of                                             types (Gengler,
+
+including:                                                                · Report stolen
+    The term "cyber terrorism" is used to describe                           movement) (Desouza &
+
+the new approach adopted by terrorists to attack                          · Manipulate
+manufacturer's facility and alter its                                        and socioeconomic
+cyberspace (Parks & Duggan, 2001). It is an extension
+to be deadly (Wehde, 1998).                                               · Facilitate identity
+of traditional terrorism. The threat of cyber terrorism                   · Attack critical
+is more dangerous than that of common information
+records and change patient blood                                             cal power systems;
+security attacks (Rogers, 1999; Verton, 2003). Cyber ter-
+1999).
+rorism is becoming a major concern for most countries
+(Foltz, 2004).
+information to others (i.e., troop
+
+Hensgen, 2003).
+    Two ways to define cyber terrorism have been pro-
+
+posed (Rollins & Wilson, 2007):
+perception, opinion, and the political
+
+direction (Stanton, 2002).
+· Effects-based: Cyber terrorism exists when computer
+
+   attacks result in effects that are disruptive enough
+theft (Gordon & Ford, 2002a).
+
+   to generate fear comparable to a traditional act of
+infrastructure including electri-
+
+   terrorism, even if done by criminals.
+
+gas and oil production,
+· Intent-based: Cyber terrorism exists when unlawful
+
+   or politically motivated computer attacks are done
+
+                                                         104
+
+J. Hua and S. Bapna
+
+                                         Page 6
+                                                         reference_4.txt                             2.2.
+  transportation, and storage; water supply sys-
+Deterrence                                                                    Deterrence theory
+                                                                          the fields of economics
+   tems; banking and finance; homeland security;                          the behavior of
+   telecommunication; agricultural and food supply;                       1968; Pearson & Weiner,
+has been widely employed in                                               rence theory asserts
+   and public health (Embar-Seddon, 2002).                                behavior varies with
+and criminology to study                                                  consists of the
+                                                                          the punishment level
+criminals and antisocialists (Becker,                                     to undertake a criminal
+    In its 1996 report Cyberterror: Prospects and                         when the individual's
+                                                                          the expected punishment
+1985). In criminology, deter-                                             vidual moves in and out
+Implications, The Center for the Study of Terrorism                       opportunities change
+that the probability of criminal                                          In the realm of cyber
+and Irregular Warfare at the Naval Postgraduate School                    ishment level depends
+the expected punishment, which                                            international
+in Monterey, California, defined three levels of cyber                    ity of being caught
+perceived probability of being caught and                                 the perpetrators and
+terror capability:                                                        sharing between
+(Pearson & Weiner). The decision                                          ities in terms of three
+                                                                          and legal. The ability
+action by an individual is made                                           vent cyber terrorism is
+· Simple-Unstructured: The capability to conduct                          the ability to identify
+expected payoff is greater than
+
+   basic hacks against individual systems using tools
+and cost. Moreover, the indi-
+
+   created by someone else. The organization pos-
+of illegal activities as the
+
+   sesses little target analysis, command and control, or
+(Anadarajan & Simmers, 2003).
+
+   learning capability.
+terrorism, the expected pun-
+
+upon the legal national and
+· Advanced-Structured: The capability to conduct
+frameworks, and the perceived probabil-
+
+   more sophisticated attacks against multiple systems
+depends upon the ability to identify
+
+   or networks and possibly to modify or create basic
+the cooperation for information
+
+   hacking tools. The organization possesses an ele-
+nations. We classify all deterring activ-
+
+   mentary target analysis, command and control, and
+dimensions: technical, policy,
+
+   learning capability.
+to use technical means to pre-
+
+not relevant to this paper, but
+· Complex-Coordinated: The capability for coordi-
+
+                                                                 Page 7
+                                                         reference_4.txt  is of relevance. Policy
+terrorists using technical means                                          to share breaching
+                                                                          of governments and
+   nated attacks capable of causing mass-disruption                       societies operate under
+decisions, such as how often                                              their ability to
+                                                                          legal dimension.
+   against integrated, heterogeneous defenses (includ-
+information, are under the control
+
+   ing cryptography). Ability to create sophisticated
+organizations. Governments and
+
+   hacking tools. Highly capable target analysis, com-
+their legal infrastructures, and
+
+   mand and control, and organization learning
+prosecute cyber terrorists falls under the
+
+   capability.
+
+    According to the Center's estimates, a terrorist                          In criminology,
+deterrence theory focuses on the                                          effects of punishment.
+group may be able to reach the advanced-structured                        ory focuses on the
+In economics, deterrence the-                                             punishment of illegal
+level within two to four years after starting from                        nomics, deterrence
+reward of legal behavior and the                                          rational decisions to
+scratch and within six to ten years to reach the                          costs. A person can
+behavior (Becker, 1968). In eco-                                          criminal activity when
+complex-coordinated level. However, using outsourc-                       criminal activity
+theory asserts that individuals make                                      the potential cost and
+ing or sponsorship means, a group may reach the                           1998). Deterrence
+maximize benefits and minimize                                            tion that human
+complex-coordinated level must faster.                                    pain. To deter
+make a decision to undertake a                                            unlawful behavior, it
+                                                                          measures that increase
+the expected payoff from the                                              associated with doing
+    Compared with other terrorism approaches, cyber                       rorism in the existing
+                                                                          to commit terrorism can
+exceeds the expected expense from
+terrorism requires fewer people and fewer inputs.
+punishment (Straub & Welke,
+Pure cyber terrorism does not require cyber terror-
+theory has an underlying assump-
+ists to show up in the target area. Cyber terrorists
+behaviors pursue pleasure and avoid
+can remotely launch attacks and remain anonymous.
+potential criminals from committing
+Cyber terrorists can use proxy servers and IP-change
+is necessary to impose counter-
+methods to hide their real addresses. Because cyber ter-
+the cost or reduce the benefits
+rorists can easily hide their identity, it is difficult for
+so (Becker). Thus, for cyber ter-
+government agents to trace and capture them. This
+legal infrastructure, the costs
+poses tremendous challenges to thwart cyber-terrorist
+
+                                                                 Page 8
+                                    reference_4.txt
+
+be increased significantly by
+attacks.
+
+105 How Can We Deter Cyber Terrorism?
+
+ raising the probability of being tracked. Using different education. Ethics
+
+education more so than punish-
+
+perspectives (e.g., policing, education, economics, and ment was effective in
+
+deterring people who had a
+
+behavioral), we show that increasing the punishment     strong social
+
+consciousness. People who had a high
+
+level may not lead to deterring cyber terrorism.        level self-control were
+
+more responsive to ethics train-
+
+                                                        ing. People who had a low
+
+level of self-control were
+
+Cameron (1988) studied the theoretical effect of        more responsive to
+
+punishment for information secu-
+
+crime deterrence and compared this effect with empir-   rity contravention. Based
+
+on the well-know fact that
+
+ical works from other economists. Since Becker (1968)   terrorists are willing to
+
+sacrifice their lives, it is unlikely
+
+published his famous crime and punishment theory, a     that the punishment level
+
+will be an effective tool in
+
+large body of literature on crime believed that police  deterring cyber
+
+terrorists.
+
+expenditures were an effective input to deter crime.
+
+To prove Becker's belief, Cameron conducted a survey    Oksanen and Valimaki
+
+(2007) discussed copyright
+
+to test whether punishment deterred crime, in theory,   violations and solutions
+
+on the Internet. The two
+
+and to test the effectiveness of the police in deter-   authors formed a
+
+traditional behavioral economic
+
+ring crime. In comparison, a literature review indicated model on the deterrence
+
+effect of lawsuits against
+
+that punishment often increases crime or that police    Internet copyright
+
+violations. The general deterrence
+
+inputs were positively correlated with crime. After care- theory attempted to
+
+reduce the successful rates of crim-
+
+ful examination, the author found that studies using    inal behavior. Their
+
+observations supported the theory
+
+aggregate data failed to demonstrate the deterrence     that individuals tried to
+
+maximize their payoffs by
+
+effects of policy inputs. On the other hand, the stud-  calculating utilities.
+
+The authors also found that the
+
+ies of individual prisoners and victims suggested that  strategy of minimizing
+
+risk was not only theoretically
+
+police inputs do have a positive deterrent effect on the practiced but also
+
+extensively used. The classic deter-
+
+supply of crime. The paper provided nine reasons why    rence model heavily
+
+                                       Page 9
+                                  reference_4.txt
+
+relied on the utility theory and                                         had many limitations. The
+punishment may not deter crime:                                          classic deterrence model
+two authors found that the                                               tational cost of
+                                                                         of violations (Sunstein,
+should incorporate the repu-                                             means the unofficial
+(1) risk in legal activities,                                            vidual's peers. The
+violations and the reputational benefit                                  the support of the
+(2) reductions in private sector deterrence efforts,                     (Rebellon & Manasse,
+2003). The reputational cost                                             fit may play a
+(3) spillover/displacement effects,                                      making. This literature
+sanction applied by the indi-                                            the reputational benefits
+(4) effects of criminals with a target income,                           increased reputation from
+reputational benefit comes from                                          cyber attack may motivate
+(5) effects on industry supply behavior for organized                    their activities.
+individual's community or peers
+                                                                             Straub and Welke
+2004). The reputational bene-                                            ory as a theoretical
+      crime,                                                             to reduce information
+                                                                         distinct activities from
+significant role in individual decision                                  prevention, detection,
+(6) adaptive behavior,                                                   internal computer abuse,
+shows the possible existence of                                          were the key to
+(7) practical certainty,                                                 detecting, and pursuing
+behind cyber terrorism. The                                              that deterrent
+(8) cognitive dissonance, and                                            they had no inherent
+peer groups after a successful
+(9) income and substitution effects.
+cyber terrorists to advertise
+
+    Nations have different legal structures for punishing
+criminal activities not only for these reasons but also
+(1998) considered deterrence the-
+from societal mores. Due to conflicting results of the
+basis for security countermeasures
+research on punishment, it is unclear as to what degree
+security risks. They derived four
+punishment levels may deter cyber terrorism.
+deterrence theory: deterrence,
+
+and recovery. With respect to
+    Workman and Gathegi (2007) studied the effects
+
+they believed that managers
+of attitudes towards the law and the effects of
+successfully deterring, preventing,
+social influence. Their study began by investigating
+remedies. The authors claimed
+the counterproductive-behavior literature. Punishment
+countermeasures were passive because
+and ethics education were found to be effective in
+
+                                                                Page 10
+                                                         reference_4.txt                   also believed that
+provision for enforcement. They                                                            ees was a form of
+deterring cyber criminal behavior. Punishment was                                          can convince potential
+security training for internal employ-
+more effective in deterring people who tried to avoid                                        may be achieved only by
+deterrent countermeasures, which                                                           ment levels, for example,
+punishment or negative sequences, other than ethics                                        of the cyber
+internal computer abusers that
+                                                                                               Wible (2003) proposed
+J. Hua and S. Bapna                                                                        cyber hackers: (1)
+                                                                                      106  increase punishment, and
+                                                                                           dangerous kinds of
+ the company was serious about the security and would                                      the hacking community.
+means of very high invest-                                                                 deterrence perceive all
+sue the computer abusers. This research clearly points                                     However, little empirical
+extensive crippling of parts                                                               economic models on
+to the influence of managerial policies for deterrence,                                    failure reason of
+infrastructure.                                                                            rence is that the
+prevention, detection, and recovery from cyber threats,                                    of identification and
+which may have a similar impact on cyber terrorism.                                        than what we thought
+two approaches to deter
+                                                                                               In a recent workshop
+reinforce the criminal law and                                                             tion warfare on the
+    The punishment may be to a person, group, or to a                                      several important
+
+(2) decriminalized the least
+party to which the person belongs. The punishment
+hacking in ways that demarginalize
+may not just be imprisonment and fine. For cyber
+Rational economic models on
+terrorism, the punishment may include antiterrorism
+potential criminals are rational.
+wars against the state in which the cyber terrorists
+research supports the rational
+reside. Thus, the punishment to cyber terrorists may
+deterrence (Sheizen, 1995). The
+be more severe and in some cases exceed the losses
+rational economic models on deter-
+they caused to the victims. Determining the proper
+hackers' perception of the probability
+punishment is an important issue in the legal field.
+punishment is more complex
+Becker (1968), in his classical paper about punishment
+(Zimring & Hawkins, 1973).
+determination, believed that punishment determina-
+tion has to consider the social cost of punishments
+that discussed how informa-
+and that all punishments can be converted to monetary
+United States might be deterred,
+values. Legal systems in most societies specify punish-
+findings were proposed (IWAR,
+
+                                                                Page 11
+                                                         reference_4.txt  2008). We map these
+ments that increase with the level of social harm caused                  of cyber deterrence:
+findings into three dimensions
+by the criminal activities (Rasmusen, 1995). As cyber                     · The workshop
+technical, policy, and legal.                                                ible set of defenses
+terrorism becomes more harmful, based on Becker's                            attacks (policy).
+theory, increasing the punishment substantially for the
+participants always assume that a vis-                                    · Current employed
+sake of the additional deterrence may be worth the                           well-prepared cyber
+was the beginning to deter cyber
+costs. However, since the research on punishment level                    · Deterrence of
+is inconclusive, it is difficult to quantify the level of                    depend upon the nature
+punishment that will stop cyber terrorism.
+defenses were inadequate to deter                                         · Deterrence requires
+                                                                             by the potential
+attacks (technology).                                                        municate with those
+    Based on the literature survey, a functional form of
+
+punishment level on the deterrence effect for cyber
+cyber-attacks was understood to
+terrorism is plotted in Figure 1. While the functional
+of attackers (policy, legal).
+form is a sigmoid curve, low levels of punishment lev-
+els have little or no impact on deterrence. Only at high
+identification of the value held
+punishment levels do deterrence effects show up. From
+attackers and the capacity to com-
+an economic perspective, such high punishment levels
+attackers (policy).
+
+create an omnipotent deter-                                               · It may be impossible to
+be effective (technology, legal,                                             rence policy that will
+                                                                             policy).
+
+                               FIGURE 1 Effect of punishment level on deterrence.
+
+(color figure available online.)
+
+107 How Can We Deter Cyber Terrorism?
+
+ · Cyber attackers could be deterred by explicit threats                  (NIC) by its
+
+manufacturer for identification purpose.
+
+and retaliatory actions implying future threats (legal, Similarly, if this
+
+cyber terrorist wants to access a routed
+
+policy).                                                                  network, his computer
+
+must an IP address. There are
+
+                                                                          many programs available
+
+on the Internet to spoof
+
+· Aggressive domestic and international law enforce-                      MAC and IP addresses. A
+
+fake MAC address could
+
+ment can certainly have a deterrence effect on                            cheat a firewall by
+
+                                       Page 12
+                                                         reference_4.txt  tion and erase
+bypassing a network access restric-                                       is unique and combined
+                                                                          terrorist can use a
+   potential adversaries. To deter cyber attackers, realis-               MAC addresses from the
+intruders' fingerprints (a MAC address                                    spoof the MAC, and
+                                                                          rized user to bypass
+   tic threat of capture and punishment should be used                    target. IP address
+with a NIC card). A cyber                                                 method. In DDOS
+                                                                          the IP addresses of
+   (legal).                                                               addresses are changing,
+sniffer hacking tool to pick up                                           trace and defend
+                                                                          spoofing MAC and IP
+traffic of a target network,                                              antee complete
+· Electronic IDs combined with computer hardware                          back to the Internet
+disguise himself as an autho-                                             terrorist, the cyber
+                                                                          rowed to a small list
+   and software can also deter potential cyber attackers                  by the ISP.
+the network access control of the
+                                                                              Some cyber
+   (technology).                                                          Internet connections
+spoofing is a fairly old intruding                                        library or in Internet
+                                                                          connection services do
+attacks, a cyber terrorist can spoof                                      However, this method is
+3. CHALLENGES TO THE DETERRENCE                                           cyber terrorist, for
+source computers. Because the IP                                          in these public areas.
+
+                ON CYBER TERRORISM
+it is difficult for the target to
+
+against DDOS attacks. Of course,
+    Deterrence theory can be applied to all cyber
+
+address currently cannot guar-
+crimes including cyber terrorism (Ginges, 1997; Frey &
+anonymity. If an investigator can trace
+Luechinger, 2002; Carns, 2001). The literature review
+service provider (ISP) of the cyber
+(section 2.2) indicated that the impact of deterrence
+terrorist location still can be nar-
+(deterrence effect) is positively correlated with the iden-
+with the connection logs provided
+tification probability, and it also may be positively
+correlated with punishment level. Keeping the poten-
+tial punishment severity unchanged, the deterrence
+terrorists may think of using public
+effect will be determined by the identification proba-
+such as those available at the free
+bility. The identification probability depends upon the
+cafés. Usually these free Internet
+capability to track cyber terrorists. Thus, to increase the
+not require any identification.
+impact of deterrence on cyber terrorism, the identifica-
+not completely safe for a
+tion probability must be increased. An inability to track
+example, if there are video cameras
+cyber terrorists would make it difficult for local and
+
+                                                                Page 13
+                                                         reference_4.txt                      video and the Internet
+Investigators can use recorded                                                                narrow suspect list.
+international jurisdictions to track the entire network
+connection logs to make a                                                                         Cyber terrorists who
+of cyber terrorists as well as to prosecute them due to                                       a private wireless
+the lack of proof of identification of these cyber ter-                                       encryption protection.
+rorists. In this section, we describe the technical means                                     a cyber terrorist in a
+are good at sniffing could abuse                                                              Ji, & Hsieh, 2008).
+available to cyber terrorists to avoid being tracked.                                         and radio frequency
+connection which does not have                                                                techniques for tracking
+                                                                                              them are inaccurate
+It is not known how to track                                                                  terrorists can hide
+    From a cyber terrorist's perspective, the advantages                                      lize intruded wireless
+                                                                                              escape detection by
+wireless network (Velasco, Chen,
+of cyber terrorism are anonymity and the ability to                                               Proxy servers are
+Closest access point, triangulation,                                                          prevent tracking back.
+remotely control the terrorist act. To attack a vic-                                          between a cyber
+fingerprinting are commonly used                                                              terrorists can utilize
+tim anonymously, a cyber terrorist has to make sure                                           tions. For example, if
+in wireless networks, but all of                                                              he can use several
+that he or she cannot be tracked. An experienced
+(Zeilandoo & Ngadi, 2008). Cyber                                                                 to the Internet, but
+cyber terrorist could utilize the vulnerabilities in soft-                                     are susceptible to
+themselves in a neighbor area to uti-
+ware, hardware, networks, Internet, human beings, and
+network as a proxy server and
+jurisdictions to avoid being tracked back.
+investigators.
+
+    To avoid being tracked back, cyber terrorists can
+the most common methods to
+employ three methods: (1) spoofing their media access
+Usually there are many hops
+control (MAC) and Internet protocol (IP) addresses,
+terrorist host and a target host. Cyber
+(2) using a public Internet, and (3) using proxy servers.
+proxy servers to cover their loca-
+
+a cyber terrorist is living in Iraq,
+    To access a switched network, a cyber terrorist's com-
+
+anonymous proxy servers hosted
+puter must have a MAC address. A MAC address
+is unique and assigned to a network interface card
+
+                                                                                         108
+
+J. Hua and S. Bapna
+ in other countries as intermediators. If the last proxy
+based on the TCP/IP protocol they
+server is located in the United States, the target vic-
+
+                                                                Page 14
+                                                         reference_4.txt  (US-CERT, 2005).
+breaches from "springboard" attacks                                          4. ENHANCING
+tim will assume the connection from a domestic area,
+which is not in the highly restricted area. In the other                      Wible (2003)
+side, those anonymous proxy servers are used by many                      law and increasing
+CYBER-TERRORISM                                                           rence effect of cyber
+users every day. If one of those proxy servers dumps its                  identification rate
+DETERRENCE                                                                cyber terrorism. In
+log every two to three hours, it is difficult for investi-                legal and law
+gators to find the cyber attack's cyber path. The clue                    signal the cyber
+believes that reinforcing the criminal                                    fication rate and the
+chain is broken. Sometimes cyber terrorists could use                     increased. While it is
+punishment will improve the deter-                                        punishment, punishment
+zombies as proxy servers, which are totally under their                   terrorists can be
+crimes. Similarly, increasing the                                         cyber terrorists
+control. If cyber terrorists install special programs in                  increasing punishment
+will increase the deterrence effect of                                    in deterring hacking
+their zombies to physically clean the Internet collec-                    defense is to increase
+order to deter cyber terrorism, the                                       be more effective in
+tion logs every minute, it is difficult for investigators                 activities. Signaling
+enforcement communities will need to                                      munity that punishment
+to collect evidence. If one of those proxy servers is                     also need to be sent
+terrorist community that the identi-                                      We propose a framework
+located in a country that does not consider cyber
+punishment severity have been
+attacks a crime or never cooperates with the United
+believed that cyber terrorists fear
+States, it becomes impossible for investigators to col-
+can only occur if the cyber
+lect evidences. We still think the clue chain is totally
+traced, found, and identified. If the
+broken.
+believe they will never be identified,
+
+severity will be less effective
+    If we cannot find the location of cyber terrorists,
+
+activities. Thus, the first line of
+we cannot punish them and alert their community.
+the identification rate since it will
+Tracking cyber terrorists is a big problem that must
+deterring potential cyber terrorism
+be solved. However, the history of the Internet shows
+mechanisms from the legal com-
+that it was not designed with foolproof tracking func-
+severity has been increased
+tions. The Internet was originally designed for and
+to the cyber-terrorist community.
+used by scientists and researchers. While the Internet
+to enhance the deterrence
+
+                                                                Page 15
+                                                         reference_4.txt  effect for cyber
+does have logging capabilities, these capabilities can be                 work relies on three
+terrorism (see Figure 2). This frame-                                     cyber terrorism
+foiled and the Internet protocol has no other means                       legal infrastructure
+critical infrastructures to deter
+of recording a user's activities. Moreover, high-speed                        The proposed
+activities: the technical, policy, and                                    ties: the national
+Internet development hinders tracking cyber terrorists.                   vice providers,
+(section 2.2).                                                            providers, citizens,
+For example, the primary duty of an Internet route is                     framework, the
+to route packets as fast as possible in order to facili-                  role in enhancing
+framework incorporates six enti-                                          national government
+tate high-speed connections. If the Internet speed is too                 deterrence war:
+government, fee-based Internet ser-                                       1. Enhance cooperation
+fast, it is impossible for a regular router to keep a suffi-
+organizations, free Internet service                                          jurisdiction areas.
+cient log. For example, a router on the Internet with a                       tion and
+and other countries. As per the                                               and sue the cyber
+speed of 1,000 gigabytes needs a 6,000 gigabyte mem-                          From an
+national government plays a leading                                           bases of
+ory to record one minute of traffic. The writing speed                        cyber terrorists:
+deterrence for cyber terrorism. Any                                           perpetrator (e.g.,
+of the memory must be 100 gigabytes per second. Even                          of terrorism),
+has five responsibilities in this
+though this kind of memory exists, it can increase
+the price of the router and the expense incurred for
+Internet usage. Also, current literature has not shown
+among different international
+any available network infrastructure for tracking.
+Without international coopera-
+
+agreements, the evidences used to track
+    In summary, the design of the Internet, which is
+
+terrorists could be destroyed.
+based on the TCP/IP, poses serious challenges to the
+international legal perspective, several
+identification of cyber terrorists. TCP/IP has several
+jurisdictions are available to prosecute
+weaknesses that are inherent in the architecture of
+nationality of the victim or the
+the protocol. A group knowing about these protocols
+anti-child sex tourism, victims
+can effectively sabotage it to their advantage (Bellovin,
+territorial jurisdiction based on a
+2004). Moreover, even private networks not connected
+
+     How Can We Deter Cyber Terrorism?
+
+109
+
+  Other Countries                       National                          Free
+
+                   Page 16
+Internet                               reference_4.txt                           Service
+Providers                                     Government
+· Cooperate with other                                                    · Tighten the access
+                              · Cooperate with other national                of the free
+   national jurisdictions to      jurisdictions to share                     service
+control                           information                                       Organizations
+
+   share information          · Invest on Internet                       · Train employees to
+Internet                              Authentication Technologies            prevent
+
+         (See National        · Educate citizens                         · Adopt latest
+         Government           · Cooperate with ISPs to                       technologies
+         Policies)                                                                       Citizens
+                                  tighten access controls
+Cyber-Terrorism               · Legal Infrastructure                     · Receive education
+                                                                             Internet usage
+security                                   Internet Service
+                                                 Providers
+on the
+                                 · Adopt the latest security
+                                       technologies
+
+                              · Record users activities
+
+FIGURE 2 Framework of enhancing deterrence for cyber terrorism.
+
+    state's borders (e.g., antitrust conspiracies effecting              TCP/IPv4 protocol
+(see section 3). With increased                                          investments in
+                                                                         ing problem of any
+    local businesses), universal jurisdiction based on the               even IPv6, which uses
+universal adoption of IPv6, track-                                       Security (IPsec) to
+                                                                         OSI Layer 3, may not
+    extreme gravity of the crime (e.g., piracy, slavery,                 since IPv6 with
+packets can be solved. However,                                          the purpose of
+
+    war crimes), and protective jurisdiction based on the
+the secure Internet Protocol
+
+    threat to a state e.g., counterfeiting, treason. Gable
+encrypt all data packets at
+
+    (2009) argues that universal jurisdiction is most
+solve all issues, especially
+
+    suited to cyber terrorism and is the most efficient
+backwards compatibility defeats
+
+    way of deterring such crimes. Universal jurisdic-
+authentication. Moreover, terror-
+
+                                                                Page 17
+                                                         reference_4.txt                          ists may manage to
+    tion can be based on treaties among nations or                                                cated machine.
+acquire a previously authenti-                                                                    towards creation of
+    in customary international law. Numerous treaties                                             embed authentication
+Increased funding may be directed                                                            3. Enhance cooperation
+    exist to prosecute terrorists, such as the Convention                                         local ISPs. If ISPs
+protocols and processes that                                                                      to record all
+    to Prevent and Punish Acts of Terrorism Taking                                                ier for investigators
+at all levels (Lipson, 2002).                                                                     terrorists (Morris,
+    the Form of Crimes Against Persons and Related                                           4. Educate and train the
+between law enforcement and                                                                       cyber terrorism. A
+    Extortion that are of International Significance, and                                         users to implement an
+can use advanced technologies                                                                     wireless networks
+    the International Convention for the Suppression                                              from acquiring
+connection requests, it is much eas-                                                              may mandate that the
+    of Terrorist Bombings. These treaties can conceiv-                                            wireless access
+to track and lockdown the cyber                                                                   prohibit any access
+    ably be applied to cyber terrorism (Gable). Similarly,
+2001; Benoist, 2008).                                                                                  Organizations'
+    the United Nations (UN) Security Council has                                                the latest
+public to protect them from                                                                     employees to prevent
+    condemned terrorism through Security Council                                                latest authentication
+policy of mandating all wireless                                                                tighten the access
+    Resolutions 1373, 1566, and 1624. UN Resolution                                             wireless access
+access control scheme to their
+    51/210 is specifically aimed at cyber terrorism.
+should prevent cyber terrorists
+2. Fund research on adoption of Internet authenti-
+Internet resources easily. The policy
+    cation technologies. Current technologies to track
+default configuration of all
+    sophisticated cyber terrorists are lacking in trac-
+points be set to a secure protocol and
+    ing capabilities primarily due to the design of the
+without a unique key assigned to
+
+J. Hua and S. Bapna
+                                                                                        110
+
+  each and every individual (Morris, 2001). However,
+responsibilities include (1) adopting
+
+    this needs to be balanced by privacy rights.
+authentication technologies and (2) training
+5. Create a legal infrastructure that will lead to quick
+cyber terrorism. By adopting the
+
+    and effective prosecution of hackers and white col-
+technologies, organizations can
+
+    lar computer crimes. The infrastructure becomes a
+control of their wired network and
+
+    signaling mechanism to potential cyber terrorists
+
+                                                                Page 18
+                                                         reference_4.txt  rorists to use the
+points. It will be difficult for cyber ter-                               access points. By
+                                                                          rorism, organizations
+    and thus increases their costs of conducting harmful                  of human beings. It
+evil twin method to intrude wireless                                      rorists to utilize
+                                                                          points, which are
+    activities.                                                           an individuals or a
+training employees against cyber ter-                                     icy infrastructures of
+                                                                          support organizations.
+can minimize the vulnerabilities
+    Of these five policies, the first four deal with pol-                     All nations should
+                                                                          not all nations may
+will be difficult for cyber ter-                                          els of deterrence.
+icy decisions that a central/local government needs to                    States, can fund the
+social engineering and rogue access                                       authentication
+make. The legal infrastructure is the glue that binds                     tion. They should
+unauthorized access points built by                                       Internet usage along
+these and other cyber security policies.                                  If a country refuses
+department. The technical and pol-                                        cedure, policies can
+                                                                          their incoming
+cyber-terrorism deterrence should                                         the rate at which
+    Internet service providers' responsibilities include                  the affected nation.
+                                                                          black list (e.g.,
+(1) adopting the latest authentication technologies and                   until that country
+(2) logging the Internet connections. By adopting the                     anti-cyber-terrorism
+adopt similar policies. However,
+latest authentication technologies, it will be difficult for
+have the resources to fund all lev-
+cyber terrorists to spoof their MAC and IP addresses.
+Nations at risk, such as the United
+By logging the Internet connections, investigators can
+adoption of the latest Internet
+obtain the raw historical data about all users' activ-
+technologies and share that informa-
+ities. The technical infrastructure of cyber terrorism
+tighten their access control of the
+deterrence should support all such responsibilities.
+with the help of their local ISPs.
+
+to adopt anti-cyber-terrorism pro-
+    Free Internet service providers need to tighten their
+
+be implemented that monitor
+access control of free Internet services. Proper identifi-
+Internet IP packets and slow down
+cation should be required to use their free Internet ser-
+Internet packets are handled within
+vices, especially for their free wireless Internet services.
+That country may be put on a
+Free training on Internet security should be provided
+Financial Action Task Force blacklist)
+by local governments to their citizens. Education and
+implements the satisfactory level of
+mass marketing efforts to citizens should focus on the
+
+                                                                Page 19
+                                                         reference_4.txt  infrastructure needs
+procedures. An international legal                                        deterrence.
+citizens to secure their home wireless networks against
+to be created for cyber-terrorism                                             Figure 3 shows the
+unauthorized uses. The technical and policy infrastruc-                   in each of the three
+tures of cyber terrorism deterrence should support the
+free Internet service providers.
+impact of increasing resources
+
+infrastructures. The lowest most
+
+            FIGURE 3 Impact of improved resource allocations in cyber terrorism
+
+infrastructures. (color figure available online.)
+
+111 How Can We Deter Cyber Terrorism?
+
+ plot (in red) shows a base deterrence function - it                      such extensions that
+
+may be of interest to practitioners
+
+takes considerable resources to achieve a significant                     and academic
+
+researchers alike.
+
+deterrence level. Improvements in the legal infras-
+
+tructure result in shifting the plot to the left; that                    This paper has
+
+discussed several issues with respect
+
+is, fewer resources are needed to achieve the same                        to deterring cyber
+
+terrorists, focusing on the identifica-
+
+deterrence level (shown in blue). By improvements in                      tion aspects of
+
+terrorists. However, an open issue still
+
+resources allocated towards the policy infrastructure                     remains on how to
+
+signal the identification and punish-
+
+along with improvements in the legal infrastructure,                      ment level to the
+
+cyber-terrorist community. We sug-
+
+lesser resources are needed to achieve the same deter-                    gest that positive news
+
+reports disseminated on TVs
+
+rence level (shown in green). By further improving                        or newspapers can alert
+
+potential cyber terrorists (e.g.,
+
+the technical infrastructure, fewer resources are needed
+
+http://www.cybercrime.gov/). Cyber terrorists will be
+
+for a target deterrence level (shown in purple). In this                  warned that this is not
+
+a "catch me if you can" game but
+
+figure, the placement of improvements in the techni-                      a "we can catch if you
+
+do" game. Evaluating the effect
+
+cal, policy, and legal infrastructures can be swapped                     of sending signals to
+
+the cyber-terrorist community is
+
+without loss of generality. However, to achieve any                       the focus of our
+
+ongoing research project.
+
+meaningful benefit for deterrence for cyber terror-
+
+ism, resources need to be expended for all the three
+
+REFERENCES
+
+infrastructures.
+
+                                                                          Aitoro, J. R. (2009a).
+
+Cyber attacks against critical U.S. networks ris-
+
+                                       Page 20
+                                                         reference_4.txt  ing at a faster
+                        5. CONCLUSION
+rate. Retrieved from http://www.nextgov.com/nextgov/
+
+ng_20091208_4177.php                                                      Aitoro, J. R. (2009b).
+    Cyber terrorism is threatening our national secu-                           attacks against
+
+rity and a major attack can be mounted at any time.                       Anandarajan, M., &
+Terrorists nearing ability to launch big cyber                                  place: A guide to
+This paper explores the literature on cyber terrorism,                          Idea Group Inc
+U.S. Retrieved from http://www.nextgov.com/nextgov/
+cyber terrorists, and deterrence aspects. In order to                     Becker, S. G. (1968).
+ng_20091002_9081.php                                                            Journal of Politic
+deter cyber terrorism, we customarily think of increas-
+ing the punishment severity unilaterally. However, the                    Bellovin, S. M. (2004).
+Simmers, C. (2004). Personal web usage in the work-                             TCP/IP protocol
+effect of deterrence depends not only on the punish-                            Security
+effective human resources management. Hershey:                                  IEEE Computer
+ment severity but also on the proper identification of
+(IGI).                                                                    Benoist, E. (2008).
+the terrorists. To increase the identification probability,                     In Profiling the
+we must increase the probability of successfully track-                         169-184). Houten,
+Crime and punishment: An economic approach.
+ing cyber terrorists. However, the tracking mechanisms
+Economy, 76(2), 167-217.
+have many legal and technical challenges, which are
+discussed in this paper. We proposed a framework to
+A look back at "security problems in the
+overcome these challenges and enhance our capabili-
+suite". Proceedings of the 20th Annual Computer
+ties to deter cyber terrorism. We propose three types of
+Applications Conference (pp. 229-249). Washington, D.C.:
+infrastructures to deter cyber terrorism: technical, pol-
+Society.
+icy, and legal. Each of the three infrastructures must be
+present in order for a deterrence policy to be effective.
+Collecting data for the profiling of web users.
+For each of the three infrastructures, we have listed key
+European citizen cross-disciplinary perspective (pp.
+areas that need to be examined.
+Netherlands: Springer.
+
+    In this paper, while we have listed the key areas to                  Cameron, S. (1988). The
+economics of crime deterrence: A survey of                                      theory and
+be examined, we have not done any sensitivity anal-
+evidence. Kyklos, 41(2), 301-323.                                         Carns, M. P. C. (2001).
+ysis on each of the key areas. For example, we have                             a peaceful and
+not addressed the issue of determining the marginal
+Reopening the deterrence debate: Thinking about
+benefits of expending resources on each of the key
+
+                                                                Page 21
+                                                         reference_4.txt        11(2), 7-16.
+prosperous tomorrow. Small Wars & Insurgencies,                           Chu, H., Deng, D.,
+areas. Our future work addresses this by developing an
+optimal resource allocation model to deter cyber ter-                           of terrorism:
+rorism. This paper provides a foundation to work on                             all intangible
+Chao, H., & Huang, Y. (2009). Next generation                                   2373-2386.
+
+Ubiquitous cyber terrorism with the accumulation of
+J. Hua and S. Bapna
+fears. Journal of Universal Computer Science, 15(12),
+
+Hensgen, T. (2003). Semiotic emergent framework to                        Desouza, K. C., &
+of cyber terrorism. Technological Forecasting and                               address the reality
+70(4), 385-396.                                                                 Social Change,
+
+(2002). Cyberterrorism. American Behavioral Scientist,                    Embar-Seddon, A.
+                                                                                45(6), 1033-1043.
+
+Cyber terrorism, computer crime, and reality.                             Foltz, C. B. (2004).
+Management & Computer Security, 12(2/3), 154-166.                               Information
+
+Luechinger, S. (2002). How to fight terrorism: Alternatives               Frey, B. S., &
+Retrieved from http://ssrn.com/abstract=359824                                  to deterrence.
+
+Cyber-Apocalypse now: Securing the Internet                               Gable, K. A. (2009).
+terrorism and using universal jurisdiction as a deterrent.                      against cyber
+http://ssrn.com/abstract=1452803                                                Retrieved from
+
+Politicians speak out on cyber terrorism. Network                         Gengler, B. (1999).
+6.                                                                              Security, 1999(10),
+
+Deterring the terrorist: A psychological evaluation of                    Ginges, J. (1997).
+                                                                                different
+strategies for deterring terrorism. Terrorism and Political
+                                                                Page 22
+          reference_4.txt
+
+                           Violence, 9(1),
+
+170-185.
+
+                                                                                         112  U.S.
+ Gordon, S., & Ford, R. (2002a). Cyberterrorism? Computer & Security,
+Straub, D. W., & Welke, R. J. (1998). Coping with systems risk: Security                            of
+                                                                                                    of
+      21(7), 636-647.
+planning models for management decision making. MIS Quarterly,
+
+22(4), 441-469.
+Griffith, D. A. (1999). Organizing to minimize a cyber-terrorist threat?
+
+      Marketing Management, 8(2), 9-15.
+Sunstein, C. (2003). Why societies need dissent. Cambridge, MA: Harvard
+
+University Press.
+Hansen, J. V., Lowry, P. B., Meservy, R., & McDonald, D. (2005). Genetic
+
+      programming for prevention of cyber terrorism through dynamic
+Trachtman, J. P. (2004). Global cyber terrorism, jurisdiction and interna-
+
+      and evolving intrusion detection. Decision Support Systems, 43(4),
+tional organization. Retrieved from http://ssrn.com/abstract=566361
+
+      1362-1374.
+
+Government. (2009). 2009 report to Congress of the U.S.-China eco-
+Hassan, N. (2001). An arsenal of believers: Talking to the human bombs.
+nomic and security review commission. Retrieved from http://www.
+
+      The New Yorker, 77(36).
+uscc.gov/annual_report/2009/annual_report_full_09.pdf
+
+Hua, J., & Bapna, S. (2009). The impact of cyber terrorism on invest-
+US-CERT. (2005). Vulnerabilities in TCP. Retrieved from http://www.us-
+
+      ment for information system security. Proceedings of the 40th Annual
+cert.gov/cas/techalerts/TA04-111A.html
+
+      Meeting of Decision Science Institute, New Orleans, LA.
+
+Velasco, E., Chen, W., Ji, P., & Hsieh, R. (2008, August). Challenges
+IWAR. (2008). How might IW attacks on the United States be
+location tracking techniques in wireless forensics. Proceedings
+
+      deterred? Retrieved from http://www.iwar.org.uk/iwar/resources/
+International Conference on Intelligent Information Hiding and
+
+      deterrence/iwdCh2.htm
+Multimedia Signal Processing, Harbin, China.
+
+Jormakka, J., & Molsa, J. V. E. (2005). Modeling information warfare as a
+Verton, D. (2003). Black ice: The invisible threat of cyber terrorism.
+
+      game. Journal of Information Warfare, 4(2), 12-25.
+Emeryville, CA: McGraw Osborne Media.
+
+                                                                Page 23
+                                                         reference_4.txt      Wehde,
+Keet, M. (2003). Terrorism and game theory: Coalitions, negotiations          Wible,
+Victoroff, J. (2005). The mind of terrorist: A review and critique of
+                                                                                    A
+      and audience costs. Retrieved from http://keetwitnie.tripod.com/
+psychological approach. The Journal of Conflict Resolution, 49(1),
+
+      TerrorismGameTheory.pdf
+3-41.
+
+Krueger, A., & Maleckova, J. (2003). Education, poverty, political vio-
+Walker, C. (2006). Cyber terrorism: Legal principle and the law in the
+
+      lence, and terrorism: Is there a connection? Journal of Economic
+United Kingdom. Penn State Law Review, 110, 625-665.
+
+      Perspectives, 17(4), 119-144.
+
+E. (1998). U.S. vulnerable to cyber terrorism. Computer Fraud &
+Lipson, H. F. (2002). Tracking and tracing cyber attacks. Retrieved from
+Security, 1, 6-7.
+
+      http://www.cert.org/archive/pdf/02sr009.pdf
+
+B. (2003). A site where hackers are welcome: Using hack-in con-
+Morgan, M. J. (2004). The origins of new terrorism. Parameters, 34, 9-42.
+tests to shape preferences and deter computer crime. The Yale Law
+Morris, D. A. (2001). Tracking a computer hacker. Retrieved from http://
+Journal, 112(6), 1577-1623.
+
+      www.leetupload.com/database/Misc/Papers/Asta%20la%20Vista/
+Workman, M., & Gathegi, J. (2007). Punishment and ethics deterrents:
+
+      Web%20Papers/tracking_a_computer_hacker.doc
+study of insider security contravention. Journal of the American
+Nelson, B., Choi, R., Lacobucci, M., Mitchell, M., & Gagnon, G. (1996).
+Society for Information Science and Technology, 58(2), 212-222.
+
+      Cyber terror: Prospects and Implications. Retrieved 16 May 2008.
+Oksanen, V., & Valimaki, M. (2007). Theory of deterrence and individual
+Zeidanloo, H., & Ngadi, M. (2009). Intruder Location Tracking.
+
+      behavior. Can lawsuits control file sharing on the Internet? Review of
+Proceedings of the 2009 Second International Conference on
+
+      Law and Economics, 3(3), 693-714.
+Computer and Electrical Engineering (507-511). Washington, D.C.:
+Oprea, D., & Mesnita, G. (2005). The information system and the global
+IEEE Computer Society.
+
+      terrorism. Retrieved from http://ssrn.com/abstract=906289
+Parks, R. C., & Duggan, D. P. (2001, June). Principle of cyber-warfare.
+Zimring, F., & Hawkins, G. (1973). Deterrence. Chicago, IL: University of
+
+      Proceedings of the 2001 IEEE Workshop on Information Assurance
+Chicago Press.
+
+      and Security, West Point, NY.
+Pearson, F. S., & Weiner, N. A. (1985). Toward an integration of crimi-
+
+                BIOGRAPHIES
+      nological theories. Journal of Criminal Law and Criminology, 76(1),
+
+                                                                Page 24
+                                                         reference_4.txt        of
+      116-150.                                                                  at the
+Jian Hua is an associate professor in the Department                            the
+Pedahzur, A., Perliger, A., & Weinberg, L. (2003). Altruism and fatalism:
+Marketing, Legal Studies, and Information Systems                               has
+      The characteristics of Palestinian suicide terrorists. Deviant Behavior:  demic
+School of Business and Public Administration,                                   won
+      An Interdisciplinary Journal, 24, 405-423.                                2009
+University of the District of Columbia. His                                     served
+Rasmusen, E. (1995). How optimal penalties change with the amount               sion
+research interests include information security, cyber                          He
+      of harm. International Review of Law and Economics, 15(1),
+internal control, and cyber auditing. His paper                                 from
+      101-108.
+been published or accepted by several aca-
+Rebellon, C., & Manasse, M. (2004). Do "bad boys" really get the girls?
+journals and conferences. His research has
+      Delinquency as a cause and consequence of dating behavior among
+the Best Interdisciplinary Research Paper in
+      adolescents. Justice Quarterly, 21(2), 355-390.
+Decision Science National Conference. He also
+Rogers, M. (1999). Psychology of computer criminals. In Proceedings
+as a chair of Information Systems Security ses-
+      of the Annual Computer Security Institute Conference, St.
+in 2010 Decision Science National Conference.
+      Louis, MO.
+received his BS in Power Engineering from
+Rollins, J., & Wilson, C. (2007). Terrorist capabilities for cyber attack:
+Southeast University (China), his MS in Information
+      Overview and policy issues. Retrieved from http://italy.usembassy.gov/
+Engineering, and PhD in Business Administration
+      pdf/other/RL33123.pdf
+Morgan State University.
+Sageman, M. (2004). Understanding terror networks. Philadelphia, PA:
+      University of Pennsylvania Press.
+Sanjay Bapna is an associate professor in the
+Sherizen, S. (1995). Can computer crime be deterred? Security Journal,
+Information Sciences and Systems Department at
+      6, 177-181.
+Skibell, R. (2003). Cybercrime & misdemeanors: A reevaluation of the
+      computer fraud and abuse act. Berkeley Technology Law Journal, 18,
+      909-944.
+Stanton, J. J. (2002). Terror in cyberspace. American Behavioral Scientist,
+      45(6), 1017-1032.
+
+113 How Can We Deter Cyber Terrorism?                                      awarded the prestigious
+ Morgan State University. He has more than 20 years of                   Paper Award by the
+2009 Best Interdisciplinary
+experience in data gathering and modeling techniques.
+
+                                                                Page 25
+                                                         reference_4.txt  Institute. Another of his
+National Decision Sciences                                                the Best Paper by the
+He has worked extensively as a principal investigator                     of Computer Information
+papers has been awarded                                                   B. Tech. in Chemical
+for numerous funded studies related to commercial                         Institute of Technology
+International Association                                                 cialization in
+vehicle operations with the State of Maryland. His                        of Iowa.
+Systems. He obtained a
+peer-reviews papers on computer security, privacy, and
+Engineering from the Indian
+decision making have been published in top-quality
+and MBA and PhD with spe-
+journals including Decision Sciences and Decision Support
+information systems from the University
+Systems. A joint paper with Dr. Jian Hua was recently
+
+J. Hua and S. Bapna                                                       114
+
+ Copyright of Information Security Journal: A Global Perspective is the property of
+
+Taylor & Francis Ltd and its
+
+content may not be copied or emailed to multiple sites or posted to a listserv
+
+without the copyright holder's
+
+express written permission. However, users may print, download, or email articles
+
+for individual use.
+
+DarthVader@umich.edu
+
+skywalker@indiana.edu
+
+princess.leia@iupui.edu
+
+ian@caret.am.ac.uu
+
+lazr@umich.edu
+
+robotz@iui.edu
+
+ 
+
+                                Page 26
+
